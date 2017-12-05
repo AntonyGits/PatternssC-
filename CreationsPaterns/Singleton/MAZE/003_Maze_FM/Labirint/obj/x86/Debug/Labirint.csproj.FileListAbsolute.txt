@@ -1,0 +1,12 @@
+D:\Labirint\Labirint\bin\Debug\Labirint.exe
+D:\Labirint\Labirint\bin\Debug\Labirint.pdb
+D:\Labirint\Labirint\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Labirint\Labirint\obj\x86\Debug\Labirint.exe
+D:\Labirint\Labirint\obj\x86\Debug\Labirint.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\LABIRINT\003_Labirint\Labirint\obj\x86\Debug\Labirint.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\LABIRINT\003_Labirint\Labirint\obj\x86\Debug\Labirint.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\LABIRINT\003_Labirint\Labirint\bin\Debug\Labirint.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\LABIRINT\003_Labirint\Labirint\bin\Debug\Labirint.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\LABIRINT\003_Labirint\Labirint\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\MAZE\003_Labirint_FM\Labirint\obj\x86\Debug\Labirint.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\MAZE\003_Labirint_FM\Labirint\obj\x86\Debug\Labirint.pdb

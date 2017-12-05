@@ -1,0 +1,7 @@
+D:\002_Containers\Containers2\bin\Debug\Containers2.exe
+D:\002_Containers\Containers2\bin\Debug\Containers2.pdb
+D:\002_Containers\Containers2\obj\Debug\002_Containers.csprojResolveAssemblyReference.cache
+D:\002_Containers\Containers2\obj\Debug\Containers2.exe
+D:\002_Containers\Containers2\obj\Debug\Containers2.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\002_Containers\Containers2\obj\Debug\Containers2.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\002_Containers\Containers2\obj\Debug\Containers2.pdb

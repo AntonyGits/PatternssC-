@@ -1,0 +1,5 @@
+D:\VM_in_Constructor\VM_in_Constructor\bin\Debug\VM_in_Constructor.exe
+D:\VM_in_Constructor\VM_in_Constructor\bin\Debug\VM_in_Constructor.pdb
+D:\VM_in_Constructor\VM_in_Constructor\obj\Debug\VM_in_Constructor.csprojResolveAssemblyReference.cache
+D:\VM_in_Constructor\VM_in_Constructor\obj\Debug\VM_in_Constructor.exe
+D:\VM_in_Constructor\VM_in_Constructor\obj\Debug\VM_in_Constructor.pdb

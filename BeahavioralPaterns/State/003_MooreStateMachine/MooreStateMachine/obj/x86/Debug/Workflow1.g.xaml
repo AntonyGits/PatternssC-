@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<m:Workflow1 xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:av="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:m="clr-namespace:MooreStateMachine;assembly=MooreStateMachine" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mca="clr-namespace:Microsoft.CSharp.Activities;assembly=System.Activities" xmlns:sads="http://schemas.microsoft.com/netfx/2010/xaml/activities/debugger" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Text</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.CSharp</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization</AssemblyReference>
+      <AssemblyReference>System.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.ServiceModel.Activities</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>MooreStateMachine</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <m:Workflow1.Implementation>
+    <StateMachine>
+      <StateMachine.InitialState>
+        <State x:Name="__ReferenceID0" DisplayName="Y3/S0">
+          <State.Entry>
+            <Sequence>
+              <WriteLine Text="Entry S0" />
+              <Sequence DisplayName="Operation Y3">
+                <WriteLine Text="Y3" />
+              </Sequence>
+              <WriteLine Text="Please enter a number 0 or 1" />
+              <Assign>
+                <Assign.To>
+                  <OutArgument x:TypeArguments="x:Int32">
+                    <mca:CSharpReference x:TypeArguments="x:Int32">x</mca:CSharpReference>
+                  </OutArgument>
+                </Assign.To>
+                <Assign.Value>
+                  <InArgument x:TypeArguments="x:Int32">
+                    <mca:CSharpValue x:TypeArguments="x:Int32">Convert.ToInt32(Console.ReadLine());</mca:CSharpValue>
+                  </InArgument>
+                </Assign.Value>
+              </Assign>
+            </Sequence>
+          </State.Entry>
+          <State.Exit>
+            <WriteLine>
+              <InArgument x:TypeArguments="x:String">
+                <mca:CSharpValue x:TypeArguments="x:String">"Exit S0" + "\n" + new string('-', 20)</mca:CSharpValue>
+              </InArgument>
+            </WriteLine>
+          </State.Exit>
+          <State.Transitions>
+            <Transition DisplayName="0">
+              <Transition.Condition>
+                <mca:CSharpValue x:TypeArguments="x:Boolean">x==0</mca:CSharpValue>
+              </Transition.Condition>
+              <Transition.To>
+                <State x:Name="__ReferenceID2" DisplayName="Y2/S1">
+                  <State.Entry>
+                    <Sequence>
+                      <WriteLine Text="Entry S1" />
+                      <Sequence DisplayName="Operation Y2">
+                        <WriteLine Text="Y2" />
+                      </Sequence>
+                      <WriteLine Text="Please enter a number 0 or 1" />
+                      <Assign>
+                        <Assign.To>
+                          <OutArgument x:TypeArguments="x:Int32">
+                            <mca:CSharpReference x:TypeArguments="x:Int32">x</mca:CSharpReference>
+                          </OutArgument>
+                        </Assign.To>
+                        <Assign.Value>
+                          <InArgument x:TypeArguments="x:Int32">
+                            <mca:CSharpValue x:TypeArguments="x:Int32">Convert.ToInt32(Console.ReadLine());</mca:CSharpValue>
+                          </InArgument>
+                        </Assign.Value>
+                      </Assign>
+                    </Sequence>
+                  </State.Entry>
+                  <State.Exit>
+                    <WriteLine>
+                      <InArgument x:TypeArguments="x:String">
+                        <mca:CSharpValue x:TypeArguments="x:String">"Exit S1" + "\n" + new string('-', 20)</mca:CSharpValue>
+                      </InArgument>
+                    </WriteLine>
+                  </State.Exit>
+                  <State.Transitions>
+                    <Transition DisplayName="1" To="{x:Reference __ReferenceID0}">
+                      <Transition.Condition>
+                        <mca:CSharpValue x:TypeArguments="x:Boolean">x==1</mca:CSharpValue>
+                      </Transition.Condition>
+                    </Transition>
+                    <Transition DisplayName="0">
+                      <Transition.Condition>
+                        <mca:CSharpValue x:TypeArguments="x:Boolean">x==0</mca:CSharpValue>
+                      </Transition.Condition>
+                      <Transition.To>
+                        <State x:Name="__ReferenceID5" DisplayName="Y1/S4">
+                          <State.Entry>
+                            <Sequence>
+                              <WriteLine Text="Entry S4" />
+                              <Sequence DisplayName="Operation Y1">
+                                <WriteLine Text="Y1" />
+                              </Sequence>
+                              <WriteLine Text="Please enter a number 0 or 1" />
+                              <Assign>
+                                <Assign.To>
+                                  <OutArgument x:TypeArguments="x:Int32">
+                                    <mca:CSharpReference x:TypeArguments="x:Int32">x</mca:CSharpReference>
+                                  </OutArgument>
+                                </Assign.To>
+                                <Assign.Value>
+                                  <InArgument x:TypeArguments="x:Int32">
+                                    <mca:CSharpValue x:TypeArguments="x:Int32">Convert.ToInt32(Console.ReadLine());</mca:CSharpValue>
+                                  </InArgument>
+                                </Assign.Value>
+                              </Assign>
+                            </Sequence>
+                          </State.Entry>
+                          <State.Exit>
+                            <WriteLine>
+                              <InArgument x:TypeArguments="x:String">
+                                <mca:CSharpValue x:TypeArguments="x:String">"Exit S4" + "\n" + new string('-', 20)</mca:CSharpValue>
+                              </InArgument>
+                            </WriteLine>
+                          </State.Exit>
+                          <State.Transitions>
+                            <Transition DisplayName="0">
+                              <Transition.Condition>
+                                <mca:CSharpValue x:TypeArguments="x:Boolean">x==0</mca:CSharpValue>
+                              </Transition.Condition>
+                              <Transition.To>
+                                <State x:Name="__ReferenceID1" DisplayName="Y0/S2">
+                                  <State.Entry>
+                                    <Sequence>
+                                      <WriteLine Text="Entry S2" />
+                                      <Sequence DisplayName="Operation Y0">
+                                        <WriteLine Text="Y0" />
+                                      </Sequence>
+                                      <WriteLine Text="Please enter a number 0 or 1" />
+                                      <Assign>
+                                        <Assign.To>
+                                          <OutArgument x:TypeArguments="x:Int32">
+                                            <mca:CSharpReference x:TypeArguments="x:Int32">x</mca:CSharpReference>
+                                          </OutArgument>
+                                        </Assign.To>
+                                        <Assign.Value>
+                                          <InArgument x:TypeArguments="x:Int32">
+                                            <mca:CSharpValue x:TypeArguments="x:Int32">Convert.ToInt32(Console.ReadLine());</mca:CSharpValue>
+                                          </InArgument>
+                                        </Assign.Value>
+                                      </Assign>
+                                    </Sequence>
+                                  </State.Entry>
+                                  <State.Exit>
+                                    <WriteLine>
+                                      <InArgument x:TypeArguments="x:String">
+                                        <mca:CSharpValue x:TypeArguments="x:String">"Exit S2" + "\n" + new string('-', 20)</mca:CSharpValue>
+                                      </InArgument>
+                                    </WriteLine>
+                                  </State.Exit>
+                                  <State.Transitions>
+                                    <Transition DisplayName="0" To="{x:Reference __ReferenceID1}">
+                                      <Transition.Condition>
+                                        <mca:CSharpValue x:TypeArguments="x:Boolean">x==0</mca:CSharpValue>
+                                      </Transition.Condition>
+                                    </Transition>
+                                    <Transition DisplayName="1" To="{x:Reference __ReferenceID0}">
+                                      <Transition.Condition>
+                                        <mca:CSharpValue x:TypeArguments="x:Boolean">x==1</mca:CSharpValue>
+                                      </Transition.Condition>
+                                    </Transition>
+                                  </State.Transitions>
+                                </State>
+                              </Transition.To>
+                            </Transition>
+                            <Transition DisplayName="1" To="{x:Reference __ReferenceID0}">
+                              <Transition.Condition>
+                                <mca:CSharpValue x:TypeArguments="x:Boolean">x==1</mca:CSharpValue>
+                              </Transition.Condition>
+                            </Transition>
+                          </State.Transitions>
+                        </State>
+                      </Transition.To>
+                    </Transition>
+                  </State.Transitions>
+                </State>
+              </Transition.To>
+            </Transition>
+            <Transition DisplayName="1">
+              <Transition.Condition>
+                <mca:CSharpValue x:TypeArguments="x:Boolean">x==1</mca:CSharpValue>
+              </Transition.Condition>
+              <Transition.To>
+                <State x:Name="__ReferenceID4" DisplayName="Y4/S3">
+                  <State.Entry>
+                    <Sequence>
+                      <WriteLine Text="Entry S3" />
+                      <Sequence DisplayName="Operation Y4">
+                        <WriteLine Text="Y4" />
+                      </Sequence>
+                      <WriteLine Text="Please enter a number 0 or 1" />
+                      <Assign>
+                        <Assign.To>
+                          <OutArgument x:TypeArguments="x:Int32">
+                            <mca:CSharpReference x:TypeArguments="x:Int32">x</mca:CSharpReference>
+                          </OutArgument>
+                        </Assign.To>
+                        <Assign.Value>
+                          <InArgument x:TypeArguments="x:Int32">
+                            <mca:CSharpValue x:TypeArguments="x:Int32">Convert.ToInt32(Console.ReadLine());</mca:CSharpValue>
+                          </InArgument>
+                        </Assign.Value>
+                      </Assign>
+                    </Sequence>
+                  </State.Entry>
+                  <State.Exit>
+                    <WriteLine>
+                      <InArgument x:TypeArguments="x:String">
+                        <mca:CSharpValue x:TypeArguments="x:String">"Exit S3" + "\n" + new string('-', 20)</mca:CSharpValue>
+                      </InArgument>
+                    </WriteLine>
+                  </State.Exit>
+                  <State.Transitions>
+                    <Transition DisplayName="0" To="{x:Reference __ReferenceID2}">
+                      <Transition.Condition>
+                        <mca:CSharpValue x:TypeArguments="x:Boolean">x==0</mca:CSharpValue>
+                      </Transition.Condition>
+                    </Transition>
+                    <Transition DisplayName="1">
+                      <Transition.Condition>
+                        <mca:CSharpValue x:TypeArguments="x:Boolean">x==1</mca:CSharpValue>
+                      </Transition.Condition>
+                      <Transition.To>
+                        <State x:Name="__ReferenceID3" DisplayName="Y5/S5">
+                          <State.Entry>
+                            <Sequence>
+                              <WriteLine Text="Entry S5" />
+                              <Sequence DisplayName="Operation Y5">
+                                <WriteLine Text="Y5" />
+                              </Sequence>
+                              <WriteLine Text="Please enter a number 0 or 1" />
+                              <Assign>
+                                <Assign.To>
+                                  <OutArgument x:TypeArguments="x:Int32">
+                                    <mca:CSharpReference x:TypeArguments="x:Int32">x</mca:CSharpReference>
+                                  </OutArgument>
+                                </Assign.To>
+                                <Assign.Value>
+                                  <InArgument x:TypeArguments="x:Int32">
+                                    <mca:CSharpValue x:TypeArguments="x:Int32">Convert.ToInt32(Console.ReadLine());</mca:CSharpValue>
+                                  </InArgument>
+                                </Assign.Value>
+                              </Assign>
+                            </Sequence>
+                          </State.Entry>
+                          <State.Exit>
+                            <WriteLine>
+                              <InArgument x:TypeArguments="x:String">
+                                <mca:CSharpValue x:TypeArguments="x:String">"Exit S5" + "\n" + new string('-', 20)</mca:CSharpValue>
+                              </InArgument>
+                            </WriteLine>
+                          </State.Exit>
+                          <State.Transitions>
+                            <Transition DisplayName="1" To="{x:Reference __ReferenceID3}">
+                              <Transition.Condition>
+                                <mca:CSharpValue x:TypeArguments="x:Boolean">x==1</mca:CSharpValue>
+                              </Transition.Condition>
+                            </Transition>
+                            <Transition DisplayName="0" To="{x:Reference __ReferenceID2}">
+                              <Transition.Condition>
+                                <mca:CSharpValue x:TypeArguments="x:Boolean">x==0</mca:CSharpValue>
+                              </Transition.Condition>
+                            </Transition>
+                          </State.Transitions>
+                        </State>
+                      </Transition.To>
+                    </Transition>
+                  </State.Transitions>
+                </State>
+              </Transition.To>
+            </Transition>
+          </State.Transitions>
+        </State>
+      </StateMachine.InitialState>
+      <x:Reference>__ReferenceID0</x:Reference>
+      <x:Reference>__ReferenceID2</x:Reference>
+      <x:Reference>__ReferenceID1</x:Reference>
+      <x:Reference>__ReferenceID4</x:Reference>
+      <x:Reference>__ReferenceID3</x:Reference>
+      <x:Reference>__ReferenceID5</x:Reference>
+      <StateMachine.Variables>
+        <Variable x:TypeArguments="x:Int32" Name="x" />
+      </StateMachine.Variables>
+      <sads:DebugSymbol.Symbol>9xCIkaN1D0ItNr5NHFAxWzcNNUQ6XE1vb3JlU3RhdGVNYWNoaW5lXE1vb3JlU3RhdGVNYWNoaW5lXFdvcmtmbG93MS54YW1sYSYDuQISAgEBKAetAg8CAXVLD8wBFwIBXpYBH78BJwIBR9QBD6kCFwIBMPwBF6UCHwIBGXMXyAEfAgECKgs8FgIBfz8LQxcCAXxID0hSAgF50QEP0QFSAgF3TRNfHgIBaGITZh8CAWVrF2taAgFicBdwWgIBYJgBI6oBLgIBUa0BI7EBLwIBTrYBJ7YBagIBS7sBJ7sBagIBSdYBE+gBHgIBOusBE+8BHwIBN/QBF/QBWgIBNPkBF/kBWgIBMv4BG5ACJgIBI5MCG5cCJwIBIJwCH5wCYgIBHaECH6ECYgIBG3UbhwEmAgEMigEbjgEnAgEJkwEfkwFiAgEGxAEfxAFiAgEEKw0rWAMBigEsDS4YAwGHAS8NL2wDAYUBMA07FgMBgAFBD0FzAgF9ThVOYAIBc08VUSACAXBSFVJ0AgFuUxVeHgIBaWQXZHsCAWaZASWZAXECAVyaASWcATACAVmdASWdAYUBAgFXngElqQEuAgFSrwEnrwGLAQIBT9cBFdcBYQIBRdgBFdoBIAIBQtsBFdsBdQIBQNwBFecBHgIBO+0BF+0BewIBOP8BHf8BaQIBLoACHYICKAIBK4MCHYMCfQIBKYQCHY8CJgIBJJUCH5UCgwECASF2HXZoAgEXdx15KAIBFHoden0CARJ7HYYBJgIBDYwBH4wBgwECAQorSytVAwGLAS0PLVQDAYgBL0svaQMBhgE4Ezh0AwGDATMTM1kDAYEBTlNOXQIBdFAXUFwCAXFSU1JxAgFvWxtbfAIBbFYbVmECAWqZAWSZAW4CAV2bASebAW0CAVqdAWSdAYIBAgFYpgErpgGMAQIBVaEBK6EBcQIBU9cBVNcBXgIBRtkBF9kBXQIBQ9sBVNsBcgIBQeQBG+QBfAIBPt8BG98BYQIBPP8BXP8BZgIBL4ECH4ECZQIBLIMCXIMCegIBKowCI4wChAECASeHAiOHAmkCASV2W3ZlAgEYeB94ZQIBFXpcenoCARODASODAYQBAgEQfiN+aQIBDi1NLVEDAYkBUFVQWQIBcpsBZpsBagIBW9kBVtkBWgIBRIECXoECYgIBLXheeGICARY=</sads:DebugSymbol.Symbol>
+    </StateMachine>
+  </m:Workflow1.Implementation>
+</m:Workflow1>

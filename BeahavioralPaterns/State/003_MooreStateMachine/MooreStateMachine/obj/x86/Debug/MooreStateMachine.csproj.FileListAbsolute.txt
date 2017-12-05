@@ -1,0 +1,23 @@
+D:\MooreStateMachine\MooreStateMachine\bin\Debug\MooreStateMachine.exe.config
+D:\MooreStateMachine\MooreStateMachine\bin\Debug\MooreStateMachine.exe
+D:\MooreStateMachine\MooreStateMachine\bin\Debug\MooreStateMachine.pdb
+D:\MooreStateMachine\MooreStateMachine\obj\x86\Debug\MooreStateMachine.csprojResolveAssemblyReference.cache
+D:\MooreStateMachine\MooreStateMachine\obj\x86\Debug\Workflow1.g.xaml
+D:\MooreStateMachine\MooreStateMachine\obj\x86\Debug\MooreStateMachine_Workflow1_BeforeInitializeComponentHelper.txt
+D:\MooreStateMachine\MooreStateMachine\obj\x86\Debug\_MooreStateMachine.g.cs
+D:\MooreStateMachine\MooreStateMachine\obj\x86\Debug\Workflow1.g.cs
+D:\MooreStateMachine\MooreStateMachine\obj\x86\Debug\MooreStateMachine_Workflow1_BeforeInitializeComponentHelper.cs
+D:\MooreStateMachine\MooreStateMachine\obj\x86\Debug\MooreStateMachine.csproj.XamlGeneratedCodeFileListAbsolute.txt
+D:\MooreStateMachine\MooreStateMachine\obj\x86\Debug\MooreStateMachine.csproj.XamlGeneratedXamlFileListAbsolute.txt
+D:\MooreStateMachine\MooreStateMachine\obj\x86\Debug\MooreStateMachine.csproj.FileListAbsolute.txt
+D:\MooreStateMachine\MooreStateMachine\obj\x86\Debug\MooreStateMachine.dll
+D:\MooreStateMachine\MooreStateMachine\obj\x86\Debug\MooreStateMachine.pdb
+D:\MooreStateMachine\MooreStateMachine\obj\x86\Debug\MooreStateMachine_Workflow1_CompiledExpressionRoot.cs
+D:\MooreStateMachine\MooreStateMachine\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+D:\MooreStateMachine\MooreStateMachine\obj\x86\Debug\InProcessTempFiles\Workflow1.g.cs
+D:\MooreStateMachine\MooreStateMachine\obj\x86\Debug\InProcessTempFiles\Workflow1.g.xaml
+D:\MooreStateMachine\MooreStateMachine\obj\x86\Debug\InProcessTempFiles\_MooreStateMachine.g.cs
+D:\MooreStateMachine\MooreStateMachine\obj\x86\Debug\MooreStateMachine.exe
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\002_MooreStateMachine\MooreStateMachine\bin\Debug\MooreStateMachine.exe.config
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\002_MooreStateMachine\MooreStateMachine\obj\x86\Debug\MooreStateMachine.exe
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\002_MooreStateMachine\MooreStateMachine\obj\x86\Debug\MooreStateMachine.pdb

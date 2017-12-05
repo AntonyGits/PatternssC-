@@ -1,0 +1,26 @@
+D:\Interpreter\Interpreter\bin\Debug\Interpreter.exe
+D:\Interpreter\Interpreter\bin\Debug\Interpreter.pdb
+D:\Interpreter\Interpreter\obj\Debug\ResolveAssemblyReference.cache
+D:\Interpreter\Interpreter\obj\Debug\Interpreter.exe
+D:\Interpreter\Interpreter\obj\Debug\Interpreter.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\015_Interpreter\001_Interpreter\Interpreter\obj\Debug\Interpreter.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\015_Interpreter\001_Interpreter\Interpreter\obj\Debug\Interpreter.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\015_Interpreter\001_Interpreter\Interpreter\obj\Debug\Interpreter.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\015_Interpreter\001_Interpreter\Interpreter\obj\Debug\Interpreter.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\015_Interpreter\001_Interpreter\Interpreter\bin\Debug\Interpreter.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\015_Interpreter\001_Interpreter\Interpreter\bin\Debug\Interpreter.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\015_Interpreter\001_Interpreter\Interpreter\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\015_Interpreter\001_Interpreter\Interpreter\obj\Debug\Interpreter.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\015_Interpreter\001_Interpreter\Interpreter\obj\Debug\Interpreter.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\015_Interpreter\001_Interpreter\Interpreter\bin\Debug\Interpreter.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\015_Interpreter\001_Interpreter\Interpreter\bin\Debug\Interpreter.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\015_Interpreter\001_Interpreter\Interpreter\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\015_Interpreter\001_Interpreter\Interpreter\obj\Debug\Interpreter.exe
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\015_Interpreter\001_Interpreter\Interpreter\obj\Debug\Interpreter.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\015_Interpreter\001_Interpreter\Interpreter\obj\Debug\Interpreter.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\015_Interpreter\001_Interpreter\Interpreter\obj\Debug\Interpreter.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\015_Interpreter\001_Interpreter\Interpreter\bin\Debug\Interpreter.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\015_Interpreter\001_Interpreter\Interpreter\bin\Debug\Interpreter.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\015_Interpreter\001_Interpreter\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\015_Interpreter\001_Interpreter\Interpreter\obj\Debug\Interpreter.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\015_Interpreter\001_Interpreter\Interpreter\obj\Debug\Interpreter.pdb

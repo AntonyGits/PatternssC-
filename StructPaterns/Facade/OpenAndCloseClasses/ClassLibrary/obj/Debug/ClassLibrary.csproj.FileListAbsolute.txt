@@ -1,0 +1,5 @@
+D:\OpenAndCloseClasses\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+D:\OpenAndCloseClasses\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\OpenAndCloseClasses\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\OpenAndCloseClasses\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\OpenAndCloseClasses\ClassLibrary\obj\Debug\ClassLibrary.pdb

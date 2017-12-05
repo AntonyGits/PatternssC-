@@ -1,0 +1,35 @@
+c:\users\rise\documents\visual studio 2012\Projects\FigureManipulators\FigureManipulators\bin\Debug\FigureManipulators.exe.config
+C:\Users\Rise\Documents\Visual Studio 2012\Projects\FigureManipulators\FigureManipulators\bin\Debug\FigureManipulators.exe
+C:\Users\Rise\Documents\Visual Studio 2012\Projects\FigureManipulators\FigureManipulators\bin\Debug\FigureManipulators.pdb
+C:\Users\Rise\Documents\Visual Studio 2012\Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.Properties.Resources.resources
+C:\Users\Rise\Documents\Visual Studio 2012\Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.csproj.GenerateResource.Cache
+C:\Users\Rise\Documents\Visual Studio 2012\Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.exe
+C:\Users\Rise\Documents\Visual Studio 2012\Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.pdb
+C:\Users\Rise\Documents\Visual Studio 2012\Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.Form1.resources
+C:\Users\Rise\documents\visual studio 2012\Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\FigureManipulators\FigureManipulators\bin\Debug\FigureManipulators.exe.config
+E:\Visual Studio Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.exe
+E:\Visual Studio Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.pdb
+E:\Visual Studio Projects\FigureManipulators\FigureManipulators\bin\Debug\FigureManipulators.exe
+E:\Visual Studio Projects\FigureManipulators\FigureManipulators\bin\Debug\FigureManipulators.pdb
+E:\Visual Studio Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.Form1.resources
+E:\Visual Studio Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.Properties.Resources.resources
+E:\Visual Studio Projects\FigureManipulators\FigureManipulators\obj\Debug\FigureManipulators.csproj.GenerateResource.Cache
+D:\PATTERNS\Students Samples\003_FM\FigureManipulators_An.Vasilishin\FigureManipulators\bin\Debug\FigureManipulators.exe.config
+D:\PATTERNS\Students Samples\003_FM\FigureManipulators_An.Vasilishin\FigureManipulators\obj\Debug\FigureManipulators.exe
+D:\PATTERNS\Students Samples\003_FM\FigureManipulators_An.Vasilishin\FigureManipulators\obj\Debug\FigureManipulators.pdb
+D:\PATTERNS\Students Samples\003_FM\FigureManipulators_An.Vasilishin\FigureManipulators\bin\Debug\FigureManipulators.exe
+D:\PATTERNS\Students Samples\003_FM\FigureManipulators_An.Vasilishin\FigureManipulators\bin\Debug\FigureManipulators.pdb
+D:\PATTERNS\Students Samples\003_FM\FigureManipulators_An.Vasilishin\FigureManipulators\obj\Debug\FigureManipulators.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Students Samples\003_FM\FigureManipulators_An.Vasilishin\FigureManipulators\obj\Debug\FigureManipulators.Form1.resources
+D:\PATTERNS\Students Samples\003_FM\FigureManipulators_An.Vasilishin\FigureManipulators\obj\Debug\FigureManipulators.Properties.Resources.resources
+D:\PATTERNS\Students Samples\003_FM\FigureManipulators_An.Vasilishin\FigureManipulators\obj\Debug\FigureManipulators.csproj.GenerateResource.Cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\004_Figure Manipulators\FigureManipulators\obj\Debug\FigureManipulators.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\004_Figure Manipulators\FigureManipulators\obj\Debug\FigureManipulators.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\004_Figure Manipulators\FigureManipulators\bin\Debug\FigureManipulators.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\004_Figure Manipulators\FigureManipulators\bin\Debug\FigureManipulators.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\004_Figure Manipulators\FigureManipulators\obj\Debug\FigureManipulators.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\004_Figure Manipulators\FigureManipulators\obj\Debug\FigureManipulators.Form1.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\004_Figure Manipulators\FigureManipulators\obj\Debug\FigureManipulators.Properties.Resources.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\004_Figure Manipulators\FigureManipulators\obj\Debug\FigureManipulators.csproj.GenerateResource.Cache

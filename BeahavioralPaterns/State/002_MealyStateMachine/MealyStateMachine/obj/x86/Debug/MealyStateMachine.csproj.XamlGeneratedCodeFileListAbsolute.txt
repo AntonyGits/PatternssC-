@@ -1,0 +1,4 @@
+obj\x86\Debug\_MealyStateMachine.g.cs
+obj\x86\Debug\Workflow1.g.cs
+obj\x86\Debug\MealyStateMachine_Workflow1_BeforeInitializeComponentHelper.cs
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\002_MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine_Workflow1_CompiledExpressionRoot.cs

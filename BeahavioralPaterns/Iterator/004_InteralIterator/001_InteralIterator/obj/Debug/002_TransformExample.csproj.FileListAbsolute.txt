@@ -1,0 +1,20 @@
+G:\hCBS\03 - C# Professional\002 - ForTeacher\018 - Расширяющие методы\018 - Расширяющие методы\002_TransformExample\bin\Debug\TransformExample.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\018 - Расширяющие методы\018 - Расширяющие методы\002_TransformExample\bin\Debug\TransformExample.pdb
+G:\hCBS\03 - C# Professional\002 - ForTeacher\018 - Расширяющие методы\018 - Расширяющие методы\002_TransformExample\obj\Debug\ResolveAssemblyReference.cache
+G:\hCBS\03 - C# Professional\002 - ForTeacher\018 - Расширяющие методы\018 - Расширяющие методы\002_TransformExample\obj\Debug\TransformExample.exe
+G:\hCBS\03 - C# Professional\002 - ForTeacher\018 - Расширяющие методы\018 - Расширяющие методы\002_TransformExample\obj\Debug\TransformExample.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\018 - Расширяющие методы\018 - Расширяющие методы\001 - Extensions\002_TransformExample\obj\Debug\TransformExample.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\018 - Расширяющие методы\018 - Расширяющие методы\001 - Extensions\002_TransformExample\obj\Debug\TransformExample.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\018 - Расширяющие методы\018 - Расширяющие методы\001 - Extensions\002_TransformExample\bin\Debug\TransformExample.exe
+G:\hCBS\03 - C# Professional\003 - C# Professional\018 - Расширяющие методы\018 - Расширяющие методы\001 - Extensions\002_TransformExample\bin\Debug\TransformExample.pdb
+G:\hCBS\03 - C# Professional\003 - C# Professional\018 - Расширяющие методы\018 - Расширяющие методы\001 - Extensions\002_TransformExample\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\018 - Расширяющие методы\018 - Расширяющие методы\001 - Extensions\002_TransformExample\bin\Debug\TransformExample.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\018 - Расширяющие методы\018 - Расширяющие методы\001 - Extensions\002_TransformExample\bin\Debug\TransformExample.pdb
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\018 - Расширяющие методы\018 - Расширяющие методы\001 - Extensions\002_TransformExample\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\018 - Расширяющие методы\018 - Расширяющие методы\001 - Extensions\002_TransformExample\obj\Debug\TransformExample.exe
+D:\CBS_LESSONS\CS\СS_Professional_RU\CS_Professional_RU\018 - Расширяющие методы\018 - Расширяющие методы\001 - Extensions\002_TransformExample\obj\Debug\TransformExample.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\004_InteralIterator\obj\Debug\TransformExample.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\004_InteralIterator\obj\Debug\TransformExample.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\004_InteralIterator\bin\Debug\TransformExample.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\004_InteralIterator\bin\Debug\TransformExample.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\004_InteralIterator\obj\Debug\002_TransformExample.csprojResolveAssemblyReference.cache

@@ -1,0 +1,113 @@
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.BaseForm.resources
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.Properties.Resources.resources
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.ChildForm.resources
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+G:\FactoryMethod_VladPokolenko\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+G:\FactoryMethod_VladPokolenko\FactoryMethod\obj\Debug\FactoryMethod.exe
+G:\FactoryMethod_VladPokolenko\FactoryMethod\obj\Debug\FactoryMethod.pdb
+G:\FactoryMethod_VladPokolenko\FactoryMethod\bin\Debug\FactoryMethod.exe
+G:\FactoryMethod_VladPokolenko\FactoryMethod\bin\Debug\FactoryMethod.pdb
+G:\FactoryMethod_VladPokolenko\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+G:\FactoryMethod_VladPokolenko\FactoryMethod\obj\Debug\FactoryMethod.BaseForm.resources
+G:\FactoryMethod_VladPokolenko\FactoryMethod\obj\Debug\FactoryMethod.ChildForm.resources
+G:\FactoryMethod_VladPokolenko\FactoryMethod\obj\Debug\FactoryMethod.Properties.Resources.resources
+G:\FactoryMethod_VladPokolenko\FactoryMethod\obj\Debug\FactoryMethod.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\FactoryMethod_VladPokolenko\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\Student\Desktop\FactoryMethod_VladPokolenko\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\Student\Desktop\FactoryMethod_VladPokolenko\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\Users\Student\Desktop\FactoryMethod_VladPokolenko\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\Student\Desktop\FactoryMethod_VladPokolenko\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\Student\Desktop\FactoryMethod_VladPokolenko\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\FactoryMethod_VladPokolenko\FactoryMethod\obj\Debug\FactoryMethod.BaseForm.resources
+C:\Users\Student\Desktop\FactoryMethod_VladPokolenko\FactoryMethod\obj\Debug\FactoryMethod.ChildForm.resources
+C:\Users\Student\Desktop\FactoryMethod_VladPokolenko\FactoryMethod\obj\Debug\FactoryMethod.Properties.Resources.resources
+C:\Users\Student\Desktop\FactoryMethod_VladPokolenko\FactoryMethod\obj\Debug\FactoryMethod.csproj.GenerateResource.Cache
+G:\Vlad\FactoryMethod_Vlad_Pokolenko\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+G:\Vlad\FactoryMethod_Vlad_Pokolenko\FactoryMethod\obj\Debug\FactoryMethod.exe
+G:\Vlad\FactoryMethod_Vlad_Pokolenko\FactoryMethod\obj\Debug\FactoryMethod.pdb
+G:\Vlad\FactoryMethod_Vlad_Pokolenko\FactoryMethod\bin\Debug\FactoryMethod.exe
+G:\Vlad\FactoryMethod_Vlad_Pokolenko\FactoryMethod\bin\Debug\FactoryMethod.pdb
+G:\Vlad\FactoryMethod_Vlad_Pokolenko\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+G:\Vlad\FactoryMethod_Vlad_Pokolenko\FactoryMethod\obj\Debug\FactoryMethod.BaseForm.resources
+G:\Vlad\FactoryMethod_Vlad_Pokolenko\FactoryMethod\obj\Debug\FactoryMethod.ChildForm.resources
+G:\Vlad\FactoryMethod_Vlad_Pokolenko\FactoryMethod\obj\Debug\FactoryMethod.Properties.Resources.resources
+G:\Vlad\FactoryMethod_Vlad_Pokolenko\FactoryMethod\obj\Debug\FactoryMethod.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\FactoryMethod_Vlad_Pokolenko\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\Vladislav\Desktop\FactoryMethod_Vlad_Pokolenko\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\Vladislav\Desktop\FactoryMethod_Vlad_Pokolenko\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\Users\Vladislav\Desktop\FactoryMethod_Vlad_Pokolenko\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\Vladislav\Desktop\FactoryMethod_Vlad_Pokolenko\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\Vladislav\Desktop\FactoryMethod_Vlad_Pokolenko\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\FactoryMethod_Vlad_Pokolenko\FactoryMethod\obj\Debug\FactoryMethod.BaseForm.resources
+C:\Users\Vladislav\Desktop\FactoryMethod_Vlad_Pokolenko\FactoryMethod\obj\Debug\FactoryMethod.ChildForm.resources
+C:\Users\Vladislav\Desktop\FactoryMethod_Vlad_Pokolenko\FactoryMethod\obj\Debug\FactoryMethod.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\FactoryMethod_Vlad_Pokolenko\FactoryMethod\obj\Debug\FactoryMethod.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\Vladislav\Desktop\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\Vladislav\Desktop\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\obj\Debug\FactoryMethod.pdb
+G:\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+G:\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\bin\Debug\FactoryMethod.exe
+G:\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\bin\Debug\FactoryMethod.pdb
+G:\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+G:\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\obj\Debug\FactoryMethod.BaseForm.resources
+G:\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\obj\Debug\FactoryMethod.ChildForm.resources
+G:\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\obj\Debug\FactoryMethod.Properties.Resources.resources
+G:\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\obj\Debug\FactoryMethod.csproj.GenerateResource.Cache
+G:\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\obj\Debug\FactoryMethod.exe
+G:\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\obj\Debug\FactoryMethod.pdb
+D:\PATTERNS\Students Samples\003_FM\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\PATTERNS\Students Samples\003_FM\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\PATTERNS\Students Samples\003_FM\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\obj\Debug\FactoryMethod.pdb
+D:\CBS\PATTERNS\Students Samples\003_FM\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\CBS\PATTERNS\Students Samples\003_FM\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\CBS\PATTERNS\Students Samples\003_FM\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\obj\Debug\FactoryMethod.pdb
+D:\CBS\PATTERNS\Students Samples\003_FM\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\CBS\PATTERNS\Students Samples\003_FM\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\CBS\PATTERNS\Students Samples\003_FM\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+D:\CBS\PATTERNS\Students Samples\003_FM\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\obj\Debug\FactoryMethod.BaseForm.resources
+D:\CBS\PATTERNS\Students Samples\003_FM\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\obj\Debug\FactoryMethod.ChildForm.resources
+D:\CBS\PATTERNS\Students Samples\003_FM\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\obj\Debug\FactoryMethod.Properties.Resources.resources
+D:\CBS\PATTERNS\Students Samples\003_FM\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\obj\Debug\FactoryMethod.csproj.GenerateResource.Cache
+D:\CBS\PATTERNS\Students Samples\003_FM\FactoryMethod_Vlad_Pokolenko_v3\FactoryMethod\obj\Debug\FactoryMethod.PaintingForm.resources
+D:\CBS\PATTERNS\New folder\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\CBS\PATTERNS\New folder\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\CBS\PATTERNS\New folder\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
+D:\CBS\PATTERNS\New folder\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\CBS\PATTERNS\New folder\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\CBS\PATTERNS\New folder\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+D:\CBS\PATTERNS\New folder\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.BaseForm.resources
+D:\CBS\PATTERNS\New folder\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.Properties.Resources.resources
+D:\CBS\PATTERNS\New folder\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.GenerateResource.Cache
+D:\CBS\PATTERNS\New folder\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.TextDocForm.resources
+D:\CBS\PATTERNS\New folder\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.PngDocForm.resources
+D:\PATTERNS\Motivations\003_FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\PATTERNS\Motivations\003_FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\PATTERNS\Motivations\003_FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\002_FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\002_FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\002_FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\002_FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\002_FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\002_FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.BaseForm.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\002_FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.TextDocForm.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\002_FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.PngDocForm.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\002_FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.Properties.Resources.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\002_FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.GenerateResource.Cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\002_Documents\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\002_Documents\FactoryMethod\obj\Debug\FactoryMethod.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\002_Documents\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\002_Documents\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\002_Documents\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\002_Documents\FactoryMethod\obj\Debug\FactoryMethod.BaseForm.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\002_Documents\FactoryMethod\obj\Debug\FactoryMethod.TextDocForm.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\002_Documents\FactoryMethod\obj\Debug\FactoryMethod.PngDocForm.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\002_Documents\FactoryMethod\obj\Debug\FactoryMethod.Properties.Resources.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\002_Documents\FactoryMethod\obj\Debug\FactoryMethod.csproj.GenerateResource.Cache
+D:\002_Documents\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\002_Documents\FactoryMethod\obj\Debug\FactoryMethod.pdb

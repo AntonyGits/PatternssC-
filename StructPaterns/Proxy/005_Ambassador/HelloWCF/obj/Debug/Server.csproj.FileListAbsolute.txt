@@ -1,0 +1,36 @@
+D:\HelloWCF MODULES\HelloWCF\bin\Debug\HelloWCF.exe
+D:\HelloWCF MODULES\HelloWCF\bin\Debug\HelloWCF.pdb
+D:\HelloWCF MODULES\HelloWCF\obj\Debug\ResolveAssemblyReference.cache
+D:\HelloWCF MODULES\HelloWCF\obj\Debug\HelloWCF.exe
+D:\HelloWCF MODULES\HelloWCF\obj\Debug\HelloWCF.pdb
+D:\WCF LESSONS\WCF TESTS\HelloWCF MODULES\HelloWCF\obj\Debug\HelloWCF.exe
+D:\WCF LESSONS\WCF TESTS\HelloWCF MODULES\HelloWCF\obj\Debug\HelloWCF.pdb
+D:\WCF LESSONS\WCF TESTS\HelloWCF MODULES\HelloWCF\bin\Debug\HelloWCF.exe
+D:\WCF LESSONS\WCF TESTS\HelloWCF MODULES\HelloWCF\bin\Debug\HelloWCF.pdb
+D:\WCF LESSONS\WCF TESTS\HelloWCF MODULES\HelloWCF\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\001_HelloWCF\HelloWCF\obj\Debug\HelloWCF.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\001_HelloWCF\HelloWCF\obj\Debug\HelloWCF.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\001_HelloWCF\HelloWCF\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\001_HelloWCF\HelloWCF\bin\Debug\HelloWCF.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\001_HelloWCF\HelloWCF\bin\Debug\HelloWCF.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\000_HelloWCF\HelloWCF\obj\Debug\HelloWCF.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\000_HelloWCF\HelloWCF\obj\Debug\HelloWCF.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\000_HelloWCF\HelloWCF\bin\Debug\HelloWCF.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF\001_INTRO\000_HelloWCF\HelloWCF\bin\Debug\HelloWCF.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_WCF_NEW\001_INTRO\000_HelloWCF\HelloWCF\obj\Debug\HelloWCF.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF_NEW\001_INTRO\000_HelloWCF\HelloWCF\obj\Debug\HelloWCF.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_WCF_NEW\001_INTRO\000_HelloWCF\HelloWCF\bin\Debug\HelloWCF.exe
+D:\CBS_LESSONS\CBS_CS\CBS_WCF_NEW\001_INTRO\000_HelloWCF\HelloWCF\bin\Debug\HelloWCF.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_WCF_NEW\001_INTRO\000_HelloWCF\HelloWCF\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\WCF\001_INTRO\000_HelloWCF\HelloWCF\obj\Debug\HelloWCF.exe
+D:\WCF\001_INTRO\000_HelloWCF\HelloWCF\obj\Debug\HelloWCF.pdb
+D:\WCF\001_INTRO\000_HelloWCF\HelloWCF\bin\Debug\HelloWCF.exe
+D:\WCF\001_INTRO\000_HelloWCF\HelloWCF\bin\Debug\HelloWCF.pdb
+D:\WCF\001_INTRO\000_HelloWCF\HelloWCF\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\VIDEO COURSES\WCF\001_INTRO\000_HelloWCF\HelloWCF\obj\Debug\HelloWCF.exe
+D:\VIDEO COURSES\WCF\001_INTRO\000_HelloWCF\HelloWCF\obj\Debug\HelloWCF.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\012_Proxy\005_Ambassador\HelloWCF\obj\Debug\HelloWCF.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\012_Proxy\005_Ambassador\HelloWCF\obj\Debug\HelloWCF.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\012_Proxy\005_Ambassador\HelloWCF\bin\Debug\HelloWCF.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\012_Proxy\005_Ambassador\HelloWCF\bin\Debug\HelloWCF.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\012_Proxy\005_Ambassador\HelloWCF\obj\Debug\Server.csprojResolveAssemblyReference.cache

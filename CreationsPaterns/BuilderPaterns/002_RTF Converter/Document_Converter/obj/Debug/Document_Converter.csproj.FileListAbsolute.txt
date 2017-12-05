@@ -1,0 +1,60 @@
+D:\Document_Converter\Document_Converter\bin\Debug\Document_Converter.exe.config
+D:\Document_Converter\Document_Converter\bin\Debug\Document_Converter.exe
+D:\Document_Converter\Document_Converter\bin\Debug\Document_Converter.pdb
+D:\Document_Converter\Document_Converter\obj\Debug\Document_Converter.csprojResolveAssemblyReference.cache
+D:\Document_Converter\Document_Converter\obj\Debug\Document_Converter.Form1.resources
+D:\Document_Converter\Document_Converter\obj\Debug\Document_Converter.Properties.Resources.resources
+D:\Document_Converter\Document_Converter\obj\Debug\Document_Converter.csproj.GenerateResource.Cache
+D:\Document_Converter\Document_Converter\obj\Debug\Document_Converter.exe
+D:\Document_Converter\Document_Converter\obj\Debug\Document_Converter.pdb
+D:\Document_Converter_Alex_Nazaruk\Document_Converter\bin\Debug\Document_Converter.exe.config
+D:\Document_Converter_Alex_Nazaruk\Document_Converter\obj\Debug\Document_Converter.exe
+D:\Document_Converter_Alex_Nazaruk\Document_Converter\obj\Debug\Document_Converter.pdb
+D:\PATTERNS\Students Samples\002_Builder\Document_Converter_Alex_Nazaruk 2\Document_Converter\bin\Debug\Document_Converter.exe.config
+D:\PATTERNS\Students Samples\002_Builder\Document_Converter_Alex_Nazaruk 2\Document_Converter\obj\Debug\Document_Converter.exe
+D:\PATTERNS\Students Samples\002_Builder\Document_Converter_Alex_Nazaruk 2\Document_Converter\obj\Debug\Document_Converter.pdb
+D:\PATTERNS\Students Samples\002_Builder\Document_Converter_Alex_Nazaruk 2\Document_Converter\bin\Debug\Document_Converter.exe
+D:\PATTERNS\Students Samples\002_Builder\Document_Converter_Alex_Nazaruk 2\Document_Converter\bin\Debug\Document_Converter.pdb
+D:\PATTERNS\Students Samples\002_Builder\Document_Converter_Alex_Nazaruk 2\Document_Converter\obj\Debug\Document_Converter.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Students Samples\002_Builder\Document_Converter_Alex_Nazaruk 2\Document_Converter\obj\Debug\Document_Converter.Form1.resources
+D:\PATTERNS\Students Samples\002_Builder\Document_Converter_Alex_Nazaruk 2\Document_Converter\obj\Debug\Document_Converter.Properties.Resources.resources
+D:\PATTERNS\Students Samples\002_Builder\Document_Converter_Alex_Nazaruk 2\Document_Converter\obj\Debug\Document_Converter.csproj.GenerateResource.Cache
+D:\CBS\PATTERNS\Students Samples\002_Builder\Document_Converter_Alex_Nazaruk 2\Document_Converter\bin\Debug\Document_Converter.exe.config
+D:\CBS\PATTERNS\Students Samples\002_Builder\Document_Converter_Alex_Nazaruk 2\Document_Converter\obj\Debug\Document_Converter.exe
+D:\CBS\PATTERNS\Students Samples\002_Builder\Document_Converter_Alex_Nazaruk 2\Document_Converter\obj\Debug\Document_Converter.pdb
+C:\Users\Alexander\Desktop\Document_Converter_Alex_Nazaruk 2\Document_Converter\bin\Debug\Document_Converter.exe.config
+C:\Users\Alexander\Desktop\Document_Converter_Alex_Nazaruk 2\Document_Converter\obj\Debug\Document_Converter.exe
+C:\Users\Alexander\Desktop\Document_Converter_Alex_Nazaruk 2\Document_Converter\obj\Debug\Document_Converter.pdb
+C:\Users\Alexander\Desktop\Document_Converter_Alex_Nazaruk 2\Document_Converter\bin\Debug\Document_Converter.exe
+C:\Users\Alexander\Desktop\Document_Converter_Alex_Nazaruk 2\Document_Converter\bin\Debug\Document_Converter.pdb
+C:\Users\Alexander\Desktop\Document_Converter_Alex_Nazaruk 2\Document_Converter\obj\Debug\Document_Converter.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\Document_Converter_Alex_Nazaruk 2\Document_Converter\obj\Debug\Document_Converter.Form1.resources
+C:\Users\Alexander\Desktop\Document_Converter_Alex_Nazaruk 2\Document_Converter\obj\Debug\Document_Converter.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Document_Converter_Alex_Nazaruk 2\Document_Converter\obj\Debug\Document_Converter.csproj.GenerateResource.Cache
+D:\CBS\PATTERNS\New folder\Builder\Builder_Document_Converter\Document_Converter\bin\Debug\Document_Converter.exe.config
+D:\CBS\PATTERNS\New folder\Builder\Builder_Document_Converter\Document_Converter\obj\Debug\Document_Converter.exe
+D:\CBS\PATTERNS\New folder\Builder\Builder_Document_Converter\Document_Converter\obj\Debug\Document_Converter.pdb
+D:\CBS\PATTERNS\New folder\Builder\Builder_Document_Converter\Document_Converter\bin\Debug\Document_Converter.exe
+D:\CBS\PATTERNS\New folder\Builder\Builder_Document_Converter\Document_Converter\bin\Debug\Document_Converter.pdb
+D:\CBS\PATTERNS\New folder\Builder\Builder_Document_Converter\Document_Converter\obj\Debug\Document_Converter.csprojResolveAssemblyReference.cache
+D:\CBS\PATTERNS\New folder\Builder\Builder_Document_Converter\Document_Converter\obj\Debug\Document_Converter.Form1.resources
+D:\CBS\PATTERNS\New folder\Builder\Builder_Document_Converter\Document_Converter\obj\Debug\Document_Converter.Properties.Resources.resources
+D:\CBS\PATTERNS\New folder\Builder\Builder_Document_Converter\Document_Converter\obj\Debug\Document_Converter.csproj.GenerateResource.Cache
+D:\PATTERNS\Motivations\002_Builder\Builder_Document_Converter\Document_Converter\obj\Debug\Document_Converter.exe
+D:\PATTERNS\Motivations\002_Builder\Builder_Document_Converter\Document_Converter\obj\Debug\Document_Converter.pdb
+D:\PATTERNS\Motivations\002_Builder\Builder_Document_Converter\Document_Converter\bin\Debug\Document_Converter.exe
+D:\PATTERNS\Motivations\002_Builder\Builder_Document_Converter\Document_Converter\bin\Debug\Document_Converter.pdb
+D:\PATTERNS\Motivations\002_Builder\Builder_Document_Converter\Document_Converter\obj\Debug\Document_Converter.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Motivations\002_Builder\Builder_Document_Converter\Document_Converter\obj\Debug\Document_Converter.Form1.resources
+D:\PATTERNS\Motivations\002_Builder\Builder_Document_Converter\Document_Converter\obj\Debug\Document_Converter.Properties.Resources.resources
+D:\PATTERNS\Motivations\002_Builder\Builder_Document_Converter\Document_Converter\obj\Debug\Document_Converter.csproj.GenerateResource.Cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\002_Builder\003_RTF Converter\Document_Converter\obj\Debug\Document_Converter.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\002_Builder\003_RTF Converter\Document_Converter\obj\Debug\Document_Converter.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\002_Builder\002_RTF Converter\Document_Converter\obj\Debug\Document_Converter.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\002_Builder\002_RTF Converter\Document_Converter\obj\Debug\Document_Converter.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\002_Builder\002_RTF Converter\Document_Converter\bin\Debug\Document_Converter.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\002_Builder\002_RTF Converter\Document_Converter\bin\Debug\Document_Converter.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\002_Builder\002_RTF Converter\Document_Converter\obj\Debug\Document_Converter.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\002_Builder\002_RTF Converter\Document_Converter\obj\Debug\Document_Converter.Form1.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\002_Builder\002_RTF Converter\Document_Converter\obj\Debug\Document_Converter.Properties.Resources.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\002_Builder\002_RTF Converter\Document_Converter\obj\Debug\Document_Converter.csproj.GenerateResource.Cache

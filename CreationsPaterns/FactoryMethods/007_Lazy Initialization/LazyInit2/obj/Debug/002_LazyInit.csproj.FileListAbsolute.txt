@@ -1,0 +1,11 @@
+D:\LazyInit\LazyInit2\bin\Debug\LazyInit2.exe.config
+D:\LazyInit\LazyInit2\bin\Debug\LazyInit2.exe
+D:\LazyInit\LazyInit2\bin\Debug\LazyInit2.pdb
+D:\LazyInit\LazyInit2\obj\Debug\LazyInit2.exe
+D:\LazyInit\LazyInit2\obj\Debug\LazyInit2.pdb
+D:\COURSES\INTEREST SAMPLES\LazyInit\LazyInit2\obj\Debug\LazyInit2.exe
+D:\COURSES\INTEREST SAMPLES\LazyInit\LazyInit2\obj\Debug\LazyInit2.pdb
+D:\COURSES\INTEREST SAMPLES\LazyInit\LazyInit2\bin\Debug\LazyInit2.exe
+D:\COURSES\INTEREST SAMPLES\LazyInit\LazyInit2\bin\Debug\LazyInit2.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\007_Lazy Initialization\LazyInit2\obj\Debug\LazyInit2.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\007_Lazy Initialization\LazyInit2\obj\Debug\LazyInit2.pdb

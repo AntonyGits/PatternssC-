@@ -1,0 +1,6 @@
+D:\AbstractInstantiate\AbstractInstantiate\bin\Debug\AbstractInstantiate.exe.config
+D:\AbstractInstantiate\AbstractInstantiate\bin\Debug\AbstractInstantiate.exe
+D:\AbstractInstantiate\AbstractInstantiate\bin\Debug\AbstractInstantiate.pdb
+D:\AbstractInstantiate\AbstractInstantiate\obj\Debug\AbstractInstantiate.csprojResolveAssemblyReference.cache
+D:\AbstractInstantiate\AbstractInstantiate\obj\Debug\AbstractInstantiate.exe
+D:\AbstractInstantiate\AbstractInstantiate\obj\Debug\AbstractInstantiate.pdb

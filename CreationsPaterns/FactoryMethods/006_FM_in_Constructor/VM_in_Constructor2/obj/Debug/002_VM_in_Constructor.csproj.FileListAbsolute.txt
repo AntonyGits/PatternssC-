@@ -1,0 +1,12 @@
+D:\VM_in_Constructor\VM_in_Constructor2\bin\Debug\VM_in_Constructor2.exe.config
+D:\VM_in_Constructor\VM_in_Constructor2\obj\Debug\VM_in_Constructor2.exe
+D:\VM_in_Constructor\VM_in_Constructor2\obj\Debug\VM_in_Constructor2.pdb
+D:\VM_in_Constructor\VM_in_Constructor2\bin\Debug\VM_in_Constructor2.exe
+D:\VM_in_Constructor\VM_in_Constructor2\bin\Debug\VM_in_Constructor2.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\VM_in_Constructor\VM_in_Constructor2\obj\Debug\VM_in_Constructor2.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\VM_in_Constructor\VM_in_Constructor2\obj\Debug\VM_in_Constructor2.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\006_FM_in_Constructor\VM_in_Constructor2\obj\Debug\VM_in_Constructor2.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\006_FM_in_Constructor\VM_in_Constructor2\obj\Debug\VM_in_Constructor2.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\006_FM_in_Constructor\VM_in_Constructor2\bin\Debug\VM_in_Constructor2.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\006_FM_in_Constructor\VM_in_Constructor2\bin\Debug\VM_in_Constructor2.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\006_FM_in_Constructor\VM_in_Constructor2\obj\Debug\002_VM_in_Constructor.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Collections\Yield2\bin\Debug\Yield2.exe
+D:\Collections\Yield2\bin\Debug\Yield2.pdb
+D:\Collections\Yield2\obj\Debug\002_Yield.csprojResolveAssemblyReference.cache
+D:\Collections\Yield2\obj\Debug\Yield2.exe
+D:\Collections\Yield2\obj\Debug\Yield2.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\008_Yield\obj\Debug\Yield2.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\008_Yield\obj\Debug\Yield2.pdb

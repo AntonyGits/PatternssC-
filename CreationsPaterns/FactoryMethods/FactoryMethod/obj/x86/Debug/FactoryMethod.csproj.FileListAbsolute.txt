@@ -1,0 +1,14 @@
+D:\PATTERNS\ServiceLocator\ServiceLocator_1\bin\Debug\ServiceLocator_1.exe
+D:\PATTERNS\ServiceLocator\ServiceLocator_1\bin\Debug\ServiceLocator_1.pdb
+D:\PATTERNS\ServiceLocator\ServiceLocator_1\obj\x86\Debug\ServiceLocator_1.exe
+D:\PATTERNS\ServiceLocator\ServiceLocator_1\obj\x86\Debug\ServiceLocator_1.pdb
+D:\PATTERNS\ServiceLocator\FactoryMethod\obj\x86\Debug\ServiceLocator_1.exe
+D:\PATTERNS\ServiceLocator\FactoryMethod\obj\x86\Debug\ServiceLocator_1.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\FM_Generic\FactoryMethod\obj\x86\Debug\ServiceLocator_1.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\FM_Generic\FactoryMethod\obj\x86\Debug\ServiceLocator_1.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\FM_Generic_2\FactoryMethod\obj\x86\Debug\ServiceLocator_1.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\FM_Generic_2\FactoryMethod\obj\x86\Debug\ServiceLocator_1.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\008_FM_Generic\FactoryMethod\obj\x86\Debug\ServiceLocator_1.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\008_FM_Generic\FactoryMethod\obj\x86\Debug\ServiceLocator_1.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\009_FM_Generic\FactoryMethod\obj\x86\Debug\ServiceLocator_1.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\009_FM_Generic\FactoryMethod\obj\x86\Debug\ServiceLocator_1.pdb

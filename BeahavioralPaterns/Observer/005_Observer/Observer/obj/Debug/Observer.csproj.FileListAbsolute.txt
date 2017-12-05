@@ -1,0 +1,28 @@
+G:\MY\Design Pattern Framework\Develop Patterns\Behavioral ПОВЕДЕНЧЕСКИЕ\Observer\001_Observer\Observer\obj\Debug\Observer.exe
+G:\MY\Design Pattern Framework\Develop Patterns\Behavioral ПОВЕДЕНЧЕСКИЕ\Observer\001_Observer\Observer\obj\Debug\Observer.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\019_Observer\001_Observer\Observer\obj\Debug\Observer.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\019_Observer\001_Observer\Observer\obj\Debug\Observer.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\019_Observer\001_Observer\Observer\bin\Debug\Observer.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\019_Observer\001_Observer\Observer\bin\Debug\Observer.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\019_Observer\001_Observer\Observer\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\019_Observer\001_Observer\Observer\obj\Debug\Observer.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\019_Observer\001_Observer\Observer\obj\Debug\Observer.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\019_Observer\001_Observer\Observer\obj\Debug\Observer.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\019_Observer\001_Observer\Observer\obj\Debug\Observer.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\019_Observer\001_Observer\Observer\bin\Debug\Observer.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\019_Observer\001_Observer\Observer\bin\Debug\Observer.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\019_Observer\001_Observer\Observer\obj\Debug\ResolveAssemblyReference.cache
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\001_Observer\Observer\obj\Debug\Observer.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\001_Observer\Observer\obj\Debug\Observer.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\001_Observer\Observer\bin\Debug\Observer.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\001_Observer\Observer\bin\Debug\Observer.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\001_Observer\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\001_Observer\Observer\obj\Debug\Observer.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\001_Observer\Observer\obj\Debug\Observer.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\ххх_Observer\Observer\obj\Debug\Observer.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\ххх_Observer\Observer\obj\Debug\Observer.pdb
+D:\005_Observer\Observer\obj\Debug\Observer.exe
+D:\005_Observer\Observer\obj\Debug\Observer.pdb
+D:\005_Observer\Observer\bin\Debug\Observer.exe
+D:\005_Observer\Observer\bin\Debug\Observer.pdb
+D:\005_Observer\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache

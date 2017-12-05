@@ -1,0 +1,33 @@
+G:\MY\Design Pattern Framework\Develop Patterns\Behavioral ПОВЕДЕНЧЕСКИЕ\Command\Command\Command\obj\Debug\Command.exe
+G:\MY\Design Pattern Framework\Develop Patterns\Behavioral ПОВЕДЕНЧЕСКИЕ\Command\Command\Command\obj\Debug\Command.pdb
+G:\MY\Design Pattern Framework\Develop Patterns\Behavioral ПОВЕДЕНЧЕСКИЕ\Command\Command\Command\bin\Debug\Command.exe
+G:\MY\Design Pattern Framework\Develop Patterns\Behavioral ПОВЕДЕНЧЕСКИЕ\Command\Command\Command\bin\Debug\Command.pdb
+G:\MY\Design Pattern Framework\Develop Patterns\Behavioral ПОВЕДЕНЧЕСКИЕ\Command\Command\Command\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS_Patterns\Behavioral ПОВЕДЕНЧЕСКИЕ\Command\Command\Command\obj\Debug\Command.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\Behavioral ПОВЕДЕНЧЕСКИЕ\Command\Command\Command\obj\Debug\Command.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\014_Command\002_Command\Command\obj\Debug\Command.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\014_Command\002_Command\Command\obj\Debug\Command.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\014_Command\002_Command\Command\bin\Debug\Command.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\014_Command\002_Command\Command\bin\Debug\Command.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\014_Command\002_Command\Command\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\014_Command\002_Command\Command\obj\Debug\Command.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\014_Command\002_Command\Command\obj\Debug\Command.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\014_Command\002_Command\Command\obj\Debug\Command.exe
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\014_Command\002_Command\Command\obj\Debug\Command.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\014_Command\002_Command\Command\bin\Debug\Command.exe
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\014_Command\002_Command\Command\bin\Debug\Command.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\014_Command\002_Command\Command\obj\Debug\ResolveAssemblyReference.cache
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\014_Command\002_Command\Command\obj\Debug\Command.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\014_Command\002_Command\Command\obj\Debug\Command.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\014_Command\002_Command\Command\bin\Debug\Command.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\014_Command\002_Command\Command\bin\Debug\Command.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\014_Command\002_Command\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\014_Command\002_Command\Command\obj\Debug\Command.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\014_Command\002_Command\Command\obj\Debug\Command.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\014_Command\Command_1_Q\Command\obj\Debug\Command.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\014_Command\Command_1_Q\Command\obj\Debug\Command.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\014_Command\Command_Undo_Redo\Command\obj\Debug\Command.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\014_Command\Command_Undo_Redo\Command\obj\Debug\Command.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\014_Command\Command_Undo_Redo\Command\bin\Debug\Command.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\014_Command\Command_Undo_Redo\Command\bin\Debug\Command.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\014_Command\Command_Undo_Redo\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache

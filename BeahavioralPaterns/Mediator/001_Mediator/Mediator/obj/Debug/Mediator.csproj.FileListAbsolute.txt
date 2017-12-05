@@ -1,0 +1,27 @@
+D:\Mediator\Mediator\bin\Debug\Mediator.exe
+D:\Mediator\Mediator\bin\Debug\Mediator.pdb
+D:\Mediator\Mediator\obj\Debug\ResolveAssemblyReference.cache
+D:\Mediator\Mediator\obj\Debug\Mediator.exe
+D:\Mediator\Mediator\obj\Debug\Mediator.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\017_Mediator\001_Mediator\Mediator\obj\Debug\Mediator.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\017_Mediator\001_Mediator\Mediator\obj\Debug\Mediator.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\017_Mediator\001_Mediator\Mediator\bin\Debug\Mediator.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\017_Mediator\001_Mediator\Mediator\bin\Debug\Mediator.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\017_Mediator\001_Mediator\Mediator\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\017_Mediator\001_Mediator\Mediator\obj\Debug\Mediator.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\017_Mediator\001_Mediator\Mediator\obj\Debug\Mediator.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\017_Mediator\001_Mediator\Mediator\bin\Debug\Mediator.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\017_Mediator\001_Mediator\Mediator\bin\Debug\Mediator.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\017_Mediator\001_Mediator\Mediator\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\017_Mediator\001_Mediator\Mediator\obj\Debug\Mediator.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\017_Mediator\001_Mediator\Mediator\obj\Debug\Mediator.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\017_Mediator\001_Mediator\Mediator\bin\Debug\Mediator.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\017_Mediator\001_Mediator\Mediator\bin\Debug\Mediator.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\017_Mediator\001_Mediator\Mediator\obj\Debug\ResolveAssemblyReference.cache
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\017_Mediator\001_Mediator\Mediator\obj\Debug\Mediator.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\017_Mediator\001_Mediator\Mediator\obj\Debug\Mediator.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\017_Mediator\001_Mediator\Mediator\bin\Debug\Mediator.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\017_Mediator\001_Mediator\Mediator\bin\Debug\Mediator.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\017_Mediator\001_Mediator\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\017_Mediator\001_Mediator\Mediator\obj\Debug\Mediator.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\017_Mediator\001_Mediator\Mediator\obj\Debug\Mediator.pdb

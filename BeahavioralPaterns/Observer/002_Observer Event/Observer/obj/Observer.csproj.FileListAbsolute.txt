@@ -1,0 +1,10 @@
+D:\Observer\Observer\bin\Debug\Observer.exe
+D:\Observer\Observer\bin\Debug\Observer.pdb
+D:\Observer\Observer\obj\Debug\ResolveAssemblyReference.cache
+D:\Observer\Observer\obj\Debug\Observer.exe
+D:\Observer\Observer\obj\Debug\Observer.pdb
+D:\DEVELOP\DESIGN PATTERN\Behavioral ПОВЕДЕНЧЕСКИЕ\Observer\Observer\Observer\obj\Debug\Observer.exe
+D:\DEVELOP\DESIGN PATTERN\Behavioral ПОВЕДЕНЧЕСКИЕ\Observer\Observer\Observer\obj\Debug\Observer.pdb
+D:\DEVELOP\DESIGN PATTERN\Behavioral ПОВЕДЕНЧЕСКИЕ\Observer\Observer\Observer\bin\Debug\Observer.exe
+D:\DEVELOP\DESIGN PATTERN\Behavioral ПОВЕДЕНЧЕСКИЕ\Observer\Observer\Observer\bin\Debug\Observer.pdb
+D:\DEVELOP\DESIGN PATTERN\Behavioral ПОВЕДЕНЧЕСКИЕ\Observer\Observer\Observer\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\002_BridgeMotivation\BridgeMotivation\obj\Debug\WidgetFactoryApplication.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\002_BridgeMotivation\BridgeMotivation\obj\Debug\WidgetFactoryApplication.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\002_BridgeMotivation\BridgeMotivation\bin\Debug\WidgetFactoryApplication.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\002_BridgeMotivation\BridgeMotivation\bin\Debug\WidgetFactoryApplication.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\002_BridgeMotivation\BridgeMotivation\obj\Debug\BridgeMotivation.csprojResolveAssemblyReference.cache

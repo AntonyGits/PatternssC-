@@ -1,0 +1,119 @@
+d:\documents\visual studio 2012\Projects\Note\MusicNotes\bin\Debug\MusicNotes.exe.config
+d:\documents\visual studio 2012\Projects\Note\MusicNotes\bin\Debug\MusicNotes.exe
+d:\documents\visual studio 2012\Projects\Note\MusicNotes\bin\Debug\MusicNotes.pdb
+d:\documents\visual studio 2012\Projects\Note\MusicNotes\obj\Debug\MusicNotes.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\Note\MusicNotes\obj\Debug\MusicNotes.Form1.resources
+d:\documents\visual studio 2012\Projects\Note\MusicNotes\obj\Debug\MusicNotes.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\Note\MusicNotes\obj\Debug\MusicNotes.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\Note\MusicNotes\obj\Debug\MusicNotes.exe
+d:\documents\visual studio 2012\Projects\Note\MusicNotes\obj\Debug\MusicNotes.pdb
+D:\Documents\Visual Studio 2012\Projects\Note\MusicNotes\bin\Debug\PianoSoundLibrary.dll
+D:\Documents\Visual Studio 2012\Projects\Note\MusicNotes\bin\Debug\PianoSoundLibrary.pdb
+D:\PATTERNS\SAMPLES for BOOK\Note\MusicNotes\bin\Debug\MusicNotes.exe.config
+D:\PATTERNS\SAMPLES for BOOK\Note\MusicNotes\obj\Debug\MusicNotes.exe
+D:\PATTERNS\SAMPLES for BOOK\Note\MusicNotes\obj\Debug\MusicNotes.pdb
+D:\PATTERNS\SAMPLES for BOOK\Note\MusicNotes\bin\Debug\MusicNotes.exe
+D:\PATTERNS\SAMPLES for BOOK\Note\MusicNotes\bin\Debug\MusicNotes.pdb
+D:\PATTERNS\SAMPLES for BOOK\Note\MusicNotes\bin\Debug\PianoSoundLibrary.dll
+D:\PATTERNS\SAMPLES for BOOK\Note\MusicNotes\bin\Debug\PianoSoundLibrary.pdb
+D:\PATTERNS\SAMPLES for BOOK\Note\MusicNotes\obj\Debug\MusicNotes.csprojResolveAssemblyReference.cache
+D:\PATTERNS\SAMPLES for BOOK\Note\MusicNotes\obj\Debug\MusicNotes.Form1.resources
+D:\PATTERNS\SAMPLES for BOOK\Note\MusicNotes\obj\Debug\MusicNotes.Properties.Resources.resources
+D:\PATTERNS\SAMPLES for BOOK\Note\MusicNotes\obj\Debug\MusicNotes.csproj.GenerateResource.Cache
+D:\PATTERNS\SAMPLES for BOOK\Note_Prototype_Yulia\MusicNotes\bin\Debug\MusicNotes.exe.config
+D:\PATTERNS\SAMPLES for BOOK\Note_Prototype_Yulia\MusicNotes\obj\Debug\MusicNotes.exe
+D:\PATTERNS\SAMPLES for BOOK\Note_Prototype_Yulia\MusicNotes\obj\Debug\MusicNotes.pdb
+D:\PATTERNS\SAMPLES for BOOK\Note_Prototype_Yulia\MusicNotes\bin\Debug\MusicNotes.exe
+D:\PATTERNS\SAMPLES for BOOK\Note_Prototype_Yulia\MusicNotes\bin\Debug\MusicNotes.pdb
+D:\PATTERNS\SAMPLES for BOOK\Note_Prototype_Yulia\MusicNotes\bin\Debug\PianoSoundLibrary.dll
+D:\PATTERNS\SAMPLES for BOOK\Note_Prototype_Yulia\MusicNotes\bin\Debug\PianoSoundLibrary.pdb
+D:\PATTERNS\SAMPLES for BOOK\Note_Prototype_Yulia\MusicNotes\obj\Debug\MusicNotes.csprojResolveAssemblyReference.cache
+D:\PATTERNS\SAMPLES for BOOK\Note_Prototype_Yulia\MusicNotes\obj\Debug\MusicNotes.Form1.resources
+D:\PATTERNS\SAMPLES for BOOK\Note_Prototype_Yulia\MusicNotes\obj\Debug\MusicNotes.Properties.Resources.resources
+D:\PATTERNS\SAMPLES for BOOK\Note_Prototype_Yulia\MusicNotes\obj\Debug\MusicNotes.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\C#_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Note_Prototype_Yulia\MusicNotes\bin\Debug\MusicNotes.exe.config
+C:\Users\Alex\Desktop\C#_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Note_Prototype_Yulia\MusicNotes\obj\Debug\MusicNotes.exe
+C:\Users\Alex\Desktop\C#_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Note_Prototype_Yulia\MusicNotes\obj\Debug\MusicNotes.pdb
+C:\Users\Alex\Desktop\C#_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Note_Prototype_Yulia\MusicNotes\bin\Debug\MusicNotes.exe
+C:\Users\Alex\Desktop\C#_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Note_Prototype_Yulia\MusicNotes\bin\Debug\MusicNotes.pdb
+C:\Users\Alex\Desktop\C#_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Note_Prototype_Yulia\MusicNotes\bin\Debug\PianoSoundLibrary.dll
+C:\Users\Alex\Desktop\C#_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Note_Prototype_Yulia\MusicNotes\bin\Debug\PianoSoundLibrary.pdb
+C:\Users\Alex\Desktop\C#_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Note_Prototype_Yulia\MusicNotes\obj\Debug\MusicNotes.Form1.resources
+C:\Users\Alex\Desktop\C#_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Note_Prototype_Yulia\MusicNotes\obj\Debug\MusicNotes.Properties.Resources.resources
+C:\Users\Alex\Desktop\C#_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Note_Prototype_Yulia\MusicNotes\obj\Debug\MusicNotes.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\C#_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Note_Prototype_Yulia\MusicNotes\obj\Debug\MusicNotes.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\C#_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin\MusicNotes\bin\Debug\MusicNotes.exe.config
+C:\Users\Alex\Desktop\C#_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin\MusicNotes\obj\Debug\MusicNotes.exe
+C:\Users\Alex\Desktop\C#_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin\MusicNotes\obj\Debug\MusicNotes.pdb
+C:\Users\Alex\Desktop\C#_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin\MusicNotes\bin\Debug\MusicNotes.exe
+C:\Users\Alex\Desktop\C#_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin\MusicNotes\bin\Debug\MusicNotes.pdb
+C:\Users\Alex\Desktop\C#_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin\MusicNotes\bin\Debug\PianoSoundLibrary.dll
+C:\Users\Alex\Desktop\C#_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin\MusicNotes\bin\Debug\PianoSoundLibrary.pdb
+C:\Users\Alex\Desktop\C#_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin\MusicNotes\obj\Debug\MusicNotes.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\C#_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin\MusicNotes\obj\Debug\MusicNotes.Form1.resources
+C:\Users\Alex\Desktop\C#_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin\MusicNotes\obj\Debug\MusicNotes.Properties.Resources.resources
+C:\Users\Alex\Desktop\C#_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin\MusicNotes\obj\Debug\MusicNotes.csproj.GenerateResource.Cache
+D:\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin\MusicNotes\bin\Debug\MusicNotes.exe.config
+D:\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin\MusicNotes\obj\Debug\MusicNotes.exe
+D:\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin\MusicNotes\obj\Debug\MusicNotes.pdb
+D:\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin\MusicNotes\bin\Debug\MusicNotes.exe
+D:\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin\MusicNotes\bin\Debug\MusicNotes.pdb
+D:\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin\MusicNotes\bin\Debug\PianoSoundLibrary.pdb
+D:\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin\MusicNotes\obj\Debug\MusicNotes.csprojResolveAssemblyReference.cache
+D:\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin\MusicNotes\obj\Debug\MusicNotes.Form1.resources
+D:\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin\MusicNotes\obj\Debug\MusicNotes.Properties.Resources.resources
+D:\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin\MusicNotes\obj\Debug\MusicNotes.csproj.GenerateResource.Cache
+D:\PATTERNS\Students Samples\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin 3\MusicNotes\bin\Debug\MusicNotes.exe.config
+D:\PATTERNS\Students Samples\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin 3\MusicNotes\obj\Debug\MusicNotes.exe
+D:\PATTERNS\Students Samples\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin 3\MusicNotes\obj\Debug\MusicNotes.pdb
+D:\CBS\PATTERNS\Students Samples\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin 3\MusicNotes\bin\Debug\MusicNotes.exe.config
+D:\CBS\PATTERNS\Students Samples\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin 3\MusicNotes\obj\Debug\MusicNotes.exe
+D:\CBS\PATTERNS\Students Samples\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin 3\MusicNotes\obj\Debug\MusicNotes.pdb
+D:\CBS\PATTERNS\Students Samples\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin 3\MusicNotes\bin\Debug\MusicNotes.exe
+D:\CBS\PATTERNS\Students Samples\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin 3\MusicNotes\bin\Debug\MusicNotes.pdb
+D:\CBS\PATTERNS\Students Samples\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin 3\MusicNotes\bin\Debug\PianoSoundLibrary.pdb
+D:\CBS\PATTERNS\Students Samples\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin 3\MusicNotes\obj\Debug\MusicNotes.csprojResolveAssemblyReference.cache
+D:\CBS\PATTERNS\Students Samples\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin 3\MusicNotes\obj\Debug\MusicNotes.Form1.resources
+D:\CBS\PATTERNS\Students Samples\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin 3\MusicNotes\obj\Debug\MusicNotes.Properties.Resources.resources
+D:\CBS\PATTERNS\Students Samples\004_Prototype\Note_Prototype_Alex_Nauzaruk_Andrew_Vasilishin 3\MusicNotes\obj\Debug\MusicNotes.csproj.GenerateResource.Cache
+D:\CBS\PATTERNS\New folder\004_Prototype\MusicNotes\bin\Debug\MusicNotes.exe.config
+D:\CBS\PATTERNS\New folder\004_Prototype\MusicNotes\obj\Debug\MusicNotes.exe
+D:\CBS\PATTERNS\New folder\004_Prototype\MusicNotes\obj\Debug\MusicNotes.pdb
+D:\CBS\PATTERNS\New folder\004_Prototype\MusicNotes\bin\Debug\MusicNotes.exe
+D:\CBS\PATTERNS\New folder\004_Prototype\MusicNotes\bin\Debug\MusicNotes.pdb
+D:\CBS\PATTERNS\New folder\004_Prototype\MusicNotes\bin\Debug\PianoSoundLibrary.pdb
+D:\CBS\PATTERNS\New folder\004_Prototype\MusicNotes\obj\Debug\MusicNotes.csprojResolveAssemblyReference.cache
+D:\CBS\PATTERNS\New folder\004_Prototype\MusicNotes\obj\Debug\MusicNotes.Form1.resources
+D:\CBS\PATTERNS\New folder\004_Prototype\MusicNotes\obj\Debug\MusicNotes.Properties.Resources.resources
+D:\CBS\PATTERNS\New folder\004_Prototype\MusicNotes\obj\Debug\MusicNotes.csproj.GenerateResource.Cache
+D:\PATTERNS\Motivations\004_Prototype\MusicNotes\bin\Debug\MusicNotes.exe.config
+D:\PATTERNS\Motivations\004_Prototype\MusicNotes\obj\Debug\MusicNotes.exe
+D:\PATTERNS\Motivations\004_Prototype\MusicNotes\obj\Debug\MusicNotes.pdb
+D:\PATTERNS\Motivations\004_Prototype\MusicNotes\bin\Debug\MusicNotes.exe
+D:\PATTERNS\Motivations\004_Prototype\MusicNotes\bin\Debug\MusicNotes.pdb
+D:\PATTERNS\Motivations\004_Prototype\MusicNotes\bin\Debug\PianoSoundLibrary.pdb
+D:\PATTERNS\Motivations\004_Prototype\MusicNotes\obj\Debug\MusicNotes.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Motivations\004_Prototype\MusicNotes\obj\Debug\MusicNotes.Form1.resources
+D:\PATTERNS\Motivations\004_Prototype\MusicNotes\obj\Debug\MusicNotes.Properties.Resources.resources
+D:\PATTERNS\Motivations\004_Prototype\MusicNotes\obj\Debug\MusicNotes.csproj.GenerateResource.Cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\003_MusicalEditor\MusicNotes\bin\Debug\MusicNotes.exe.config
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\003_MusicalEditor\MusicNotes\obj\Debug\MusicNotes.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\003_MusicalEditor\MusicNotes\obj\Debug\MusicNotes.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\003_MusicalEditor\MusicNotes\bin\Debug\MusicNotes.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\003_MusicalEditor\MusicNotes\bin\Debug\MusicNotes.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\003_MusicalEditor\MusicNotes\bin\Debug\PianoSoundLibrary.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\003_MusicalEditor\MusicNotes\obj\Debug\MusicNotes.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\003_MusicalEditor\MusicNotes\obj\Debug\MusicNotes.Form1.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\003_MusicalEditor\MusicNotes\obj\Debug\MusicNotes.Properties.Resources.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\003_MusicalEditor\MusicNotes\obj\Debug\MusicNotes.csproj.GenerateResource.Cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\002_MusicalEditor\MusicNotes\obj\Debug\MusicNotes.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\002_MusicalEditor\MusicNotes\obj\Debug\MusicNotes.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\002_MusicalEditor\MusicNotes\bin\Debug\MusicNotes.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\002_MusicalEditor\MusicNotes\bin\Debug\MusicNotes.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\002_MusicalEditor\MusicNotes\bin\Debug\PianoSoundLibrary.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\002_MusicalEditor\MusicNotes\obj\Debug\MusicNotes.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\002_MusicalEditor\MusicNotes\obj\Debug\MusicNotes.Form1.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\002_MusicalEditor\MusicNotes\obj\Debug\MusicNotes.Properties.Resources.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\004_Prototype\002_MusicalEditor\MusicNotes\obj\Debug\MusicNotes.csproj.GenerateResource.Cache
+D:\002_MusicalEditor\MusicNotes\obj\Debug\MusicNotes.exe
+D:\002_MusicalEditor\MusicNotes\obj\Debug\MusicNotes.pdb

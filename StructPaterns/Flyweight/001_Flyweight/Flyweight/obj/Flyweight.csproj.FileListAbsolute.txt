@@ -1,0 +1,10 @@
+D:\Flyweight\Flyweight\obj\Debug\ResolveAssemblyReference.cache
+D:\Flyweight\Flyweight\bin\Debug\Flyweight.exe
+D:\Flyweight\Flyweight\bin\Debug\Flyweight.pdb
+D:\Flyweight\Flyweight\obj\Debug\Flyweight.exe
+D:\Flyweight\Flyweight\obj\Debug\Flyweight.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Flyweight\001_Flyweight\Flyweight\obj\Debug\Flyweight.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Flyweight\001_Flyweight\Flyweight\obj\Debug\Flyweight.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Flyweight\001_Flyweight\Flyweight\bin\Debug\Flyweight.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Flyweight\001_Flyweight\Flyweight\bin\Debug\Flyweight.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Flyweight\001_Flyweight\Flyweight\obj\Debug\ResolveAssemblyReference.cache

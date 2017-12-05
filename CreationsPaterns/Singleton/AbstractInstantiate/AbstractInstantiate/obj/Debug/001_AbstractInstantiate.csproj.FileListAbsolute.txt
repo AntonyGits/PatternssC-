@@ -1,0 +1,18 @@
+D:\AbstractInstantiate\AbstractInstantiate\bin\Debug\AbstractInstantiate.exe.config
+D:\AbstractInstantiate\AbstractInstantiate\obj\Debug\AbstractInstantiate.exe
+D:\AbstractInstantiate\AbstractInstantiate\obj\Debug\AbstractInstantiate.pdb
+C:\Users\Aleksey\Desktop\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение\AbstractInstantiate\AbstractInstantiate\bin\Debug\AbstractInstantiate.exe.config
+C:\Users\Aleksey\Desktop\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение\AbstractInstantiate\AbstractInstantiate\obj\Debug\AbstractInstantiate.exe
+C:\Users\Aleksey\Desktop\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 1. Введение\AbstractInstantiate\AbstractInstantiate\obj\Debug\AbstractInstantiate.pdb
+C:\Users\Aleksey\Desktop\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\000_AbstractInstantiate\AbstractInstantiate\bin\Debug\AbstractInstantiate.exe.config
+C:\Users\Aleksey\Desktop\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\000_AbstractInstantiate\AbstractInstantiate\obj\Debug\AbstractInstantiate.exe
+C:\Users\Aleksey\Desktop\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\000_AbstractInstantiate\AbstractInstantiate\obj\Debug\AbstractInstantiate.pdb
+D:\CBS\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\AbstractInstantiate\AbstractInstantiate\bin\Debug\AbstractInstantiate.exe.config
+D:\CBS\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\AbstractInstantiate\AbstractInstantiate\obj\Debug\AbstractInstantiate.exe
+D:\CBS\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\AbstractInstantiate\AbstractInstantiate\obj\Debug\AbstractInstantiate.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\AbstractInstantiate\AbstractInstantiate\bin\Debug\AbstractInstantiate.exe.config
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\AbstractInstantiate\AbstractInstantiate\obj\Debug\AbstractInstantiate.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\AbstractInstantiate\AbstractInstantiate\obj\Debug\AbstractInstantiate.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\AbstractInstantiate\AbstractInstantiate\bin\Debug\AbstractInstantiate.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\AbstractInstantiate\AbstractInstantiate\bin\Debug\AbstractInstantiate.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\AbstractInstantiate\AbstractInstantiate\obj\Debug\001_AbstractInstantiate.csprojResolveAssemblyReference.cache

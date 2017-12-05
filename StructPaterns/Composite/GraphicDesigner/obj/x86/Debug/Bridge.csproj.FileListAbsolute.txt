@@ -1,0 +1,50 @@
+D:\Bridge\Bridge\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Bridge\Bridge\obj\x86\Debug\Bridge.Properties.Resources.resources
+D:\Bridge\Bridge\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Bridge\Bridge\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Bridge\Bridge\bin\Debug\Bridge.exe
+D:\Bridge\Bridge\bin\Debug\Bridge.pdb
+D:\Bridge\Bridge\obj\x86\Debug\Bridge.exe
+D:\Bridge\Bridge\obj\x86\Debug\Bridge.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\002_Structural Структурные\007_Bridge\004_Bridge WinForm\Bridge\obj\x86\Debug\Bridge.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\002_Structural Структурные\007_Bridge\004_Bridge WinForm\Bridge\obj\x86\Debug\Bridge.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\007_Bridge\004_Bridge WinForm\Bridge\obj\x86\Debug\Bridge.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\007_Bridge\004_Bridge WinForm\Bridge\obj\x86\Debug\Bridge.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\007_Bridge\004_Bridge WinForm\Bridge\bin\Debug\Bridge.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\007_Bridge\004_Bridge WinForm\Bridge\bin\Debug\Bridge.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\007_Bridge\004_Bridge WinForm\Bridge\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\007_Bridge\004_Bridge WinForm\Bridge\obj\x86\Debug\Bridge.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\007_Bridge\004_Bridge WinForm\Bridge\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\007_Bridge\004_Bridge WinForm\Bridge\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\002_Structural Структурные\007_Bridge\004_Bridge WinForm\Bridge\obj\x86\Debug\Bridge.exe
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\002_Structural Структурные\007_Bridge\004_Bridge WinForm\Bridge\obj\x86\Debug\Bridge.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\002_Structural Структурные\007_Bridge\004_Bridge WinForm\Bridge\bin\Debug\Bridge.exe
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\002_Structural Структурные\007_Bridge\004_Bridge WinForm\Bridge\bin\Debug\Bridge.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\002_Structural Структурные\007_Bridge\004_Bridge WinForm\Bridge\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\002_Structural Структурные\007_Bridge\004_Bridge WinForm\Bridge\obj\x86\Debug\Bridge.Properties.Resources.resources
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\002_Structural Структурные\007_Bridge\004_Bridge WinForm\Bridge\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\002_Structural Структурные\007_Bridge\004_Bridge WinForm\Bridge\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\004_Bridge WinForm\Bridge\obj\x86\Debug\Bridge.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\004_Bridge WinForm\Bridge\obj\x86\Debug\Bridge.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\004_Bridge WinForm\Bridge\bin\Debug\Bridge.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\004_Bridge WinForm\Bridge\bin\Debug\Bridge.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\004_Bridge WinForm\Bridge\obj\x86\Debug\Bridge.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\004_Bridge WinForm\Bridge\obj\x86\Debug\Bridge.Properties.Resources.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\004_Bridge WinForm\Bridge\obj\x86\Debug\Bridge.csproj.GenerateResource.Cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\MY_Bridge WinForm ._._._._\Bridge\obj\x86\Debug\Bridge.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\MY_Bridge WinForm ._._._._\Bridge\obj\x86\Debug\Bridge.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\Bridge WinForm (Shapes and Lines)\Bridge\obj\x86\Debug\Bridge.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\Bridge WinForm (Shapes and Lines)\Bridge\obj\x86\Debug\Bridge.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\Bridge WinForm (Shapes and Lines)\Bridge\bin\Debug\Bridge.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\Bridge WinForm (Shapes and Lines)\Bridge\bin\Debug\Bridge.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\Bridge WinForm (Shapes and Lines)\Bridge\obj\x86\Debug\Bridge.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\Bridge WinForm (Shapes and Lines)\Bridge\obj\x86\Debug\Bridge.Properties.Resources.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\Bridge WinForm (Shapes and Lines)\Bridge\obj\x86\Debug\Bridge.csproj.GenerateResource.Cache
+D:\Composit House\Bridge\obj\x86\Debug\Bridge.exe
+D:\Composit House\Bridge\obj\x86\Debug\Bridge.pdb
+D:\Composit House\Bridge\bin\Debug\Bridge.exe
+D:\Composit House\Bridge\bin\Debug\Bridge.pdb
+D:\Composit House\Bridge\obj\x86\Debug\Bridge.csprojResolveAssemblyReference.cache
+D:\Composit House\Bridge\obj\x86\Debug\Bridge.csproj.GenerateResource.Cache
+D:\Composit House\Bridge\obj\x86\Debug\Composite.Form1.resources
+D:\Composit House\Bridge\obj\x86\Debug\Composite.Properties.Resources.resources

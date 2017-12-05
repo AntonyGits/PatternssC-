@@ -1,0 +1,78 @@
+D:\MealyStateMachine\MealyStateMachine\bin\Debug\MealyStateMachine.exe.config
+D:\MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.csprojResolveAssemblyReference.cache
+D:\MealyStateMachine\MealyStateMachine\obj\x86\Debug\Workflow1.g.xaml
+D:\MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine_Workflow1_BeforeInitializeComponentHelper.txt
+D:\MealyStateMachine\MealyStateMachine\obj\x86\Debug\_MealyStateMachine.g.cs
+D:\MealyStateMachine\MealyStateMachine\obj\x86\Debug\Workflow1.g.cs
+D:\MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine_Workflow1_BeforeInitializeComponentHelper.cs
+D:\MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.csproj.XamlGeneratedCodeFileListAbsolute.txt
+D:\MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.csproj.XamlGeneratedXamlFileListAbsolute.txt
+D:\MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.csproj.FileListAbsolute.txt
+D:\MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.dll
+D:\MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.pdb
+D:\MealyStateMachine\MealyStateMachine\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+D:\MealyStateMachine\MealyStateMachine\obj\x86\Debug\InProcessTempFiles\Workflow1.g.cs
+D:\MealyStateMachine\MealyStateMachine\obj\x86\Debug\InProcessTempFiles\Workflow1.g.xaml
+D:\MealyStateMachine\MealyStateMachine\obj\x86\Debug\InProcessTempFiles\_MealyStateMachine.g.cs
+D:\MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.exe
+D:\MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine_Workflow1_CompiledExpressionRoot.cs
+D:\MealyStateMachine\MealyStateMachine\bin\Debug\MealyStateMachine.exe
+D:\MealyStateMachine\MealyStateMachine\bin\Debug\MealyStateMachine.pdb
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\MealyStateMachine\MealyStateMachine\bin\Debug\MealyStateMachine.exe.config
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.exe
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.pdb
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\MealyStateMachine\MealyStateMachine\bin\Debug\MealyStateMachine.exe
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\MealyStateMachine\MealyStateMachine\bin\Debug\MealyStateMachine.pdb
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.csprojResolveAssemblyReference.cache
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\MealyStateMachine\MealyStateMachine\obj\x86\Debug\Workflow1.g.xaml
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine_Workflow1_BeforeInitializeComponentHelper.txt
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\MealyStateMachine\MealyStateMachine\obj\x86\Debug\_MealyStateMachine.g.cs
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\MealyStateMachine\MealyStateMachine\obj\x86\Debug\Workflow1.g.cs
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine_Workflow1_BeforeInitializeComponentHelper.cs
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.csproj.XamlGeneratedCodeFileListAbsolute.txt
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.csproj.XamlGeneratedXamlFileListAbsolute.txt
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.csproj.FileListAbsolute.txt
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.dll
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine_Workflow1_CompiledExpressionRoot.cs
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\MealyStateMachine\MealyStateMachine\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\MealyStateMachine\MealyStateMachine\obj\x86\Debug\InProcessTempFiles\Workflow1.g.cs
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\MealyStateMachine\MealyStateMachine\obj\x86\Debug\InProcessTempFiles\Workflow1.g.xaml
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\MealyStateMachine\MealyStateMachine\obj\x86\Debug\InProcessTempFiles\_MealyStateMachine.g.cs
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\001_MealyStateMachine\MealyStateMachine\bin\Debug\MealyStateMachine.exe.config
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\001_MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.exe
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\001_MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.pdb
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\001_MealyStateMachine\MealyStateMachine\bin\Debug\MealyStateMachine.exe
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\001_MealyStateMachine\MealyStateMachine\bin\Debug\MealyStateMachine.pdb
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\001_MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.csprojResolveAssemblyReference.cache
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\001_MealyStateMachine\MealyStateMachine\obj\x86\Debug\Workflow1.g.xaml
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\001_MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine_Workflow1_BeforeInitializeComponentHelper.txt
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\001_MealyStateMachine\MealyStateMachine\obj\x86\Debug\_MealyStateMachine.g.cs
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\001_MealyStateMachine\MealyStateMachine\obj\x86\Debug\Workflow1.g.cs
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\001_MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine_Workflow1_BeforeInitializeComponentHelper.cs
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\001_MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.csproj.XamlGeneratedCodeFileListAbsolute.txt
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\001_MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.csproj.XamlGeneratedXamlFileListAbsolute.txt
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\001_MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine_Workflow1_CompiledExpressionRoot.cs
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\001_MealyStateMachine\MealyStateMachine\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\001_MealyStateMachine\MealyStateMachine\obj\x86\Debug\InProcessTempFiles\Workflow1.g.cs
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\001_MealyStateMachine\MealyStateMachine\obj\x86\Debug\InProcessTempFiles\Workflow1.g.xaml
+D:\COURSES\BRIEF COURSES\WWF 4.5 State Machine\001_MealyStateMachine\MealyStateMachine\obj\x86\Debug\InProcessTempFiles\_MealyStateMachine.g.cs
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\002_MealyStateMachine\MealyStateMachine\bin\Debug\MealyStateMachine.exe.config
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\002_MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\002_MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\002_MealyStateMachine\MealyStateMachine\bin\Debug\MealyStateMachine.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\002_MealyStateMachine\MealyStateMachine\bin\Debug\MealyStateMachine.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\002_MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\002_MealyStateMachine\MealyStateMachine\obj\x86\Debug\Workflow1.g.xaml
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\002_MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine_Workflow1_BeforeInitializeComponentHelper.txt
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\002_MealyStateMachine\MealyStateMachine\obj\x86\Debug\_MealyStateMachine.g.cs
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\002_MealyStateMachine\MealyStateMachine\obj\x86\Debug\Workflow1.g.cs
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\002_MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine_Workflow1_BeforeInitializeComponentHelper.cs
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\002_MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.csproj.XamlGeneratedCodeFileListAbsolute.txt
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\002_MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.csproj.XamlGeneratedXamlFileListAbsolute.txt
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\002_MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.csproj.FileListAbsolute.txt
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\002_MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine.dll
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\002_MealyStateMachine\MealyStateMachine\obj\x86\Debug\MealyStateMachine_Workflow1_CompiledExpressionRoot.cs
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\002_MealyStateMachine\MealyStateMachine\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\002_MealyStateMachine\MealyStateMachine\obj\x86\Debug\InProcessTempFiles\Workflow1.g.cs
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\002_MealyStateMachine\MealyStateMachine\obj\x86\Debug\InProcessTempFiles\Workflow1.g.xaml
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\002_MealyStateMachine\MealyStateMachine\obj\x86\Debug\InProcessTempFiles\_MealyStateMachine.g.cs

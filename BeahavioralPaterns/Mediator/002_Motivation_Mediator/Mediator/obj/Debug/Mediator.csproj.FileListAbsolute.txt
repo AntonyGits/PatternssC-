@@ -1,0 +1,8 @@
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\017_Mediator\002_Motivation_Mediator\Mediator\bin\Debug\Mediator.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\017_Mediator\002_Motivation_Mediator\Mediator\bin\Debug\Mediator.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\017_Mediator\002_Motivation_Mediator\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\017_Mediator\002_Motivation_Mediator\Mediator\obj\Debug\Mediator.Properties.Resources.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\017_Mediator\002_Motivation_Mediator\Mediator\obj\Debug\Mediator.csproj.GenerateResource.Cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\017_Mediator\002_Motivation_Mediator\Mediator\obj\Debug\Mediator.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\017_Mediator\002_Motivation_Mediator\Mediator\obj\Debug\Mediator.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\017_Mediator\002_Motivation_Mediator\Mediator\obj\Debug\Mediator.FormFontChooser.resources

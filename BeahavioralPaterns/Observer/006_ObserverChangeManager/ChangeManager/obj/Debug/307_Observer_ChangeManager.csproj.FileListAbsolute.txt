@@ -1,0 +1,10 @@
+C:\Users\Popov\Desktop\CBS Projects\307_Observer\ChangeManager\bin\Debug\ChangeManager.exe.config
+C:\Users\Popov\Desktop\CBS Projects\307_Observer\ChangeManager\obj\Debug\ChangeManager.exe
+C:\Users\Popov\Desktop\CBS Projects\307_Observer\ChangeManager\obj\Debug\ChangeManager.pdb
+C:\Users\Popov\Desktop\CBS Projects\307_Observer\ChangeManager\bin\Debug\ChangeManager.exe
+C:\Users\Popov\Desktop\CBS Projects\307_Observer\ChangeManager\bin\Debug\ChangeManager.pdb
+D:\PATTERNS\Students Samples\019_Observer\307_Observer\ChangeManager\obj\Debug\ChangeManager.exe
+D:\PATTERNS\Students Samples\019_Observer\307_Observer\ChangeManager\obj\Debug\ChangeManager.pdb
+D:\PATTERNS\Students Samples\019_Observer\307_Observer\ChangeManager\bin\Debug\ChangeManager.exe
+D:\PATTERNS\Students Samples\019_Observer\307_Observer\ChangeManager\bin\Debug\ChangeManager.pdb
+D:\PATTERNS\Students Samples\019_Observer\307_Observer\ChangeManager\obj\Debug\307_Observer_ChangeManager.csprojResolveAssemblyReference.cache

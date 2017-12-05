@@ -1,0 +1,7 @@
+D:\001_Observer\Observer\obj\Debug\Observer.exe
+D:\001_Observer\Observer\obj\Debug\Observer.pdb
+D:\001_Observer\Observer\bin\Debug\Observer.exe
+D:\001_Observer\Observer\bin\Debug\Observer.pdb
+D:\001_Observer\Observer\obj\Debug\001_Observer_Pull.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\001_Observer\Observer\obj\Debug\Observer.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\001_Observer\Observer\obj\Debug\Observer.pdb

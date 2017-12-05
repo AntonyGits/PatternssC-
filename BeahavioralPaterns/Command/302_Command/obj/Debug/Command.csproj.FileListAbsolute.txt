@@ -1,0 +1,8 @@
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\014_Command\302_Command\obj\Debug\302_Command.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\014_Command\302_Command\obj\Debug\302_Command.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\014_Command\302_Command\bin\Debug\302_Command.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\014_Command\302_Command\bin\Debug\302_Command.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\014_Command\302_Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\014_Command\302_Command\obj\Debug\Command.MainForm.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\014_Command\302_Command\obj\Debug\Command.Properties.Resources.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\014_Command\302_Command\obj\Debug\Command.csproj.GenerateResource.Cache

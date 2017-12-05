@@ -1,0 +1,8 @@
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\CompareCollections\bin\Debug\CompareCollections.exe.config
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\CompareCollections\obj\Debug\CompareCollections.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\CompareCollections\obj\Debug\CompareCollections.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\004_InteralIterator\002_InteralIterator\obj\Debug\CompareCollections.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\004_InteralIterator\002_InteralIterator\obj\Debug\CompareCollections.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\004_InteralIterator\002_InteralIterator\bin\Debug\CompareCollections.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\004_InteralIterator\002_InteralIterator\bin\Debug\CompareCollections.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\004_InteralIterator\002_InteralIterator\obj\Debug\002_InternalIterator.csprojResolveAssemblyReference.cache

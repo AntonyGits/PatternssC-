@@ -1,0 +1,10 @@
+D:\HelloWCF\HelloWCF\bin\Debug\HelloWCF.exe
+D:\HelloWCF\HelloWCF\bin\Debug\HelloWCF.pdb
+D:\HelloWCF\HelloWCF\obj\Debug\ResolveAssemblyReference.cache
+D:\HelloWCF\HelloWCF\obj\Debug\HelloWCF.exe
+D:\HelloWCF\HelloWCF\obj\Debug\HelloWCF.pdb
+D:\HelloWCF MODULES\HelloWCF\obj\Debug\HelloWCF.exe
+D:\HelloWCF MODULES\HelloWCF\obj\Debug\HelloWCF.pdb
+D:\HelloWCF MODULES\HelloWCF\bin\Debug\HelloWCF.exe
+D:\HelloWCF MODULES\HelloWCF\bin\Debug\HelloWCF.pdb
+D:\HelloWCF MODULES\HelloWCF\obj\Debug\ResolveAssemblyReference.cache

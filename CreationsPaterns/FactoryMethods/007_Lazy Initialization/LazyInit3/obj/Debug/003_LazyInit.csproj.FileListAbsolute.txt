@@ -1,0 +1,14 @@
+D:\LazyInit\LazyInit3\bin\Debug\LazyInit3.exe.config
+D:\LazyInit\LazyInit3\bin\Debug\LazyInit3.exe
+D:\LazyInit\LazyInit3\bin\Debug\LazyInit3.pdb
+D:\LazyInit\LazyInit3\obj\Debug\LazyInit3.exe
+D:\LazyInit\LazyInit3\obj\Debug\LazyInit3.pdb
+D:\COURSES\INTEREST SAMPLES\LazyInit\LazyInit3\obj\Debug\LazyInit3.exe
+D:\COURSES\INTEREST SAMPLES\LazyInit\LazyInit3\obj\Debug\LazyInit3.pdb
+D:\COURSES\INTEREST SAMPLES\LazyInit\LazyInit3\bin\Debug\LazyInit3.exe
+D:\COURSES\INTEREST SAMPLES\LazyInit\LazyInit3\bin\Debug\LazyInit3.pdb
+D:\COURSES\INTEREST SAMPLES\LazyInit\LazyInit3\obj\Debug\003_LazyInit.csprojResolveAssemblyReference.cache
+D:\COURSES\INTEREST SAMPLES\Lazy Initialization\LazyInit3\obj\Debug\LazyInit3.exe
+D:\COURSES\INTEREST SAMPLES\Lazy Initialization\LazyInit3\obj\Debug\LazyInit3.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\007_Lazy Initialization\LazyInit3\obj\Debug\LazyInit3.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\007_Lazy Initialization\LazyInit3\obj\Debug\LazyInit3.pdb

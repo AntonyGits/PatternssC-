@@ -1,0 +1,15 @@
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\Task1.1\Compiler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\Task1.1\Compiler\bin\Debug\Compiler.dll
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\Task1.1\Compiler\bin\Debug\Compiler.pdb
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\Task1.1\Compiler\obj\Debug\Compiler.dll
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\Task1.1\Compiler\obj\Debug\Compiler.pdb
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\MvcApplication2\Compiler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\MvcApplication2\Compiler\obj\Debug\Compiler.dll
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\MvcApplication2\Compiler\bin\Debug\Compiler.dll
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\MvcApplication2\Compiler\bin\Debug\Compiler.pdb
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\MvcApplication2\Compiler\obj\Debug\Compiler.pdb
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\ConsoleApplication4\Compiler\bin\Debug\Compiler.dll
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\ConsoleApplication4\Compiler\bin\Debug\Compiler.pdb
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\ConsoleApplication4\Compiler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\ConsoleApplication4\Compiler\obj\Debug\Compiler.dll
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\ConsoleApplication4\Compiler\obj\Debug\Compiler.pdb

@@ -1,0 +1,10 @@
+D:\toDelete\Strategy\Strategy\bin\Debug\Strategy.exe
+D:\toDelete\Strategy\Strategy\bin\Debug\Strategy.pdb
+D:\toDelete\Strategy\Strategy\obj\Debug\ResolveAssemblyReference.cache
+D:\toDelete\Strategy\Strategy\obj\Debug\Strategy.exe
+D:\toDelete\Strategy\Strategy\obj\Debug\Strategy.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Behavioral ПОВЕДЕНЧЕСКИЕ\Strategy\001_Strategy\Strategy\obj\Debug\Strategy.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Behavioral ПОВЕДЕНЧЕСКИЕ\Strategy\001_Strategy\Strategy\obj\Debug\Strategy.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Behavioral ПОВЕДЕНЧЕСКИЕ\Strategy\001_Strategy\Strategy\bin\Debug\Strategy.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Behavioral ПОВЕДЕНЧЕСКИЕ\Strategy\001_Strategy\Strategy\bin\Debug\Strategy.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Behavioral ПОВЕДЕНЧЕСКИЕ\Strategy\001_Strategy\Strategy\obj\Debug\ResolveAssemblyReference.cache

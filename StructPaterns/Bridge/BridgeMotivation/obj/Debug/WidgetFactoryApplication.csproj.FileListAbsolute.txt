@@ -1,0 +1,40 @@
+D:\WidgetFactoryApplication\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.csprojResolveAssemblyReference.cache
+D:\WidgetFactoryApplication\WidgetFactoryApplication\bin\Debug\WidgetFactoryApplication.exe
+D:\WidgetFactoryApplication\WidgetFactoryApplication\bin\Debug\WidgetFactoryApplication.pdb
+D:\WidgetFactoryApplication\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.exe
+D:\WidgetFactoryApplication\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\002_WidgetFactoryApplication\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\002_WidgetFactoryApplication\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\002_WidgetFactoryApplication\WidgetFactoryApplication\bin\Debug\WidgetFactoryApplication.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\002_WidgetFactoryApplication\WidgetFactoryApplication\bin\Debug\WidgetFactoryApplication.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\002_WidgetFactoryApplication\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.csprojResolveAssemblyReference.cache
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\002_WidgetFactory\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\002_WidgetFactory\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\002_WidgetFactory\WidgetFactoryApplication\bin\Debug\WidgetFactoryApplication.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\002_WidgetFactory\WidgetFactoryApplication\bin\Debug\WidgetFactoryApplication.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\002_WidgetFactory\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\002_WidgetFactory\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\002_WidgetFactory\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\002_WidgetFactory\WidgetFactoryApplication\bin\Debug\WidgetFactoryApplication.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\002_WidgetFactory\WidgetFactoryApplication\bin\Debug\WidgetFactoryApplication.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\001_AbstractFactory\002_WidgetFactory\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.csprojResolveAssemblyReference.cache
+D:\002_WidgetFactory\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.exe
+D:\002_WidgetFactory\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.pdb
+D:\002_WidgetFactory\WidgetFactoryApplication\bin\Debug\WidgetFactoryApplication.exe
+D:\002_WidgetFactory\WidgetFactoryApplication\bin\Debug\WidgetFactoryApplication.pdb
+D:\002_WidgetFactory\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Students Samples\007_Bridge\002_WidgetFactory_Bridge\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.exe
+D:\PATTERNS\Students Samples\007_Bridge\002_WidgetFactory_Bridge\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.pdb
+D:\PATTERNS\Students Samples\007_Bridge\002_WidgetFactory_Bridge\WidgetFactoryApplication\bin\Debug\WidgetFactoryApplication.exe
+D:\PATTERNS\Students Samples\007_Bridge\002_WidgetFactory_Bridge\WidgetFactoryApplication\bin\Debug\WidgetFactoryApplication.pdb
+D:\PATTERNS\Students Samples\007_Bridge\002_WidgetFactory_Bridge\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Students Samples\007_Bridge\AbstractFactory-Bridge\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.exe
+D:\PATTERNS\Students Samples\007_Bridge\AbstractFactory-Bridge\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.pdb
+D:\PATTERNS\Students Samples\007_Bridge\AbstractFactory-Bridge\WidgetFactoryApplication\bin\Debug\WidgetFactoryApplication.exe
+D:\PATTERNS\Students Samples\007_Bridge\AbstractFactory-Bridge\WidgetFactoryApplication\bin\Debug\WidgetFactoryApplication.pdb
+D:\PATTERNS\Students Samples\007_Bridge\AbstractFactory-Bridge\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\002_BridgeMotivation\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\002_BridgeMotivation\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\002_BridgeMotivation\WidgetFactoryApplication\bin\Debug\WidgetFactoryApplication.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\002_BridgeMotivation\WidgetFactoryApplication\bin\Debug\WidgetFactoryApplication.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\007_Bridge\002_BridgeMotivation\WidgetFactoryApplication\obj\Debug\WidgetFactoryApplication.csprojResolveAssemblyReference.cache

@@ -1,0 +1,24 @@
+D:\Chain1\Chain1\bin\Debug\Chain1.exe
+D:\Chain1\Chain1\bin\Debug\Chain1.pdb
+D:\Chain1\Chain1\obj\Debug\ResolveAssemblyReference.cache
+D:\Chain1\Chain1\obj\Debug\Chain1.exe
+D:\Chain1\Chain1\obj\Debug\Chain1.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\013_Chain of Responsibility\001_Chain\Chain1\obj\Debug\Chain1.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\013_Chain of Responsibility\001_Chain\Chain1\obj\Debug\Chain1.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\013_Chain of Responsibility\001_Chain\Chain1\bin\Debug\Chain1.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\013_Chain of Responsibility\001_Chain\Chain1\bin\Debug\Chain1.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\013_Chain of Responsibility\001_Chain\Chain1\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\013_Chain of Responsibility\001_Chain\Chain1\obj\Debug\Chain1.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\013_Chain of Responsibility\001_Chain\Chain1\obj\Debug\Chain1.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\013_Chain of Responsibility\001_Chain\Chain1\bin\Debug\Chain1.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\013_Chain of Responsibility\001_Chain\Chain1\bin\Debug\Chain1.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\013_Chain of Responsibility\001_Chain\Chain1\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\013_Chain of Responsibility\001_Chain\Chain1\obj\Debug\Chain1.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\013_Chain of Responsibility\001_Chain\Chain1\obj\Debug\Chain1.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\013_Chain of Responsibility\001_Chain\Chain1\obj\Debug\Chain1.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\013_Chain of Responsibility\001_Chain\Chain1\obj\Debug\Chain1.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\013_Chain of Responsibility\001_Chain\Chain1\bin\Debug\Chain1.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\013_Chain of Responsibility\001_Chain\Chain1\bin\Debug\Chain1.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\013_Chain of Responsibility\001_Chain\Chain1\obj\Debug\Chain1.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\013_Chain of Responsibility\001_Chain\Chain1\obj\Debug\Chain1.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\013_Chain of Responsibility\001_Chain\Chain1\obj\Debug\Chain1.pdb

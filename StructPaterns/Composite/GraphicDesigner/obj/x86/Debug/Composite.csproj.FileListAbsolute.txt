@@ -1,0 +1,18 @@
+D:\Composit House\Bridge\bin\Debug\Bridge.exe
+D:\Composit House\Bridge\bin\Debug\Bridge.pdb
+D:\Composit House\Bridge\obj\x86\Debug\Composite.Form1.resources
+D:\Composit House\Bridge\obj\x86\Debug\Composite.Properties.Resources.resources
+D:\Composit House\Bridge\obj\x86\Debug\Composite.csproj.GenerateResource.Cache
+D:\Composit House\Bridge\obj\x86\Debug\Bridge.exe
+D:\Composit House\Bridge\obj\x86\Debug\Bridge.pdb
+D:\Composit House\Bridge\obj\x86\Debug\Composite.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\008_Composite\002_GraphicDesigner\Bridge\obj\x86\Debug\Bridge.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\008_Composite\002_GraphicDesigner\Bridge\obj\x86\Debug\Bridge.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\008_Composite\002_GraphicDesigner\Composite\obj\x86\Debug\Bridge.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\008_Composite\002_GraphicDesigner\Composite\obj\x86\Debug\Bridge.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\008_Composite\002_GraphicDesigner\Composite\bin\Debug\Bridge.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\008_Composite\002_GraphicDesigner\Composite\bin\Debug\Bridge.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\008_Composite\002_GraphicDesigner\Composite\obj\x86\Debug\Composite.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\008_Composite\002_GraphicDesigner\Composite\obj\x86\Debug\Composite.Form1.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\008_Composite\002_GraphicDesigner\Composite\obj\x86\Debug\Composite.Properties.Resources.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\008_Composite\002_GraphicDesigner\Composite\obj\x86\Debug\Composite.csproj.GenerateResource.Cache

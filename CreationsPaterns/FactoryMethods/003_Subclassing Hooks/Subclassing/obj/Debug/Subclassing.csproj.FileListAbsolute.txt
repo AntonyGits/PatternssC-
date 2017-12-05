@@ -1,0 +1,10 @@
+D:\Subclassing\Subclassing\bin\Debug\Subclassing.exe
+D:\Subclassing\Subclassing\bin\Debug\Subclassing.pdb
+D:\Subclassing\Subclassing\obj\Debug\Subclassing.csprojResolveAssemblyReference.cache
+D:\Subclassing\Subclassing\obj\Debug\Subclassing.Form1.resources
+D:\Subclassing\Subclassing\obj\Debug\Subclassing.Properties.Resources.resources
+D:\Subclassing\Subclassing\obj\Debug\Subclassing.csproj.GenerateResource.Cache
+D:\Subclassing\Subclassing\obj\Debug\Subclassing.exe
+D:\Subclassing\Subclassing\obj\Debug\Subclassing.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\003_Subclassing Hooks\Subclassing\obj\Debug\Subclassing.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\003_Subclassing Hooks\Subclassing\obj\Debug\Subclassing.pdb

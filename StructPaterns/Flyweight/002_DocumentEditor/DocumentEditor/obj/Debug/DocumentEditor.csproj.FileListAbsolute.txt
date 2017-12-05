@@ -1,0 +1,8 @@
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\011_Flyweight\002_DocumentEditor\DocumentEditor\obj\Debug\DocumentEditor.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\011_Flyweight\002_DocumentEditor\DocumentEditor\obj\Debug\DocumentEditor.Form1.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\011_Flyweight\002_DocumentEditor\DocumentEditor\obj\Debug\DocumentEditor.Properties.Resources.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\011_Flyweight\002_DocumentEditor\DocumentEditor\obj\Debug\DocumentEditor.csproj.GenerateResource.Cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\011_Flyweight\002_DocumentEditor\DocumentEditor\bin\Debug\DocumentEditor.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\011_Flyweight\002_DocumentEditor\DocumentEditor\bin\Debug\DocumentEditor.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\011_Flyweight\002_DocumentEditor\DocumentEditor\obj\Debug\DocumentEditor.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\011_Flyweight\002_DocumentEditor\DocumentEditor\obj\Debug\DocumentEditor.pdb

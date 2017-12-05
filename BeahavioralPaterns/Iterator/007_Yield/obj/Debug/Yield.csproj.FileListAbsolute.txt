@@ -1,0 +1,4 @@
+D:\Collections\Yield\bin\Debug\Yield.exe
+D:\Collections\Yield\bin\Debug\Yield.pdb
+D:\Collections\Yield\obj\Debug\Yield.exe
+D:\Collections\Yield\obj\Debug\Yield.pdb

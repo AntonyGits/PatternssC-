@@ -1,0 +1,7 @@
+D:\Collections\Collection1\bin\Debug\Collection1.exe
+D:\Collections\Collection1\bin\Debug\Collection1.pdb
+D:\Collections\Collection1\obj\Debug\001_Collection.csprojResolveAssemblyReference.cache
+D:\Collections\Collection1\obj\Debug\Collection1.exe
+D:\Collections\Collection1\obj\Debug\Collection1.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\005_ICollection\obj\Debug\Collection1.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\005_ICollection\obj\Debug\Collection1.pdb

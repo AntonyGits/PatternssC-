@@ -1,0 +1,7 @@
+D:\FM_With_Argument\FM_With_Argument\bin\Debug\FM_With_Argument.exe
+D:\FM_With_Argument\FM_With_Argument\bin\Debug\FM_With_Argument.pdb
+D:\FM_With_Argument\FM_With_Argument\obj\Debug\FM_With_Argument.csprojResolveAssemblyReference.cache
+D:\FM_With_Argument\FM_With_Argument\obj\Debug\FM_With_Argument.exe
+D:\FM_With_Argument\FM_With_Argument\obj\Debug\FM_With_Argument.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\005_FM_With_Argument\FM_With_Argument\obj\Debug\FM_With_Argument.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\005_FM_With_Argument\FM_With_Argument\obj\Debug\FM_With_Argument.pdb

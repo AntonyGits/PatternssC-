@@ -1,0 +1,5 @@
+D:\NewYear\NewYear\bin\Debug\NewYear.exe
+D:\NewYear\NewYear\bin\Debug\NewYear.pdb
+D:\NewYear\NewYear\obj\Debug\NewYear.csprojResolveAssemblyReference.cache
+D:\NewYear\NewYear\obj\Debug\NewYear.exe
+D:\NewYear\NewYear\obj\Debug\NewYear.pdb

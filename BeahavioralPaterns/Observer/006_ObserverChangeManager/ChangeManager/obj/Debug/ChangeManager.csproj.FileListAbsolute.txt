@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\019_Observer_Illia_Popov\Observer_Clocks\ChangeManager\bin\Debug\ChangeManager.exe.config
+C:\Users\Student\Desktop\019_Observer_Illia_Popov\Observer_Clocks\ChangeManager\bin\Debug\ChangeManager.exe
+C:\Users\Student\Desktop\019_Observer_Illia_Popov\Observer_Clocks\ChangeManager\bin\Debug\ChangeManager.pdb
+C:\Users\Student\Desktop\019_Observer_Illia_Popov\Observer_Clocks\ChangeManager\obj\Debug\ChangeManager.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\019_Observer_Illia_Popov\Observer_Clocks\ChangeManager\obj\Debug\ChangeManager.exe
+C:\Users\Student\Desktop\019_Observer_Illia_Popov\Observer_Clocks\ChangeManager\obj\Debug\ChangeManager.pdb

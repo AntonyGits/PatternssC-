@@ -1,0 +1,9 @@
+D:\Collections\Enumerator\obj\Debug\002_Enumerator.csprojResolveAssemblyReference.cache
+D:\Collections\Enumerator\bin\Debug\Enumerator.exe
+D:\Collections\Enumerator\bin\Debug\Enumerator.pdb
+D:\Collections\Enumerator\obj\Debug\Enumerator.exe
+D:\Collections\Enumerator\obj\Debug\Enumerator.pdb
+D:\VIDEO CSH Professional\003 - Пользовательские коллекции\001 - Пользовательские коллекции\Collections\Enumerator\obj\Debug\Enumerator.exe
+D:\VIDEO CSH Professional\003 - Пользовательские коллекции\001 - Пользовательские коллекции\Collections\Enumerator\obj\Debug\Enumerator.pdb
+D:\000_Bank\obj\Debug\Enumerator.exe
+D:\000_Bank\obj\Debug\Enumerator.pdb

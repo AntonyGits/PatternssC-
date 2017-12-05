@@ -1,0 +1,14 @@
+D:\ServiceLocator\ServiceLocator_1\bin\Debug\ServiceLocator_1.exe
+D:\ServiceLocator\ServiceLocator_1\bin\Debug\ServiceLocator_1.pdb
+D:\ServiceLocator\ServiceLocator_1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ServiceLocator\ServiceLocator_1\obj\x86\Debug\ServiceLocator_1.exe
+D:\ServiceLocator\ServiceLocator_1\obj\x86\Debug\ServiceLocator_1.pdb
+D:\CBS_LESSONS\Patterns & Practices\001_СОСТАВНЫЕ ПРИЛОЖЕНИЯ\001_Service Locator\ServiceLocator\ServiceLocator_1\obj\x86\Debug\ServiceLocator_1.exe
+D:\CBS_LESSONS\Patterns & Practices\001_СОСТАВНЫЕ ПРИЛОЖЕНИЯ\001_Service Locator\ServiceLocator\ServiceLocator_1\obj\x86\Debug\ServiceLocator_1.pdb
+D:\CBS_LESSONS\Architecture OOP\Patterns & Practices\001 Composite Application\001_Service Locator\ServiceLocator\ServiceLocator_1\obj\x86\Debug\ServiceLocator_1.exe
+D:\CBS_LESSONS\Architecture OOP\Patterns & Practices\001 Composite Application\001_Service Locator\ServiceLocator\ServiceLocator_1\obj\x86\Debug\ServiceLocator_1.pdb
+D:\PATTERNS\ServiceLocator\ServiceLocator_1\obj\x86\Debug\ServiceLocator_1.exe
+D:\PATTERNS\ServiceLocator\ServiceLocator_1\obj\x86\Debug\ServiceLocator_1.pdb
+D:\PATTERNS\ServiceLocator\ServiceLocator_1\bin\Debug\ServiceLocator_1.exe
+D:\PATTERNS\ServiceLocator\ServiceLocator_1\bin\Debug\ServiceLocator_1.pdb
+D:\PATTERNS\ServiceLocator\ServiceLocator_1\obj\x86\Debug\ServiceLocator_1.csprojResolveAssemblyReference.cache

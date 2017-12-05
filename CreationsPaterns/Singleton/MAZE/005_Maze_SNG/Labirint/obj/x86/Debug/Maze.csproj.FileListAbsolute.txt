@@ -1,0 +1,18 @@
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\MAZE\005_Labirint_SNG\Labirint\obj\x86\Debug\Labirint.exe
+D:\CBS_LESSONS\CBS_CS\CBS_Patterns\Design Patterns GoF\MAZE\005_Labirint_SNG\Labirint\obj\x86\Debug\Labirint.pdb
+D:\Patterns proj\PATTERNS\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\MAZE\005_Maze_SNG\Labirint\obj\x86\Debug\Labirint.exe
+D:\Patterns proj\PATTERNS\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\MAZE\005_Maze_SNG\Labirint\obj\x86\Debug\Labirint.pdb
+C:\Users\akasyanov\Desktop\CyberBionic\Patterns\Design Patterns GoF(not viewed)\Глава 2. Порождающие паттерны\MAZE\005_Maze_SNG\Labirint\obj\x86\Debug\Labirint.exe
+C:\Users\akasyanov\Desktop\CyberBionic\Patterns\Design Patterns GoF(not viewed)\Глава 2. Порождающие паттерны\MAZE\005_Maze_SNG\Labirint\obj\x86\Debug\Labirint.pdb
+C:\Users\akasyanov\Desktop\CyberBionic\Patterns\Design Patterns GoF(not viewed)\Глава 2. Порождающие паттерны\MAZE\005_Maze_SNG\Labirint\bin\Debug\Labirint.exe
+C:\Users\akasyanov\Desktop\CyberBionic\Patterns\Design Patterns GoF(not viewed)\Глава 2. Порождающие паттерны\MAZE\005_Maze_SNG\Labirint\bin\Debug\Labirint.pdb
+C:\Users\akasyanov\Desktop\CyberBionic\Patterns\Design Patterns GoF(not viewed)\Глава 2. Порождающие паттерны\MAZE\005_Maze_SNG\Labirint\obj\x86\Debug\Maze.csprojResolveAssemblyReference.cache
+C:\Users\akasyanov\Desktop\CyberBionic\Patterns\Design Patterns GoF(not viewed)\Глава 2. Порождающие паттерны\MAZE\005_Maze_SNG with deserializer\Labirint\obj\x86\Debug\Labirint.exe
+C:\Users\akasyanov\Desktop\CyberBionic\Patterns\Design Patterns GoF(not viewed)\Глава 2. Порождающие паттерны\MAZE\005_Maze_SNG with deserializer\Labirint\obj\x86\Debug\Labirint.pdb
+C:\Users\akasyanov\Desktop\CyberBionic\Patterns\Design Patterns GoF(not viewed)\Глава 2. Порождающие паттерны\MAZE\005_Maze_SNG with deserializer\Labirint\bin\Debug\Labirint.exe
+C:\Users\akasyanov\Desktop\CyberBionic\Patterns\Design Patterns GoF(not viewed)\Глава 2. Порождающие паттерны\MAZE\005_Maze_SNG with deserializer\Labirint\bin\Debug\Labirint.pdb
+C:\Users\akasyanov\Desktop\CyberBionic\Patterns\Design Patterns GoF(not viewed)\Глава 2. Порождающие паттерны\MAZE\005_Maze_SNG with deserializer\Labirint\obj\x86\Debug\Maze.csprojResolveAssemblyReference.cache
+D:\PATTERNS\KASYANOV A\005_Maze_SNG with deserializer\Labirint\obj\x86\Debug\Labirint.exe
+D:\PATTERNS\KASYANOV A\005_Maze_SNG with deserializer\Labirint\obj\x86\Debug\Labirint.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\MAZE\005_Maze_SNG\Labirint\obj\x86\Debug\Labirint.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\MAZE\005_Maze_SNG\Labirint\obj\x86\Debug\Labirint.pdb

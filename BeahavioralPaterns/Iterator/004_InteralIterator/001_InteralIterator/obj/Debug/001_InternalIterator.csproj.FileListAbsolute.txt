@@ -1,0 +1,10 @@
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\004_InteralIterator\obj\Debug\TransformExample.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\004_InteralIterator\obj\Debug\TransformExample.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\004_InteralIterator\bin\Debug\TransformExample.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\004_InteralIterator\bin\Debug\TransformExample.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\004_InteralIterator\obj\Debug\001_InternalIterator.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\004_InteralIterator\001_InteralIterator\obj\Debug\TransformExample.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\004_InteralIterator\001_InteralIterator\obj\Debug\TransformExample.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\004_InteralIterator\001_InteralIterator\bin\Debug\TransformExample.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\004_InteralIterator\001_InteralIterator\bin\Debug\TransformExample.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\004_InteralIterator\001_InteralIterator\obj\Debug\001_InternalIterator.csprojResolveAssemblyReference.cache

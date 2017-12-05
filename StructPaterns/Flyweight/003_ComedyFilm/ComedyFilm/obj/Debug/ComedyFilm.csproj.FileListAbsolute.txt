@@ -1,0 +1,7 @@
+D:\ComedyFilm\ComedyFilm\bin\Debug\ComedyFilm.exe
+D:\ComedyFilm\ComedyFilm\bin\Debug\ComedyFilm.pdb
+D:\ComedyFilm\ComedyFilm\obj\Debug\ComedyFilm.csprojResolveAssemblyReference.cache
+D:\ComedyFilm\ComedyFilm\obj\Debug\ComedyFilm.exe
+D:\ComedyFilm\ComedyFilm\obj\Debug\ComedyFilm.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\011_Flyweight\003_ComedyFilm\ComedyFilm\obj\Debug\ComedyFilm.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\011_Flyweight\003_ComedyFilm\ComedyFilm\obj\Debug\ComedyFilm.pdb

@@ -1,0 +1,7 @@
+D:\Collections\List\bin\Debug\List.exe
+D:\Collections\List\bin\Debug\List.pdb
+D:\Collections\List\obj\Debug\003_List.csprojResolveAssemblyReference.cache
+D:\Collections\List\obj\Debug\List.exe
+D:\Collections\List\obj\Debug\List.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\006_IList\obj\Debug\List.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\016_Iterator\006_IList\obj\Debug\List.pdb

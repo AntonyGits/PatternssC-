@@ -1,0 +1,7 @@
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\010_Facade\002_Assembler Compiler\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\010_Facade\002_Assembler Compiler\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\010_Facade\002_Assembler Compiler\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\010_Facade\002_Assembler Compiler\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\010_Facade\002_Assembler Compiler\ConsoleApplication4\bin\Debug\Compiler.dll
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\010_Facade\002_Assembler Compiler\ConsoleApplication4\bin\Debug\Compiler.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\010_Facade\002_Assembler Compiler\ConsoleApplication4\obj\x86\Debug\Facade.csprojResolveAssemblyReference.cache

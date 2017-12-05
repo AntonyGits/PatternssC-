@@ -1,0 +1,25 @@
+c:\users\rise\documents\visual studio 2012\Projects\ImageProxy\ImageProxy\bin\Debug\ImageProxy.exe.config
+c:\users\rise\documents\visual studio 2012\Projects\ImageProxy\ImageProxy\bin\Debug\ImageProxy.exe
+c:\users\rise\documents\visual studio 2012\Projects\ImageProxy\ImageProxy\bin\Debug\ImageProxy.pdb
+c:\users\rise\documents\visual studio 2012\Projects\ImageProxy\ImageProxy\obj\Debug\ImageProxy.Form1.resources
+c:\users\rise\documents\visual studio 2012\Projects\ImageProxy\ImageProxy\obj\Debug\ImageProxy.Properties.Resources.resources
+c:\users\rise\documents\visual studio 2012\Projects\ImageProxy\ImageProxy\obj\Debug\ImageProxy.csproj.GenerateResource.Cache
+c:\users\rise\documents\visual studio 2012\Projects\ImageProxy\ImageProxy\obj\Debug\ImageProxy.exe
+c:\users\rise\documents\visual studio 2012\Projects\ImageProxy\ImageProxy\obj\Debug\ImageProxy.pdb
+C:\Users\Rise\documents\visual studio 2012\Projects\ImageProxy\ImageProxy\obj\Debug\ImageProxy.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Students Samples\012_Proxy\ImageProxy_Andrew_Vasylyshyn\ImageProxy\obj\Debug\ImageProxy.exe
+D:\PATTERNS\Students Samples\012_Proxy\ImageProxy_Andrew_Vasylyshyn\ImageProxy\obj\Debug\ImageProxy.pdb
+D:\PATTERNS\Students Samples\012_Proxy\ImageProxy_Andrew_Vasylyshyn\ImageProxy\bin\Debug\ImageProxy.exe
+D:\PATTERNS\Students Samples\012_Proxy\ImageProxy_Andrew_Vasylyshyn\ImageProxy\bin\Debug\ImageProxy.pdb
+D:\PATTERNS\Students Samples\012_Proxy\ImageProxy_Andrew_Vasylyshyn\ImageProxy\obj\Debug\ImageProxy.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Students Samples\012_Proxy\ImageProxy_Andrew_Vasylyshyn\ImageProxy\obj\Debug\ImageProxy.Form1.resources
+D:\PATTERNS\Students Samples\012_Proxy\ImageProxy_Andrew_Vasylyshyn\ImageProxy\obj\Debug\ImageProxy.Properties.Resources.resources
+D:\PATTERNS\Students Samples\012_Proxy\ImageProxy_Andrew_Vasylyshyn\ImageProxy\obj\Debug\ImageProxy.csproj.GenerateResource.Cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\012_Proxy\002_ImageProxy\ImageProxy\obj\Debug\ImageProxy.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\012_Proxy\002_ImageProxy\ImageProxy\obj\Debug\ImageProxy.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\012_Proxy\002_ImageProxy\ImageProxy\bin\Debug\ImageProxy.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\012_Proxy\002_ImageProxy\ImageProxy\bin\Debug\ImageProxy.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\012_Proxy\002_ImageProxy\ImageProxy\obj\Debug\ImageProxy.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\012_Proxy\002_ImageProxy\ImageProxy\obj\Debug\ImageProxy.Form1.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\012_Proxy\002_ImageProxy\ImageProxy\obj\Debug\ImageProxy.Properties.Resources.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\012_Proxy\002_ImageProxy\ImageProxy\obj\Debug\ImageProxy.csproj.GenerateResource.Cache

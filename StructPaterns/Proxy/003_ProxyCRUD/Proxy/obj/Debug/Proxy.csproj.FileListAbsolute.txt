@@ -1,0 +1,18 @@
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\012_Proxy\001_Proxy\Proxy\obj\Debug\Proxy.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\012_Proxy\001_Proxy\Proxy\obj\Debug\Proxy.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\012_Proxy\001_Proxy\Proxy\bin\Debug\Proxy.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\012_Proxy\001_Proxy\Proxy\bin\Debug\Proxy.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\012_Proxy\001_Proxy\Proxy\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\012_Proxy\001_Proxy\Proxy\obj\Debug\Proxy.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\012_Proxy\001_Proxy\Proxy\obj\Debug\Proxy.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\012_Proxy\001_Proxy\Proxy\obj\Debug\Proxy.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\012_Proxy\001_Proxy\Proxy\obj\Debug\Proxy.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Структурные паттерны\012_Proxy\001_Proxy\Proxy\obj\Debug\Proxy.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Структурные паттерны\012_Proxy\001_Proxy\Proxy\obj\Debug\Proxy.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\012_Proxy\001_Proxy\Proxy\obj\Debug\Proxy.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\012_Proxy\001_Proxy\Proxy\obj\Debug\Proxy.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\012_Proxy\003_ProxyCRUD\Proxy\obj\Debug\Proxy.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\012_Proxy\003_ProxyCRUD\Proxy\obj\Debug\Proxy.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\012_Proxy\003_ProxyCRUD\Proxy\bin\Debug\Proxy.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\012_Proxy\003_ProxyCRUD\Proxy\bin\Debug\Proxy.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\012_Proxy\003_ProxyCRUD\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache

@@ -1,0 +1,24 @@
+D:\State\State\bin\Debug\State.exe
+D:\State\State\bin\Debug\State.pdb
+D:\State\State\obj\Debug\ResolveAssemblyReference.cache
+D:\State\State\obj\Debug\State.exe
+D:\State\State\obj\Debug\State.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\020_State\001_State\State\obj\Debug\State.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\020_State\001_State\State\obj\Debug\State.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\020_State\001_State\State\bin\Debug\State.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\020_State\001_State\State\bin\Debug\State.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\020_State\001_State\State\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\020_State\001_State\State\obj\Debug\State.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\020_State\001_State\State\obj\Debug\State.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\020_State\001_State\State\bin\Debug\State.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\020_State\001_State\State\bin\Debug\State.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\020_State\001_State\State\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\020_State\001_State\State\obj\Debug\State.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\020_State\001_State\State\obj\Debug\State.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\020_State\001_State\State\bin\Debug\State.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\020_State\001_State\State\bin\Debug\State.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\020_State\001_State\State\obj\Debug\ResolveAssemblyReference.cache
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\001_State\State\obj\Debug\State.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\001_State\State\obj\Debug\State.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\001_State\State\obj\Debug\State.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\020_State\001_State\State\obj\Debug\State.pdb

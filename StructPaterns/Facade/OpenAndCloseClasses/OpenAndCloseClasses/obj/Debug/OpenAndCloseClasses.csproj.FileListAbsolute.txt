@@ -1,0 +1,7 @@
+D:\OpenAndCloseClasses\OpenAndCloseClasses\bin\Debug\OpenAndCloseClasses.exe
+D:\OpenAndCloseClasses\OpenAndCloseClasses\bin\Debug\OpenAndCloseClasses.pdb
+D:\OpenAndCloseClasses\OpenAndCloseClasses\bin\Debug\ClassLibrary.dll
+D:\OpenAndCloseClasses\OpenAndCloseClasses\bin\Debug\ClassLibrary.pdb
+D:\OpenAndCloseClasses\OpenAndCloseClasses\obj\Debug\OpenAndCloseClasses.csprojResolveAssemblyReference.cache
+D:\OpenAndCloseClasses\OpenAndCloseClasses\obj\Debug\OpenAndCloseClasses.exe
+D:\OpenAndCloseClasses\OpenAndCloseClasses\obj\Debug\OpenAndCloseClasses.pdb

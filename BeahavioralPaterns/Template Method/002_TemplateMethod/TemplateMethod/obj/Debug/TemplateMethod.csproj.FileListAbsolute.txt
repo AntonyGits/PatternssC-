@@ -1,0 +1,7 @@
+D:\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe
+D:\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.pdb
+D:\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+D:\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.exe
+D:\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\022_Template Method\002_TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\022_Template Method\002_TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.pdb

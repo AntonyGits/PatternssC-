@@ -1,0 +1,18 @@
+D:\LazyInit\LazyInit\bin\Debug\LazyInit.exe.config
+D:\LazyInit\LazyInit\bin\Debug\LazyInit.exe
+D:\LazyInit\LazyInit\bin\Debug\LazyInit.pdb
+D:\LazyInit\LazyInit\obj\Debug\001_LazyInit.csprojResolveAssemblyReference.cache
+D:\LazyInit\LazyInit\obj\Debug\LazyInit.exe
+D:\LazyInit\LazyInit\obj\Debug\LazyInit.pdb
+D:\COURSES\INTEREST SAMPLES\LazyInit\LazyInit\obj\Debug\LazyInit.exe
+D:\COURSES\INTEREST SAMPLES\LazyInit\LazyInit\obj\Debug\LazyInit.pdb
+D:\COURSES\INTEREST SAMPLES\LazyInit\LazyInit\bin\Debug\LazyInit.exe
+D:\COURSES\INTEREST SAMPLES\LazyInit\LazyInit\bin\Debug\LazyInit.pdb
+D:\COURSES\INTEREST SAMPLES\LazyInit\LazyInit\obj\Debug\001_LazyInit.csprojResolveAssemblyReference.cache
+D:\COURSES\INTEREST SAMPLES\Lazy Initialization\LazyInit\obj\Debug\LazyInit.exe
+D:\COURSES\INTEREST SAMPLES\Lazy Initialization\LazyInit\obj\Debug\LazyInit.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\007_Lazy Initialization\LazyInit\obj\Debug\LazyInit.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\007_Lazy Initialization\LazyInit\obj\Debug\LazyInit.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\007_Lazy Initialization\LazyInit\bin\Debug\LazyInit.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\007_Lazy Initialization\LazyInit\bin\Debug\LazyInit.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\003_FactoryMethod\007_Lazy Initialization\LazyInit\obj\Debug\001_LazyInit.csprojResolveAssemblyReference.cache

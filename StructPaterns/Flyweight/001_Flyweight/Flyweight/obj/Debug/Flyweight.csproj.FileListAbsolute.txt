@@ -1,0 +1,19 @@
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\011_Flyweight\001_Flyweight\Flyweight\obj\Debug\Flyweight.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\011_Flyweight\001_Flyweight\Flyweight\obj\Debug\Flyweight.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\011_Flyweight\001_Flyweight\Flyweight\bin\Debug\Flyweight.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\011_Flyweight\001_Flyweight\Flyweight\bin\Debug\Flyweight.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\011_Flyweight\001_Flyweight\Flyweight\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\011_Flyweight\001_Flyweight\Flyweight\obj\Debug\Flyweight.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\002_Structural СТРУКТУРНЫЕ\011_Flyweight\001_Flyweight\Flyweight\obj\Debug\Flyweight.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\011_Flyweight\001_Flyweight\Flyweight\obj\Debug\Flyweight.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\002_Structural Структурные\011_Flyweight\001_Flyweight\Flyweight\obj\Debug\Flyweight.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Структурные паттерны\011_Flyweight\001_Flyweight\Flyweight\obj\Debug\Flyweight.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Структурные паттерны\011_Flyweight\001_Flyweight\Flyweight\obj\Debug\Flyweight.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Структурные паттерны\011_Flyweight\001_Flyweight\Flyweight\bin\Debug\Flyweight.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Структурные паттерны\011_Flyweight\001_Flyweight\Flyweight\bin\Debug\Flyweight.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Структурные паттерны\011_Flyweight\001_Flyweight\Flyweight\obj\Debug\Flyweight.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\011_Flyweight\001_Flyweight\Flyweight\obj\Debug\Flyweight.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\011_Flyweight\001_Flyweight\Flyweight\obj\Debug\Flyweight.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\011_Flyweight\001_Flyweight\Flyweight\obj\Debug\Flyweight.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\011_Flyweight\001_Flyweight\Flyweight\bin\Debug\Flyweight.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\011_Flyweight\001_Flyweight\Flyweight\bin\Debug\Flyweight.pdb

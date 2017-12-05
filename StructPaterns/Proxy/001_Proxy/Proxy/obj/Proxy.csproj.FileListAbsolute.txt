@@ -1,0 +1,5 @@
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Proxy\001_Proxy\Proxy\bin\Debug\Proxy.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Proxy\001_Proxy\Proxy\bin\Debug\Proxy.pdb
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Proxy\001_Proxy\Proxy\obj\Debug\ResolveAssemblyReference.cache
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Proxy\001_Proxy\Proxy\obj\Debug\Proxy.exe
+D:\MY\Design Pattern Framework\Develop Patterns\Structural СТРУКТУРНЫЕ\Proxy\001_Proxy\Proxy\obj\Debug\Proxy.pdb

@@ -1,0 +1,14 @@
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\MvcApplication2\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\MvcApplication2\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\MvcApplication2\ConsoleApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\MvcApplication2\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\MvcApplication2\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\MvcApplication2\ConsoleApplication4\bin\Debug\Compiler.dll
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\MvcApplication2\ConsoleApplication4\bin\Debug\Compiler.pdb
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\Compiler.dll
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\Compiler.pdb
+C:\Users\tisa.KYIV\Documents\Visual Studio 2010\Projects\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,27 @@
+D:\Template\Template\bin\Debug\Template.exe
+D:\Template\Template\bin\Debug\Template.pdb
+D:\Template\Template\obj\Debug\ResolveAssemblyReference.cache
+D:\Template\Template\obj\Debug\Template.exe
+D:\Template\Template\obj\Debug\Template.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\022_Template Method\001_Template\Template\obj\Debug\Template.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\022_Template Method\001_Template\Template\obj\Debug\Template.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\022_Template Method\001_Template\Template\bin\Debug\Template.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\022_Template Method\001_Template\Template\bin\Debug\Template.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\022_Template Method\001_Template\Template\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\022_Template Method\001_Template\Template\obj\Debug\Template.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\022_Template Method\001_Template\Template\obj\Debug\Template.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\022_Template Method\001_Template\Template\bin\Debug\Template.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\022_Template Method\001_Template\Template\bin\Debug\Template.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\022_Template Method\001_Template\Template\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\022_Template Method\001_Template\Template\obj\Debug\Template.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\022_Template Method\001_Template\Template\obj\Debug\Template.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\022_Template Method\001_Template\Template\bin\Debug\Template.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\022_Template Method\001_Template\Template\bin\Debug\Template.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\022_Template Method\001_Template\Template\obj\Debug\ResolveAssemblyReference.cache
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\022_Template Method\001_Template\Template\obj\Debug\Template.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\022_Template Method\001_Template\Template\obj\Debug\Template.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\022_Template Method\001_Template\Template\bin\Debug\Template.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\022_Template Method\001_Template\Template\bin\Debug\Template.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\022_Template Method\001_Template\Template\obj\Debug\Template.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\022_Template Method\001_Template\Template\obj\Debug\Template.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\022_Template Method\001_Template\Template\obj\Debug\Template.pdb

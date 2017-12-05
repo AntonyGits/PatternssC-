@@ -1,0 +1,21 @@
+D:\Mediator_Alex_Nazaruk\Mediator_Alex_Nazaruk\bin\Debug\Mediator_Alex_Nazaruk.exe.config
+D:\Mediator_Alex_Nazaruk\Mediator_Alex_Nazaruk\bin\Debug\Mediator_Alex_Nazaruk.exe
+D:\Mediator_Alex_Nazaruk\Mediator_Alex_Nazaruk\bin\Debug\Mediator_Alex_Nazaruk.pdb
+D:\Mediator_Alex_Nazaruk\Mediator_Alex_Nazaruk\obj\Debug\Mediator_Alex_Nazaruk.csprojResolveAssemblyReference.cache
+D:\Mediator_Alex_Nazaruk\Mediator_Alex_Nazaruk\obj\Debug\Mediator_Alex_Nazaruk.formFontChooser.resources
+D:\Mediator_Alex_Nazaruk\Mediator_Alex_Nazaruk\obj\Debug\Mediator_Alex_Nazaruk.Properties.Resources.resources
+D:\Mediator_Alex_Nazaruk\Mediator_Alex_Nazaruk\obj\Debug\Mediator_Alex_Nazaruk.csproj.GenerateResource.Cache
+D:\Mediator_Alex_Nazaruk\Mediator_Alex_Nazaruk\obj\Debug\Mediator_Alex_Nazaruk.exe
+D:\Mediator_Alex_Nazaruk\Mediator_Alex_Nazaruk\obj\Debug\Mediator_Alex_Nazaruk.pdb
+D:\PATTERNS\Students Samples\017_Mediator\Mediator_Alex_Nazaruk\Mediator_Alex_Nazaruk\bin\Debug\Mediator_Alex_Nazaruk.exe.config
+D:\PATTERNS\Students Samples\017_Mediator\Mediator_Alex_Nazaruk\Mediator_Alex_Nazaruk\obj\Debug\Mediator_Alex_Nazaruk.exe
+D:\PATTERNS\Students Samples\017_Mediator\Mediator_Alex_Nazaruk\Mediator_Alex_Nazaruk\obj\Debug\Mediator_Alex_Nazaruk.pdb
+D:\PATTERNS\Students Samples\017_Mediator\Mediator_Alex_Nazaruk\Mediator_Alex_Nazaruk\bin\Debug\Mediator_Alex_Nazaruk.exe
+D:\PATTERNS\Students Samples\017_Mediator\Mediator_Alex_Nazaruk\Mediator_Alex_Nazaruk\bin\Debug\Mediator_Alex_Nazaruk.pdb
+D:\PATTERNS\Students Samples\017_Mediator\Mediator_Alex_Nazaruk\Mediator_Alex_Nazaruk\obj\Debug\Mediator_Alex_Nazaruk.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Students Samples\017_Mediator\Mediator_Alex_Nazaruk\Mediator_Alex_Nazaruk\obj\Debug\Mediator_Alex_Nazaruk.FormFontChooser.resources
+D:\PATTERNS\Students Samples\017_Mediator\Mediator_Alex_Nazaruk\Mediator_Alex_Nazaruk\obj\Debug\Mediator_Alex_Nazaruk.Properties.Resources.resources
+D:\PATTERNS\Students Samples\017_Mediator\Mediator_Alex_Nazaruk\Mediator_Alex_Nazaruk\obj\Debug\Mediator_Alex_Nazaruk.csproj.GenerateResource.Cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\017_Mediator\002_Motivation_Mediator\Mediator_Alex_Nazaruk\bin\Debug\Mediator_Alex_Nazaruk.exe.config
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\017_Mediator\002_Motivation_Mediator\Mediator_Alex_Nazaruk\obj\Debug\Mediator_Alex_Nazaruk.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\017_Mediator\002_Motivation_Mediator\Mediator_Alex_Nazaruk\obj\Debug\Mediator_Alex_Nazaruk.pdb

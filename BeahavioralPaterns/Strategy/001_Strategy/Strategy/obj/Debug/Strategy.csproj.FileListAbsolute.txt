@@ -1,0 +1,20 @@
+D:\Design Pattern Framework\Develop Patterns\Behavioral ПОВЕДЕНЧЕСКИЕ\Strategy\001_Strategy\Strategy\obj\Debug\Strategy.exe
+D:\Design Pattern Framework\Develop Patterns\Behavioral ПОВЕДЕНЧЕСКИЕ\Strategy\001_Strategy\Strategy\obj\Debug\Strategy.pdb
+D:\Design Pattern Framework\Develop Patterns\Behavioral ПОВЕДЕНЧЕСКИЕ\Strategy\001_Strategy\Strategy\bin\Debug\Strategy.exe
+D:\Design Pattern Framework\Develop Patterns\Behavioral ПОВЕДЕНЧЕСКИЕ\Strategy\001_Strategy\Strategy\bin\Debug\Strategy.pdb
+D:\Design Pattern Framework\Develop Patterns\Behavioral ПОВЕДЕНЧЕСКИЕ\Strategy\001_Strategy\Strategy\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\Strategy\001_Strategy\Strategy\obj\Debug\Strategy.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\Strategy\001_Strategy\Strategy\obj\Debug\Strategy.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\021_Strategy\001_Strategy\Strategy\obj\Debug\Strategy.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\021_Strategy\001_Strategy\Strategy\obj\Debug\Strategy.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\021_Strategy\001_Strategy\Strategy\bin\Debug\Strategy.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\021_Strategy\001_Strategy\Strategy\bin\Debug\Strategy.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\021_Strategy\001_Strategy\Strategy\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\021_Strategy\001_Strategy\Strategy\obj\Debug\Strategy.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\021_Strategy\001_Strategy\Strategy\obj\Debug\Strategy.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\021_Strategy\001_Strategy\Strategy\obj\Debug\Strategy.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\021_Strategy\001_Strategy\Strategy\obj\Debug\Strategy.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\021_Strategy\001_Strategy\Strategy\obj\Debug\Strategy.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\021_Strategy\001_Strategy\Strategy\obj\Debug\Strategy.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\021_Strategy\001_Strategy\Strategy\obj\Debug\Strategy.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\021_Strategy\001_Strategy\Strategy\obj\Debug\Strategy.pdb

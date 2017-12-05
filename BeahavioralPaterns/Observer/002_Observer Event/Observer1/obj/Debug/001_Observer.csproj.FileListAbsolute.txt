@@ -1,0 +1,5 @@
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\002_Observer Event\Observer1\bin\Debug\Observer1.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\002_Observer Event\Observer1\bin\Debug\Observer1.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\002_Observer Event\Observer1\obj\Debug\001_Observer.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\002_Observer Event\Observer1\obj\Debug\Observer1.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\002_Observer Event\Observer1\obj\Debug\Observer1.pdb

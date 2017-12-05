@@ -1,0 +1,48 @@
+G:\MY\Design Pattern Framework\Develop Patterns\Behavioral ПОВЕДЕНЧЕСКИЕ\Observer\001_Observer\Observer\obj\Debug\Observer.exe
+G:\MY\Design Pattern Framework\Develop Patterns\Behavioral ПОВЕДЕНЧЕСКИЕ\Observer\001_Observer\Observer\obj\Debug\Observer.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\019_Observer\001_Observer\Observer\obj\Debug\Observer.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\019_Observer\001_Observer\Observer\obj\Debug\Observer.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\019_Observer\001_Observer\Observer\bin\Debug\Observer.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\019_Observer\001_Observer\Observer\bin\Debug\Observer.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\019_Observer\001_Observer\Observer\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\019_Observer\001_Observer\Observer\obj\Debug\Observer.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\019_Observer\001_Observer\Observer\obj\Debug\Observer.pdb
+D:\019_Observer\001_Observer\Observer\obj\Debug\Observer.exe
+D:\019_Observer\001_Observer\Observer\obj\Debug\Observer.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\019_Observer\001_Observer\Observer\obj\Debug\Observer.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\019_Observer\001_Observer\Observer\obj\Debug\Observer.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\019_Observer\001_Observer\Observer\bin\Debug\Observer.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\019_Observer\001_Observer\Observer\bin\Debug\Observer.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Pro_BEG\019_Observer\001_Observer\Observer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\student\Desktop\Alexey\019_Observer\001_Observer\Observer\obj\Debug\Observer.exe
+C:\Users\student\Desktop\Alexey\019_Observer\001_Observer\Observer\obj\Debug\Observer.pdb
+C:\Users\student\Desktop\Alexey\019_Observer\PlayBoy\Observer\obj\Debug\Observer.exe
+C:\Users\student\Desktop\Alexey\019_Observer\PlayBoy\Observer\obj\Debug\Observer.pdb
+C:\Users\student\Desktop\Alexey\019_Observer\PlayBoy\Observer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\student\Desktop\Alexey\019_Observer\PlayBoy\Observer\bin\Debug\Observer.exe
+C:\Users\student\Desktop\Alexey\019_Observer\PlayBoy\Observer\bin\Debug\Observer.pdb
+D:\Technology\CANADA_BridgeAndObserver\PlayBoy\Observer\obj\Debug\Observer.exe
+D:\Technology\CANADA_BridgeAndObserver\PlayBoy\Observer\obj\Debug\Observer.pdb
+D:\Technology\CANADA_BridgeAndObserver\PlayBoy\Observer\bin\Debug\Observer.exe
+D:\Technology\CANADA_BridgeAndObserver\PlayBoy\Observer\bin\Debug\Observer.pdb
+D:\Technology\CANADA_BridgeAndObserver\PlayBoy\Observer\obj\Debug\ResolveAssemblyReference.cache
+D:\DEVELOPMENT\CANADA_BridgeAndObserver\PlayBoy\Observer\obj\Debug\Observer.exe
+D:\DEVELOPMENT\CANADA_BridgeAndObserver\PlayBoy\Observer\obj\Debug\Observer.pdb
+D:\DEVELOPMENT\CANADA_BridgeAndObserver\PlayBoy\Observer\bin\Debug\Observer.exe
+D:\DEVELOPMENT\CANADA_BridgeAndObserver\PlayBoy\Observer\bin\Debug\Observer.pdb
+D:\DEVELOPMENT\CANADA_BridgeAndObserver\PlayBoy\Observer\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\Other Patterns\CANADA_BridgeAndObserver\PlayBoy\Observer\obj\Debug\Observer.exe
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\Other Patterns\CANADA_BridgeAndObserver\PlayBoy\Observer\obj\Debug\Observer.pdb
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\Other Patterns\CANADA_BridgeAndObserver\PlayBoy\Observer\bin\Debug\Observer.exe
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\Other Patterns\CANADA_BridgeAndObserver\PlayBoy\Observer\bin\Debug\Observer.pdb
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\Other Patterns\CANADA_BridgeAndObserver\PlayBoy\Observer\obj\Debug\ResolveAssemblyReference.cache
+D:\MSDN Magazine\Observer\obj\Debug\Observer.exe
+D:\MSDN Magazine\Observer\obj\Debug\Observer.pdb
+D:\MSDN Magazine\Observer\bin\Debug\Observer.exe
+D:\MSDN Magazine\Observer\bin\Debug\Observer.pdb
+D:\MSDN Magazine\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\004_MSDN Magazine\Observer\obj\Debug\Observer.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\004_MSDN Magazine\Observer\obj\Debug\Observer.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\004_MSDN Magazine\Observer\bin\Debug\Observer.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\004_MSDN Magazine\Observer\bin\Debug\Observer.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\004_MSDN Magazine\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+D:\Visitor\Visitor\bin\Debug\Visitor.exe
+D:\Visitor\Visitor\bin\Debug\Visitor.pdb
+D:\Visitor\Visitor\obj\Debug\ResolveAssemblyReference.cache
+D:\Visitor\Visitor\obj\Debug\Visitor.exe
+D:\Visitor\Visitor\obj\Debug\Visitor.pdb
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\023_Visitor\001_Visitor\Visitor\obj\Debug\Visitor.exe
+D:\CBS_LESSONS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\023_Visitor\001_Visitor\Visitor\obj\Debug\Visitor.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\023_Visitor\001_Visitor\Visitor\obj\Debug\Visitor.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\023_Visitor\001_Visitor\Visitor\obj\Debug\Visitor.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\023_Visitor\001_Visitor\Visitor\bin\Debug\Visitor.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\023_Visitor\001_Visitor\Visitor\bin\Debug\Visitor.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\003_Behavioral ПОВЕДЕНЧЕСКИЕ\023_Visitor\001_Visitor\Visitor\obj\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\023_Visitor\001_Visitor\Visitor\obj\Debug\Visitor.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\Design Patterns GoF\003_Behavioral Поведенческие\023_Visitor\001_Visitor\Visitor\obj\Debug\Visitor.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\023_Visitor\001_Visitor\Visitor\obj\Debug\Visitor.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\023_Visitor\001_Visitor\Visitor\obj\Debug\Visitor.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\023_Visitor\001_Visitor\Visitor\bin\Debug\Visitor.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\023_Visitor\001_Visitor\Visitor\bin\Debug\Visitor.pdb
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 4. Паттерны поведения\023_Visitor\001_Visitor\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\023_Visitor\001_Visitor\Visitor\obj\Debug\Visitor.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\023_Visitor\001_Visitor\Visitor\obj\Debug\Visitor.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\023_Visitor\003_Visitor\Visitor\obj\Debug\Visitor.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\023_Visitor\003_Visitor\Visitor\obj\Debug\Visitor.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\023_Visitor\003_Visitor\Visitor\bin\Debug\Visitor.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\023_Visitor\003_Visitor\Visitor\bin\Debug\Visitor.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\023_Visitor\003_Visitor\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+C:\Users\Student\Desktop\019_Observer_Illia_Popov\Observer_Clocks\Observer_Clocks\bin\Debug\Observer_Clocks.exe.config
+C:\Users\Student\Desktop\019_Observer_Illia_Popov\Observer_Clocks\Observer_Clocks\obj\Debug\Observer_Clocks.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\019_Observer_Illia_Popov\Observer_Clocks\Observer_Clocks\obj\Debug\Observer_Clocks.Properties.Resources.resources
+C:\Users\Student\Desktop\019_Observer_Illia_Popov\Observer_Clocks\Observer_Clocks\obj\Debug\Observer_Clocks.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\019_Observer_Illia_Popov\Observer_Clocks\Observer_Clocks\bin\Debug\Observer_Clocks.exe
+C:\Users\Student\Desktop\019_Observer_Illia_Popov\Observer_Clocks\Observer_Clocks\bin\Debug\Observer_Clocks.pdb
+C:\Users\Student\Desktop\019_Observer_Illia_Popov\Observer_Clocks\Observer_Clocks\obj\Debug\Observer_Clocks.exe
+C:\Users\Student\Desktop\019_Observer_Illia_Popov\Observer_Clocks\Observer_Clocks\obj\Debug\Observer_Clocks.pdb
+C:\Users\Student\Desktop\019_Observer_Illia_Popov\Observer_Clocks\Observer_Clocks\obj\Debug\Observer_Clocks.ClockForm.resources
+D:\PATTERNS\Students Samples\019_Observer\019_Observer_Illia_Popov\Observer_Clocks\Observer_Clocks\bin\Debug\Observer_Clocks.exe.config
+D:\PATTERNS\Students Samples\019_Observer\019_Observer_Illia_Popov\Observer_Clocks\Observer_Clocks\obj\Debug\Observer_Clocks.exe
+D:\PATTERNS\Students Samples\019_Observer\019_Observer_Illia_Popov\Observer_Clocks\Observer_Clocks\obj\Debug\Observer_Clocks.pdb
+D:\PATTERNS\Students Samples\019_Observer\019_Observer_Illia_Popov\Observer_Clocks\Observer_Clocks\bin\Debug\Observer_Clocks.exe
+D:\PATTERNS\Students Samples\019_Observer\019_Observer_Illia_Popov\Observer_Clocks\Observer_Clocks\bin\Debug\Observer_Clocks.pdb
+D:\PATTERNS\Students Samples\019_Observer\019_Observer_Illia_Popov\Observer_Clocks\Observer_Clocks\obj\Debug\Observer_Clocks.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Students Samples\019_Observer\019_Observer_Illia_Popov\Observer_Clocks\Observer_Clocks\obj\Debug\Observer_Clocks.ClockForm.resources
+D:\PATTERNS\Students Samples\019_Observer\019_Observer_Illia_Popov\Observer_Clocks\Observer_Clocks\obj\Debug\Observer_Clocks.Properties.Resources.resources
+D:\PATTERNS\Students Samples\019_Observer\019_Observer_Illia_Popov\Observer_Clocks\Observer_Clocks\obj\Debug\Observer_Clocks.csproj.GenerateResource.Cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\007_ObserverClocks\Observer_Clocks\obj\Debug\Observer_Clocks.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\007_ObserverClocks\Observer_Clocks\obj\Debug\Observer_Clocks.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\007_ObserverClocks\Observer_Clocks\obj\Debug\Observer_Clocks.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\007_ObserverClocks\Observer_Clocks\obj\Debug\Observer_Clocks.ClockForm.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\007_ObserverClocks\Observer_Clocks\obj\Debug\Observer_Clocks.Properties.Resources.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\007_ObserverClocks\Observer_Clocks\obj\Debug\Observer_Clocks.csproj.GenerateResource.Cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\007_ObserverClocks\Observer_Clocks\bin\Debug\Observer_Clocks.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 4. Паттерны поведения\019_Observer\007_ObserverClocks\Observer_Clocks\bin\Debug\Observer_Clocks.pdb

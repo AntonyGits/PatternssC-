@@ -1,0 +1,19 @@
+D:\Labirint\Labirint\bin\Debug\Labirint.exe
+D:\Labirint\Labirint\bin\Debug\Labirint.pdb
+D:\Labirint\Labirint\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Labirint\Labirint\obj\x86\Debug\Labirint.exe
+D:\Labirint\Labirint\obj\x86\Debug\Labirint.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\LABIRINT\001_Labirint\Labirint\obj\x86\Debug\Labirint.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Patterns\LABIRINT\001_Labirint\Labirint\obj\x86\Debug\Labirint.pdb
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\BOOKS Patterns\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Порождающие паттерны\MAZE\001_Labirint_AF\Labirint\obj\x86\Debug\Labirint.exe
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\BOOKS Patterns\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Порождающие паттерны\MAZE\001_Labirint_AF\Labirint\obj\x86\Debug\Labirint.pdb
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\BOOKS Patterns\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Порождающие паттерны\MAZE\001_Labirint_AF\Labirint\bin\Debug\Labirint.exe
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\BOOKS Patterns\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Порождающие паттерны\MAZE\001_Labirint_AF\Labirint\bin\Debug\Labirint.pdb
+D:\CBS_LESSONS\Architecture OOP\Patterns GOF\BOOKS Patterns\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 3. Порождающие паттерны\MAZE\001_Labirint_AF\Labirint\obj\x86\Debug\Labirint.csprojResolveAssemblyReference.cache
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\MAZE\001_Maze_AF\Labirint\obj\x86\Debug\Labirint.exe
+D:\PATTERNS\CBS_Patterns\Design Patterns GoF\Глава 2. Порождающие паттерны\MAZE\001_Maze_AF\Labirint\obj\x86\Debug\Labirint.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\MAZE\001_Maze_AF\Labirint\obj\x86\Debug\Labirint.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\MAZE\001_Maze_AF\Labirint\obj\x86\Debug\Labirint.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\MAZE\001_Maze_AF\Labirint\bin\Debug\Labirint.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\MAZE\001_Maze_AF\Labirint\bin\Debug\Labirint.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 2. Порождающие паттерны\MAZE\001_Maze_AF\Labirint\obj\x86\Debug\Labirint.csprojResolveAssemblyReference.cache

@@ -1,0 +1,25 @@
+D:\Documents\Visual Studio 2012\Projects\Decorator-Text View\TextViewDecorator\bin\Debug\TextViewDecorator.exe.config
+D:\Documents\Visual Studio 2012\Projects\Decorator-Text View\TextViewDecorator\bin\Debug\TextViewDecorator.exe
+D:\Documents\Visual Studio 2012\Projects\Decorator-Text View\TextViewDecorator\bin\Debug\TextViewDecorator.pdb
+D:\Documents\Visual Studio 2012\Projects\Decorator-Text View\TextViewDecorator\obj\Debug\TextViewDecorator.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\Decorator-Text View\TextViewDecorator\obj\Debug\TextViewDecorator.Form1.resources
+D:\Documents\Visual Studio 2012\Projects\Decorator-Text View\TextViewDecorator\obj\Debug\TextViewDecorator.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\Decorator-Text View\TextViewDecorator\obj\Debug\TextViewDecorator.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\Decorator-Text View\TextViewDecorator\obj\Debug\TextViewDecorator.exe
+D:\Documents\Visual Studio 2012\Projects\Decorator-Text View\TextViewDecorator\obj\Debug\TextViewDecorator.pdb
+D:\PATTERNS\Students Samples\009_Decorator\Decorator-Text View\TextViewDecorator\obj\Debug\TextViewDecorator.exe
+D:\PATTERNS\Students Samples\009_Decorator\Decorator-Text View\TextViewDecorator\obj\Debug\TextViewDecorator.pdb
+D:\PATTERNS\Students Samples\009_Decorator\Decorator-Text View\TextViewDecorator\bin\Debug\TextViewDecorator.exe
+D:\PATTERNS\Students Samples\009_Decorator\Decorator-Text View\TextViewDecorator\bin\Debug\TextViewDecorator.pdb
+D:\PATTERNS\Students Samples\009_Decorator\Decorator-Text View\TextViewDecorator\obj\Debug\TextViewDecorator.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Students Samples\009_Decorator\Decorator-Text View\TextViewDecorator\obj\Debug\TextViewDecorator.Form1.resources
+D:\PATTERNS\Students Samples\009_Decorator\Decorator-Text View\TextViewDecorator\obj\Debug\TextViewDecorator.Properties.Resources.resources
+D:\PATTERNS\Students Samples\009_Decorator\Decorator-Text View\TextViewDecorator\obj\Debug\TextViewDecorator.csproj.GenerateResource.Cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\009_Decorator\002_Text View\TextViewDecorator\obj\Debug\TextViewDecorator.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\009_Decorator\002_Text View\TextViewDecorator\obj\Debug\TextViewDecorator.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\009_Decorator\002_Text View\TextViewDecorator\bin\Debug\TextViewDecorator.exe
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\009_Decorator\002_Text View\TextViewDecorator\bin\Debug\TextViewDecorator.pdb
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\009_Decorator\002_Text View\TextViewDecorator\obj\Debug\TextViewDecorator.csprojResolveAssemblyReference.cache
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\009_Decorator\002_Text View\TextViewDecorator\obj\Debug\TextViewDecorator.Form1.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\009_Decorator\002_Text View\TextViewDecorator\obj\Debug\TextViewDecorator.Properties.Resources.resources
+D:\PATTERNS\Design Patterns Samples\Design Patterns GoF\Глава 3. Структурные паттерны\009_Decorator\002_Text View\TextViewDecorator\obj\Debug\TextViewDecorator.csproj.GenerateResource.Cache

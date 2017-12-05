@@ -1,0 +1,1402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="576d03b0-ffd4-40b5-b4ad-a3bfa187fe89" name="Labirint" linkedPackageId="f1ad95ac-bd21-42a0-91cc-611a51935b89" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <packagedElements>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="06664358-3cf4-45d9-ac8a-7cf3a81d3249" name="MapSite" isAbstract="true" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="d442b016-490b-4eaf-96f1-063527d52ba4" />
+        <ownedOperationsInternal>
+          <operation Id="79dfb56f-cda9-4fcd-a56d-3a1c332b4f47" name="Enter" isLeaf="false" isStatic="false" isAbstract="true" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="c6b98873-4954-4c51-961e-835afc8b4905" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="54eca4de-84e3-4528-9c95-337af56f48ee" direction="Return">
+                  <elementDefinition Id="fb953671-b345-4725-aacb-146c516d804c" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="d08b7ed3-9900-4291-aae0-7be0f013eb67" LastKnownName="void" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="5a7c1135-7a25-4c56-aeb9-e15fa81db94d" name="Maze" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="653b2f61-da28-44da-9a19-70d07b27617f" />
+        <targetEnds>
+          <association Id="eb40d493-0732-4f0f-8637-6af1e0f883c6" isDerived="false" sourceEndRoleName="Maze" targetEndRoleName="Room" isLeaf="false" isAbstract="false">
+            <classMoniker Id="cc265530-2ee5-436b-a01a-1cf9b6dc4e6e" LastKnownName="Room" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="c16ced45-11ff-4801-89c8-5e61541f176b" name="Maze" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="5e1423a9-c871-4408-97b7-0279f90c3081" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="0b8f810a-cb56-4f98-bb0f-3ab584980e9c" name="Room" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="241db5a1-04e4-4803-a2cc-69abd1d80f6f" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="d8d7dbb4-72b0-44fb-bb01-6e834e413b66" />
+          </association>
+        </targetEnds>
+        <ownedAttributesInternal>
+          <property Id="43290c5e-2a0a-403d-bfa0-cdcba77ce33b" name="rooms" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="de33e89f-f4f8-4fdc-b9c2-0a9d5088ab3a" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="2edd3bad-3046-4c48-9aaa-b5f75a9c8fef" LastKnownName="Dictionary&lt;int, Room&gt;" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="f5ee421b-cb93-4c96-abce-fa19c9a0c699" name="AddRoom" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="a08f97b1-036d-4984-9fba-faaf5399a00e" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="b999e2de-0c35-41f8-aee3-ca8e800574f0" name="Room room" direction="In" isUnique="false">
+                  <elementDefinition Id="a7653188-458b-4313-8a1b-316b55dd9d04" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="b5c29840-d4d1-488d-9aaa-b9e0cbcaaafc" direction="Return">
+                  <elementDefinition Id="af6062e3-ca65-4218-a78d-68b9fdcf2130" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="ffdf760a-83fc-4372-b225-bc43f708a54c" LastKnownName="void" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="018083ac-829c-4110-b25e-8ebb8218ed61" name="RoomNo" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="856537fe-7a53-40e5-ab69-2b525435fa9b" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="154b8e5a-f5a8-4d00-b499-5e178f9e2f70" name="int number" direction="In" isUnique="false">
+                  <elementDefinition Id="148c143c-e51d-4a8b-bf28-e562780bc469" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="9cf10cd4-973d-4229-a8cd-9f163c7aa8b9" direction="Return" isUnique="false">
+                  <elementDefinition Id="a82edb18-08fa-4647-b429-a481dcd6c82e" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="2eeaab4a-e02b-41c9-ad14-39dfa19f172d" LastKnownName="Room" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="5e761cbe-98dd-428d-853d-fed6345b5211" name="Maze" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="14f74e5a-5045-43d2-bae3-d39fe710d468" />
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="cc265530-2ee5-436b-a01a-1cf9b6dc4e6e" name="Room" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="266ce0c3-168e-43d2-bf9f-3b52769539ae" />
+        <generalsInternal>
+          <generalization Id="282ce9f6-680c-4d76-9258-4d6e923730be" isSubstitutable="false">
+            <classMoniker Id="06664358-3cf4-45d9-ac8a-7cf3a81d3249" LastKnownName="MapSite" />
+            <elementDefinition Id="89bccabd-3d35-4abe-bff2-b81ee2eec7b8" />
+          </generalization>
+        </generalsInternal>
+        <targetEnds>
+          <association Id="9d96f82e-9e34-4629-9b02-f7bfef1ae280" isDerived="false" sourceEndRoleName="Room" targetEndRoleName="MapSite" isLeaf="false" isAbstract="false">
+            <classMoniker Id="06664358-3cf4-45d9-ac8a-7cf3a81d3249" LastKnownName="MapSite" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="7cd22fe4-b0b6-4a81-8025-7682f8870561" name="Room" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="f1e939f8-d545-4647-b89e-8fc6791fe7d4" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="dcb849ef-6c55-4f8c-a8f2-a8877c207346" name="MapSite" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="baef780e-0865-428d-86f1-d12f69a158ea" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="279f8a7f-67ef-4996-a151-caf7b093f6da" />
+          </association>
+        </targetEnds>
+        <ownedAttributesInternal>
+          <property Id="d52627ca-5121-4cc9-a799-3f332aea1649" name="roomNumber" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="4e238b94-041a-480b-8b24-ce04f030c3a1" />
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="e91041ae-11d5-4166-b8c7-e120c7830a5e" name="Enter" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="d72a16ec-522e-406f-b4ed-0885c30cf1ea" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="4f162753-68f2-43fb-9715-1ad8babf1fc4" direction="Return">
+                  <elementDefinition Id="e1d0f25f-0627-4eb4-93c3-a4ad0274a7d8" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="e8db8ac5-d31e-40c6-9633-458bc7b1db5e" LastKnownName="void" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="e4131929-61a3-4478-91db-cd9c59d1ae60" name="SetSide" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="152755a1-433e-4db6-80cd-34350e072927" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="8fdd4fcb-83d8-4ce5-ad67-2e39d1553b76" name="Direction direction" direction="In" isUnique="false">
+                  <elementDefinition Id="88bc3a0b-b64d-4e8e-bf6d-29d037c41ba9" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="7a268ba5-2fae-4665-b6a6-3c76ffb39999" name="MapSite mapSide" direction="In" isUnique="false">
+                  <elementDefinition Id="071bcaf4-b859-4f53-8e2f-192002a30da8" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="13be4a76-0ff3-47e0-a9f6-f8538af9fb59" direction="Return">
+                  <elementDefinition Id="373fd2d7-19c9-4744-970a-208f741c5348" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="5e352dab-4623-4665-8a86-ba97dd2223d0" LastKnownName="void" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="b5dce801-0d13-490d-807d-ea7573b7be69" name="GetSide" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="c4aee96d-da93-46ee-ac19-959f5296f4b4" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="212e4a44-2787-45e7-a7f4-56d106667386" name="Direction direction" direction="In" isUnique="false">
+                  <elementDefinition Id="d306359a-329b-4097-b79d-37d2d61c48b2" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="bd577021-3eb6-4596-885a-b1f0d90d81ce" direction="Return">
+                  <elementDefinition Id="642cef15-04da-4193-af91-eb9fd94906e7" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="8fe9bf0e-2b38-4a9f-b81c-aa47f16bd61b" LastKnownName="MapSite" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="3ea89a18-e9d7-46b0-ba47-74dca9f48965" name="Wall" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="142f17d2-2123-4326-9987-eb7b5ec24ca2" />
+        <generalsInternal>
+          <generalization Id="02dd53ea-fc9f-4667-9725-5eba446513d1" isSubstitutable="false">
+            <classMoniker Id="06664358-3cf4-45d9-ac8a-7cf3a81d3249" LastKnownName="MapSite" />
+            <elementDefinition Id="40cd86e2-b257-4ac8-bc23-fa3f42a105c5" />
+          </generalization>
+        </generalsInternal>
+        <ownedOperationsInternal>
+          <operation Id="292c8407-d41c-43d6-a4a6-99917609f890" name="Enter" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="9a909c8a-e1b2-4fbb-a03b-d580aa9109b1" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="9588508e-31d2-4759-b4fd-c8afe4a8135e" direction="Return">
+                  <elementDefinition Id="a6019bda-7d3f-456b-8586-a6f222fe3699" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="e8db8ac5-d31e-40c6-9633-458bc7b1db5e" LastKnownName="void" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="a830768a-85e1-4533-be70-e86d25dde638" name="Wall" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="69b28cfc-5965-427b-b3f2-d13117f845c8" />
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="09743776-e495-4d79-9fcf-74432edc82aa" name="Door" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="9236fc25-c3d4-4a6e-bd0e-ab258466c732" />
+        <generalsInternal>
+          <generalization Id="e4ab12fa-ee49-4758-ba75-19db770fb698" isSubstitutable="false">
+            <classMoniker Id="06664358-3cf4-45d9-ac8a-7cf3a81d3249" LastKnownName="MapSite" />
+            <elementDefinition Id="38aaccb1-f2a3-4157-af9e-7688bd94f4a6" />
+          </generalization>
+        </generalsInternal>
+        <ownedAttributesInternal>
+          <property Id="2a66e5ba-2ed3-46a7-a784-df483f72454e" name="isOpen" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="3ea495fe-5592-45e7-957f-094ffd0bc1c7" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="009c614d-3886-4144-bc5b-02acf2b0cc3e" LastKnownName="bool" />
+            </type_NamedElement>
+          </property>
+          <property Id="8024b34e-9717-4e67-8327-b2999d09ec5f" name="room1" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="7933bdbf-0dec-4cb5-882e-929b6bf46188" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="2eeaab4a-e02b-41c9-ad14-39dfa19f172d" LastKnownName="Room" />
+            </type_NamedElement>
+          </property>
+          <property Id="8085efc0-d20b-4dd2-b591-02f84b55114c" name="room2" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="d4182708-1ed5-48e2-9d56-581ba25f6ef9" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="2eeaab4a-e02b-41c9-ad14-39dfa19f172d" LastKnownName="Room" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="7986b971-6a6b-4128-871b-0eca809579b6" name="Enter" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="2c4b83df-435b-4135-a111-e3c9b459e3f1" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="80bfec9c-4069-4aeb-849c-6e18054c4870" direction="Return">
+                  <elementDefinition Id="e0f030d9-bf27-4303-8971-be5f1781c416" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="e8db8ac5-d31e-40c6-9633-458bc7b1db5e" LastKnownName="void" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="641e5b39-120c-4620-8a40-a8ef56df253d" name="OtherSideFrom" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="535b51b6-108c-4727-9c2f-7f4c09ef04dd" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="10fae2a2-d68b-4f03-a5a4-f810079e1f6c" name="Room room" direction="In" isUnique="false">
+                  <elementDefinition Id="ec1bf132-af3b-4713-a159-3ff63866dd2a" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="ccd155dc-d3a0-4ecf-8913-b4ddde4dfeee" direction="Return" isUnique="false">
+                  <elementDefinition Id="a60a878d-cde8-408e-8847-86fe23366f82" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="2eeaab4a-e02b-41c9-ad14-39dfa19f172d" LastKnownName="Room" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="e7f99fdd-50ab-45b7-9635-4e1301e85754" name="MazeGame" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="290346bc-11ec-443f-8e12-d96248d5c276" />
+        <targetEnds>
+          <association Id="a8afa8c3-7853-461f-b736-154dd57ea690" isDerived="false" sourceEndRoleName="MazeGame" targetEndRoleName="Maze" isLeaf="false" isAbstract="false">
+            <classMoniker Id="5a7c1135-7a25-4c56-aeb9-e15fa81db94d" LastKnownName="Maze" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="6f54a95b-7c42-40f2-a3b7-86fda5605d3d" name="MazeGame" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="2d32542e-8e18-4e4e-bf6d-674b9b88e716" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="bdc44208-d5ea-49d3-a88b-cac5bb972b68" name="Maze" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="ce0a2108-0801-4b49-9833-e92cd720453b" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="ef9fda98-869b-43fa-b12f-1ec9c33f72d7" />
+          </association>
+          <association Id="d1595d6d-4a93-41a7-ae4b-64e53efce4c3" isDerived="false" sourceEndRoleName="MazeGame" targetEndRoleName="Room" isLeaf="false" isAbstract="false">
+            <classMoniker Id="cc265530-2ee5-436b-a01a-1cf9b6dc4e6e" LastKnownName="Room" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="6654c7f2-a785-441a-9fc6-ab660f01f697" name="MazeGame" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="c702c9fe-d85e-47c7-8786-7b5bb06a4a21" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="496ab8c3-36e2-4182-bd36-da7bb6af6f0b" name="Room" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="8b00e008-d73c-4989-96c9-246af0970de5" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="da517a75-54d4-4226-8c8b-ed265439d461" />
+          </association>
+          <association Id="d5a64114-dedd-496a-9049-cd81b8ac1cab" isDerived="false" sourceEndRoleName="MazeGame" targetEndRoleName="Door" isLeaf="false" isAbstract="false">
+            <classMoniker Id="09743776-e495-4d79-9fcf-74432edc82aa" LastKnownName="Door" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="13b5193a-6711-45f1-a702-12bc59dbea15" name="MazeGame" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="9c605d9a-97cd-4e78-a05f-95ef0338468b" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="73ee2c57-b989-48b2-b169-301bb5b6c130" name="Door" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="ddb35e58-9757-42df-82e7-f66c2e581034" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="b890534d-667e-4469-a134-1525579f93a0" />
+          </association>
+          <association Id="3d7c8524-2eaf-44ac-9018-c50015b6f1cb" isDerived="false" sourceEndRoleName="MazeGame" targetEndRoleName="Wall" isLeaf="false" isAbstract="false">
+            <classMoniker Id="3ea89a18-e9d7-46b0-ba47-74dca9f48965" LastKnownName="Wall" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="853ce9e0-fc82-42ab-a32c-5fc673d479a3" name="MazeGame" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="20bf5532-8b11-4ffd-8ee8-5e3e6edcb6f7" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="f8c0b292-f644-4d25-b0d2-00f33c57ef89" name="Wall" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="2fcbc14b-d9f5-4823-b626-5153914ea913" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="60394ec5-6e5a-4e16-86d1-ac35bf9f2944" />
+          </association>
+        </targetEnds>
+        <ownedAttributesInternal>
+          <property Id="863f2f31-1e15-4607-aa48-2bf608e8646d" name="factory" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="9ccd7608-350c-4c46-8951-5c81fb0a0219" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="faa44e80-8697-483d-947c-84ad03d12a00" LastKnownName="MazeFactory" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="2375a6b1-3f7a-4a00-97af-220c246bb5c4" name="CreateMaze" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="6d281f12-77b4-42c7-a010-f76ff3f17352" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="b8dfaa47-1975-4bbc-b210-1264b96412dc" direction="Return">
+                  <elementDefinition Id="babf5aad-9d9b-4e6d-9556-952f0e0b5251" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="be9968aa-0ffa-4730-9ef4-0eecfbf5123f" LastKnownName="Maze" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="a5ee2148-9a34-4755-93ba-cc7bd63c7860" name="CreateMaze" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="3fe1fcd2-6d82-4ad9-8610-7867d88682ec" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="adb7867b-b5dd-4577-bd36-171d2046248a" name="MazeFactory factory" direction="In" isUnique="false">
+                  <elementDefinition Id="aeadcfcc-186d-4120-a60f-85fd8698c03b" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="b6d52f91-947c-4db7-a2bf-01c516b6c1ec" direction="Return" isUnique="false">
+                  <elementDefinition Id="d9781ad7-236f-491a-9655-5ce3cd69bbfa" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="be9968aa-0ffa-4730-9ef4-0eecfbf5123f" LastKnownName="Maze" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="aed16588-f518-4e70-8a0b-ae3db03a33a5" name="CreateMaze" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="37f35292-1509-410b-80ee-e047b9357f01" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="c21a3b30-191d-4a9e-9110-ad33397464eb" name="MazeBuilder builder" direction="In" isUnique="false">
+                  <elementDefinition Id="5ef659a0-acaa-48ec-9dff-f8d3b875762a" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="3ed861e9-201d-4230-9b8b-51ae9ef36f2a" direction="Return" isUnique="false">
+                  <elementDefinition Id="bd570531-157d-4c90-9792-6f2cabe219b1" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="be9968aa-0ffa-4730-9ef4-0eecfbf5123f" LastKnownName="Maze" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="6d068369-3d64-4404-bc06-3878c2d44848" name="CreateComplexMaze" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="cc7366d7-a8b7-419b-94f7-32dd6a6b3079" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="a7bd83e5-c0b3-45eb-ad7a-62ef77e07e5c" name="MazeBuilder builder" direction="In" isUnique="false">
+                  <elementDefinition Id="ddf59a71-71ce-45e8-a5e6-aaf9671492d7" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="034f1734-cd6a-452a-8e6e-92790c140bf2" direction="Return" isUnique="false">
+                  <elementDefinition Id="07823c2c-916d-482a-8f5b-4eeb0e44132b" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="be9968aa-0ffa-4730-9ef4-0eecfbf5123f" LastKnownName="Maze" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="318ec229-4640-4a28-8f35-b377c7d96018" name="MakeMaze" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="554d69b2-0a33-4c3c-8605-e76d34a2f6cd" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="811d55ee-8454-4b9e-a8c8-95c2f3e70006" direction="Return" isUnique="false">
+                  <elementDefinition Id="f17b7ad9-e495-4c30-9f74-c6bcf9091c67" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="be9968aa-0ffa-4730-9ef4-0eecfbf5123f" LastKnownName="Maze" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="3ed83a61-f2d8-4e4e-ac55-95cc3d060b8d" name="MakeRoom" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="ae3b5948-d37d-498c-bdef-ad24a13eeaf8" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="22b17f42-9d3a-49e0-b1a5-5c878a24c2ca" name="int number" direction="In" isUnique="false">
+                  <elementDefinition Id="b6fc9144-e42c-4e74-be20-bbb99f97f706" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="bc7d9dc9-1735-4635-92fc-dc50fb028ef1" direction="Return" isUnique="false">
+                  <elementDefinition Id="2083df2d-8919-421d-b37c-bfd85df967b1" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="2eeaab4a-e02b-41c9-ad14-39dfa19f172d" LastKnownName="Room" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="116e09a4-2d17-4120-be65-0e4a0142cb13" name="MakeWall" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="f04567b1-a6f9-4b84-a462-5f18fb63725d" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="303eec17-70f2-47a2-9285-f3f8305c85fb" direction="Return" isUnique="false">
+                  <elementDefinition Id="6879e6b4-f36a-4fba-aea5-6dcf7dbe56c8" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="2a24af3e-4bce-479f-8ab6-75ad9afe35e6" LastKnownName="Wall" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="3cc1f1b1-0366-4053-9b00-e8040644fbc4" name="MakeDoor" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="4f2958b6-f880-4c65-a4c5-461053a600b5" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="0d8fe1ca-8d53-4fab-a766-4164bbcf4151" name="Room r1" direction="In" isUnique="false">
+                  <elementDefinition Id="a865b7a1-6fa1-4f72-9038-2774cd2616db" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="d4aa1493-11d9-4f2c-a2dd-d1b537b9c84a" name="Room r2" direction="In" isUnique="false">
+                  <elementDefinition Id="87a6df9b-11f3-4468-8892-18269b286237" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="71b51a31-6937-4e84-bf76-abaf6a7e1374" direction="Return" isUnique="false">
+                  <elementDefinition Id="81e642a4-9e45-4df7-adcb-6b6110c7a5c3" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="da01d6ff-4354-44cb-8c77-dc2d6216fe7f" LastKnownName="Door" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <enumeration Id="8106a8b3-2791-4c4e-9aee-27f4f2f9569c" name="Direction" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="909a49e6-1b65-405d-b477-5cd6d3c0d743" />
+        <ownedLiterals>
+          <enumerationLiteral Id="988d8a66-7a6b-47ab-a4b2-a0d1678c9ae5" name="North">
+            <elementDefinition Id="3fee3bf9-b5b9-4a7d-8e8a-40806faf3131" />
+            <specification>
+              <literalInteger Id="62f328f3-e18f-481e-95a5-218130d9d89c" name="Integer" value="0">
+                <elementDefinition Id="9a441968-3472-477b-8fdd-48aab1fa7889" />
+              </literalInteger>
+            </specification>
+          </enumerationLiteral>
+          <enumerationLiteral Id="1b9fb918-d0a0-4dd3-9a3e-39cdd0fd152c" name="South">
+            <elementDefinition Id="95318f5c-dd40-4f3b-b96c-ea1c5b872c0e" />
+            <specification>
+              <literalInteger Id="8472c871-97d2-4b92-bde8-59600e708f9d" name="Integer" value="1">
+                <elementDefinition Id="24913c7b-ff8b-4c3d-9d8e-8b0d46f6791f" />
+              </literalInteger>
+            </specification>
+          </enumerationLiteral>
+          <enumerationLiteral Id="74e1b561-c22f-45f7-944c-91c1cf8dc083" name="East">
+            <elementDefinition Id="e8875f17-3529-4fea-9379-7e8a529450ea" />
+            <specification>
+              <literalInteger Id="9075905a-e351-43a2-a9d6-71542b568e7f" name="Integer" value="2">
+                <elementDefinition Id="a4cf701f-25f3-43fc-946b-68ab25611bf0" />
+              </literalInteger>
+            </specification>
+          </enumerationLiteral>
+          <enumerationLiteral Id="26dc7ca5-1d0a-4697-b52f-a3875454b951" name="West">
+            <elementDefinition Id="3038f6e5-6991-4eb1-9206-399fec34af39" />
+            <specification>
+              <literalInteger Id="e02909fc-6870-4cbf-b088-f72c0a671d56" name="Integer" value="3">
+                <elementDefinition Id="540026c5-dda5-4284-baa8-3e5e3139f298" />
+              </literalInteger>
+            </specification>
+          </enumerationLiteral>
+        </ownedLiterals>
+      </enumeration>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="be9968aa-0ffa-4730-9ef4-0eecfbf5123f" name="Maze" isAbstract="false" isLeaf="false" cachedFullName="ModelingLabirint::Maze">
+        <elementDefinition Id="653b2f61-da28-44da-9a19-70d07b27617f" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="e8db8ac5-d31e-40c6-9633-458bc7b1db5e" name="void" isAbstract="false" isLeaf="false" cachedFullName="void">
+        <elementDefinition Id="0653e978-2855-4bc8-919a-288e5b9e24ec" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="d08b7ed3-9900-4291-aae0-7be0f013eb67" name="void" isAbstract="false" isLeaf="false" cachedFullName="void">
+        <elementDefinition Id="0653e978-2855-4bc8-919a-288e5b9e24ec" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="2edd3bad-3046-4c48-9aaa-b5f75a9c8fef" name="Dictionary&lt;int, Room&gt;" isAbstract="false" isLeaf="false" cachedFullName="Dictionary&lt;int, Room&gt;">
+        <elementDefinition Id="5ffa9c14-2e50-45f9-becb-3683e904d41d" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="ffdf760a-83fc-4372-b225-bc43f708a54c" name="void" isAbstract="false" isLeaf="false" cachedFullName="void">
+        <elementDefinition Id="0653e978-2855-4bc8-919a-288e5b9e24ec" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="2eeaab4a-e02b-41c9-ad14-39dfa19f172d" name="Room" isAbstract="false" isLeaf="false" cachedFullName="ModelingLabirint::Room">
+        <elementDefinition Id="266ce0c3-168e-43d2-bf9f-3b52769539ae" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="8fe9bf0e-2b38-4a9f-b81c-aa47f16bd61b" name="MapSite" isAbstract="false" isLeaf="false" cachedFullName="ModelingLabirint::MapSite">
+        <elementDefinition Id="d442b016-490b-4eaf-96f1-063527d52ba4" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="5e352dab-4623-4665-8a86-ba97dd2223d0" name="void" isAbstract="false" isLeaf="false" cachedFullName="void">
+        <elementDefinition Id="0653e978-2855-4bc8-919a-288e5b9e24ec" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="009c614d-3886-4144-bc5b-02acf2b0cc3e" name="bool" isAbstract="false" isLeaf="false" cachedFullName="bool">
+        <elementDefinition Id="4930eb60-1d2e-4d7e-b2fe-63c50abe829e" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="02a5620d-b455-47ec-8bff-92108ae812dc" name="MazeFactory" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="6ac542b7-f68c-49a0-920f-0c78698bde83" />
+        <ownedOperationsInternal>
+          <operation Id="c53cf304-78b0-4c5c-b815-203744969441" name="MazeFactory" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="2376488a-387c-43be-a1c7-9bf12ce6fd34" />
+          </operation>
+          <operation Id="72c40f05-3664-44eb-b796-5e03aef7cbfb" name="MakeMaze" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="990dcb74-116d-43ba-89b8-8fe164aaddfc" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="331fa2ad-c127-45e0-b9e3-991098ebc8fd" direction="Return" isUnique="false">
+                  <elementDefinition Id="cde0a6ef-1faf-4076-b434-1ee46d006b01" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="be9968aa-0ffa-4730-9ef4-0eecfbf5123f" LastKnownName="Maze" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="bead4093-21ff-4c73-bf65-fac82eeada10" name="MakeWall" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="9c797991-5a6d-40ec-82a1-0b1b759dc348" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="41a085ea-cb82-460e-989f-f4193fc98fd3" direction="Return" isUnique="false">
+                  <elementDefinition Id="ddaa1cc3-d8cc-4f11-8cd5-f9db7c879e1d" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="2a24af3e-4bce-479f-8ab6-75ad9afe35e6" LastKnownName="Wall" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="da57ad7e-a5f1-474c-acc9-ca8935cea56a" name="MakeRoom" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="d8f0eb7a-b022-4242-9743-5f3dcfeb3520" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="36f00a5b-423e-4bf6-ada2-adcd81209a1a" name="int number" direction="In" isUnique="false">
+                  <elementDefinition Id="03a81fe5-5245-4935-b38a-1a60a5084458" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="95c762df-b192-42c5-abe3-cda4bd7739b7" direction="Return" isUnique="false">
+                  <elementDefinition Id="04e59c5c-ce5a-4760-a8a9-4f00ddfd8a16" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="2eeaab4a-e02b-41c9-ad14-39dfa19f172d" LastKnownName="Room" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="5f270579-f9fb-4262-8a1a-bb424d4e821f" name="MakeDoor" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="b9f7563f-e6f6-4e2d-9bb7-a62016ef2a8c" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="7df15db8-dffc-4ea0-86a6-4e6d2cddba1b" name="Room room1" direction="In" isUnique="false">
+                  <elementDefinition Id="227bfaba-4072-40a3-b22b-5926fba516e1" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="cb5b5e4e-0ff9-498a-8093-db63a5222081" name="Room room2" direction="In" isUnique="false">
+                  <elementDefinition Id="cf1fab6b-18fb-4eb1-85fa-95d36f9ac3db" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="f8d33387-3507-4581-ab91-a1002cfa9d09" direction="Return" isUnique="false">
+                  <elementDefinition Id="5ea650cc-b7fb-4010-95c8-1a64e24d86e0" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="da01d6ff-4354-44cb-8c77-dc2d6216fe7f" LastKnownName="Door" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="2a24af3e-4bce-479f-8ab6-75ad9afe35e6" name="Wall" isAbstract="false" isLeaf="false" cachedFullName="ModelingLabirint::Wall">
+        <elementDefinition Id="142f17d2-2123-4326-9987-eb7b5ec24ca2" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="da01d6ff-4354-44cb-8c77-dc2d6216fe7f" name="Door" isAbstract="false" isLeaf="false" cachedFullName="ModelingLabirint::Door">
+        <elementDefinition Id="9236fc25-c3d4-4a6e-bd0e-ab258466c732" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="50632ee4-a159-41ee-b6a5-826c6e7a3d6d" name="EnchantedRoom" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="be9c14a0-7abd-4fac-84f8-d36405a73612" />
+        <generalsInternal>
+          <generalization Id="e76d1964-07f9-434f-a604-d0ce29eff5f6" isSubstitutable="false">
+            <classMoniker Id="cc265530-2ee5-436b-a01a-1cf9b6dc4e6e" LastKnownName="Room" />
+            <elementDefinition Id="2c884b65-e2c4-451e-965e-5ad5d93e4892" />
+          </generalization>
+        </generalsInternal>
+        <ownedAttributesInternal>
+          <property Id="d7d319bc-a4b0-457b-ac05-4c0bdedce032" name="spell" visibility="Private" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="8d5db3df-31a5-420c-9cca-c86519cb0d6c" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="4cf7899f-ff0b-4b8c-bd6c-ed14651a37c5" LastKnownName="Spell" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="63f9919c-5fe6-4649-b9c1-5fc887d75aca" name="EnchantedRoom" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="f6d38406-a2f3-4dfe-ba74-d79070c38400" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="c87911b5-fa00-4eca-aaf8-1637b44052bd" name="int roomNo" direction="In" isUnique="false">
+                  <elementDefinition Id="21cadad0-f713-412f-a4c3-d9061559f753" />
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="5892561e-6e7c-40fc-a5e3-1921f98bf6bf" name="EnchantedRoom" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="8b66318d-ce24-4bcd-ade3-3b08e1e0fa30" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="bad16a1b-0a7d-4be3-816d-80e635874175" name="int number" direction="In" isUnique="false">
+                  <elementDefinition Id="38c31934-a057-4c52-970f-5877304a9921" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="e29fe204-ccd5-489c-abad-edac04d01eaf" name="Spell spell" direction="In" isUnique="false">
+                  <elementDefinition Id="feafd7e2-c690-4ab1-8b01-63d0046dab47" />
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="f39eb33b-5cdd-4214-988a-a9a3a6b65ddd" name="EnchantedMazeFactory" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="8570cc4d-c0e7-4879-a86e-2786210a57c6" />
+        <suppliersInternal>
+          <dependency Id="918144a1-604e-4642-84f3-951a2ec812eb">
+            <classMoniker Id="50632ee4-a159-41ee-b6a5-826c6e7a3d6d" LastKnownName="EnchantedRoom" />
+            <elementDefinition Id="0862adec-eef9-45e7-8b57-a6a069e460e2" />
+          </dependency>
+        </suppliersInternal>
+        <generalsInternal>
+          <generalization Id="d0d34adc-2475-4c8c-b491-b3898ecda66a" isSubstitutable="false">
+            <classMoniker Id="02a5620d-b455-47ec-8bff-92108ae812dc" LastKnownName="MazeFactory" />
+            <elementDefinition Id="0dd7d96b-660f-47fd-8042-84ed4436d0b1" />
+          </generalization>
+        </generalsInternal>
+        <ownedOperationsInternal>
+          <operation Id="ba25fee0-ce8f-441e-89dc-8c0ee3d5e472" name="EnchantedMazeFactory" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="975677a7-bde0-48cb-b66a-f6c8760f878c" />
+          </operation>
+          <operation Id="37c42764-1d9d-4680-a5b1-6c7f7ebb7093" name="MakeRoom" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="6953c79e-9f6c-41ac-824f-b7fd771cbde8" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="6337b959-bbec-4b6d-af8a-2cf81deb7e38" name="int number" direction="In" isUnique="false">
+                  <elementDefinition Id="c22d2e5a-ee75-43af-be34-a26bad35ca98" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="9661edb4-cf85-4c81-b639-15011136fe79" direction="Return" isUnique="false">
+                  <elementDefinition Id="91bdc7d5-4c78-4283-8396-46fbf966f270" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="2eeaab4a-e02b-41c9-ad14-39dfa19f172d" LastKnownName="Room" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="5ac83b7f-7cfa-4568-86c6-118aa8633b6d" name="MakeDoor" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="29d999b8-b7c8-463a-8aef-043652e11eeb" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="ab667e5d-182a-4d47-b60b-badaf20b2ee7" name="Room room1" direction="In" isUnique="false">
+                  <elementDefinition Id="5a6082a1-1585-4bad-9658-1009e07916e8" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="8a183971-12cd-4346-8f62-d3c07d0b3706" name="Room room2" direction="In" isUnique="false">
+                  <elementDefinition Id="a139eb06-60f0-4465-9f9b-1c206009ba9e" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="aa48869c-8beb-4b91-9135-3a7f092baaec" direction="Return" isUnique="false">
+                  <elementDefinition Id="73dae6a7-8943-4873-a09f-7b448c1a8628" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="da01d6ff-4354-44cb-8c77-dc2d6216fe7f" LastKnownName="Door" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="3ad37569-2eaa-4135-b288-1f8f345344ba" name="CastSpell" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="b35ece40-334a-4fc1-ba72-776408be8813" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="a12fb0a9-49bc-4f5c-836c-b3ad900fb0e1" direction="Return" isUnique="false">
+                  <elementDefinition Id="0831a8aa-64ff-4c68-8e58-717aa34a624d" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="4cf7899f-ff0b-4b8c-bd6c-ed14651a37c5" LastKnownName="Spell" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="4cf7899f-ff0b-4b8c-bd6c-ed14651a37c5" name="Spell" isAbstract="false" isLeaf="false" cachedFullName="Spell">
+        <elementDefinition Id="cd0aec34-f78b-4203-ac66-bbb18132370a" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="11e2bd66-adca-4e51-ac67-8fb35880ae9c" name="DoorNeedingSpell" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="02edaf8f-737f-4936-b283-ad2a01cc436c" />
+        <generalsInternal>
+          <generalization Id="bdb79d76-34d3-4082-bfc7-57a9d8ba13e8" isSubstitutable="false">
+            <classMoniker Id="09743776-e495-4d79-9fcf-74432edc82aa" LastKnownName="Door" />
+            <elementDefinition Id="ff1a769b-fa6a-4e21-af99-12e58039381c" />
+          </generalization>
+        </generalsInternal>
+        <ownedOperationsInternal>
+          <operation Id="1d33ba4d-1a80-4f94-a9b2-397f57d4e24f" name="DoorNeedingSpell" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="40494e0e-ad26-4de5-a00a-8c8db8c8e7ff" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="85b793c2-2cd8-497c-9329-a77a05b1d423" name="Room room1" direction="In" isUnique="false">
+                  <elementDefinition Id="168f5fdb-ca53-4f20-880d-87c23f3947e9" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="fac93fd6-3c0c-4731-98fc-2bd64f50c416" name="Room room2" direction="In" isUnique="false">
+                  <elementDefinition Id="918d10e2-2317-4e20-91f4-abe4a4fd9753" />
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="929cbea4-d701-4b22-a00c-f0975bc1ed98" name="RoomWithBomb" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="1ae3c747-3f1c-4601-a92f-3bc378c4ba89" />
+        <generalsInternal>
+          <generalization Id="addea0d6-9190-4094-8887-67460b0bb7a0" isSubstitutable="false">
+            <classMoniker Id="cc265530-2ee5-436b-a01a-1cf9b6dc4e6e" LastKnownName="Room" />
+            <elementDefinition Id="4efe111b-6fe8-4b74-9915-77591219ba38" />
+          </generalization>
+        </generalsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="b923fab0-6a5c-4005-b1f2-41a11e7d33be" name="BombedWall" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="2f28402a-574b-4601-9da3-deb6b8f1fb6d" />
+        <generalsInternal>
+          <generalization Id="32a07dc9-6e9e-4c0a-b926-8af9a8cca124" isSubstitutable="false">
+            <classMoniker Id="3ea89a18-e9d7-46b0-ba47-74dca9f48965" LastKnownName="Wall" />
+            <elementDefinition Id="5dc279f7-9bc0-4266-a7ac-74746b949fa0" />
+          </generalization>
+        </generalsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="5d1dc7d8-287f-477c-a6be-ab2602f45363" name="BombedMazeFactory" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="0197158d-e03c-4068-884d-a1c976a9c54e" />
+        <suppliersInternal>
+          <dependency Id="9afea8db-346f-4b53-a6a3-ac7deab54759">
+            <classMoniker Id="929cbea4-d701-4b22-a00c-f0975bc1ed98" LastKnownName="RoomWithBomb" />
+            <elementDefinition Id="67211687-cf19-4db2-8970-d0412e8fb493" />
+          </dependency>
+        </suppliersInternal>
+        <generalsInternal>
+          <generalization Id="edaf0d02-48db-48e5-b69a-02835662b505" isSubstitutable="false">
+            <classMoniker Id="02a5620d-b455-47ec-8bff-92108ae812dc" LastKnownName="MazeFactory" />
+            <elementDefinition Id="8df2f058-9342-43ea-9890-9f338a7939af" />
+          </generalization>
+        </generalsInternal>
+        <ownedOperationsInternal>
+          <operation Id="cba1da9b-48f9-4fae-9c35-9ae72d97592c" name="MakeWall" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="f5c38c83-53cd-4621-80fa-d8137d06e3a5" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="a40df241-d024-411b-8bb1-70ed932e1e51" direction="Return" isUnique="false">
+                  <elementDefinition Id="11a10286-85d3-452c-8bac-a74366ff7486" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="2a24af3e-4bce-479f-8ab6-75ad9afe35e6" LastKnownName="Wall" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="fa65a2d2-c99e-405d-9c98-8bc304398910" name="MakeRoom" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="98622fb2-839b-444d-b398-c6e27b62d3aa" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="c67e95e3-a2dd-4265-879e-3ec9f775cae1" name="int number" direction="In" isUnique="false">
+                  <elementDefinition Id="55bbc9e6-3d5e-442b-b5f0-2a38de2f2134" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="601db8bd-13d4-4962-b407-8359161546cc" direction="Return" isUnique="false">
+                  <elementDefinition Id="21578d4c-8d51-4442-b303-d83769ecd077" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="2eeaab4a-e02b-41c9-ad14-39dfa19f172d" LastKnownName="Room" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="87972321-902e-450d-af28-2e56397d1922" name="MazeBuilder" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="b4bf2857-0aad-435b-a01c-c5276dcecd01" />
+        <suppliersInternal>
+          <dependency Id="abc8517a-ff4a-4b4b-a4e4-6b99a3767b7d">
+            <classMoniker Id="5a7c1135-7a25-4c56-aeb9-e15fa81db94d" LastKnownName="Maze" />
+            <elementDefinition Id="16f3558d-8a19-412a-86f4-85ec118c74c0" />
+          </dependency>
+        </suppliersInternal>
+        <ownedOperationsInternal>
+          <operation Id="c317c42a-4d3f-47ab-97c1-e9d952ed441d" name="MazeBuilder" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="ea273ca0-3628-47aa-a9ed-4a0bd8a2885e" />
+          </operation>
+          <operation Id="c210a303-8086-46bd-b13e-0bc4dc83bff4" name="BuildMaze" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="4e5cf4f6-9f0b-4352-8256-2b44f485661f" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="f910d810-0f20-49b6-919f-d422627c752f" direction="Return" isUnique="false">
+                  <elementDefinition Id="5f859a0a-a6e5-482c-92a5-e6feb87865fd" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="e8db8ac5-d31e-40c6-9633-458bc7b1db5e" LastKnownName="void" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="1eec2770-8d9d-48f1-99cd-d62ea5cb7db1" name="BuildRoom" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="64c5bca2-984d-4933-aaaa-acb0bb06d285" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="de9b1a57-85a7-4538-a6b4-5eba248db1d3" name="int roomNo" direction="In" isUnique="false">
+                  <elementDefinition Id="f79ccdba-2736-4be5-b41c-62ec909f0350" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="25f89105-6725-4226-a44d-e5e9f16a4201" direction="Return" isUnique="false">
+                  <elementDefinition Id="6238054f-2c5c-46d0-bd3b-f28a53cb5bb2" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="e8db8ac5-d31e-40c6-9633-458bc7b1db5e" LastKnownName="void" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="888a4ef6-c726-4415-8689-f4e1fcdccd28" name="BuildDoor" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="1d0cf73a-6a42-4350-9460-e0cda03cd736" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="8914e246-0b65-4906-b781-32ff8ff6e370" name="int roomFrom" direction="In" isUnique="false">
+                  <elementDefinition Id="ad323695-2490-4d43-848d-036b0cc1f35c" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="7d6e3451-a4a8-4b48-a3b3-2e79ff468e60" name="int roomTo" direction="In" isUnique="false">
+                  <elementDefinition Id="92f740cd-176e-460a-a049-81b76bc333c0" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="b43e287b-6c9f-454a-a57e-3971957873a0" direction="Return" isUnique="false">
+                  <elementDefinition Id="1097eb03-02c2-4a9c-b502-464444dc0b78" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="e8db8ac5-d31e-40c6-9633-458bc7b1db5e" LastKnownName="void" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="a41a9ba8-e27f-49bb-9a42-1748d1994e08" name="GetMaze" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="5308b43f-fd1c-48a3-8613-ef7b52b5aebb" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="f645b37f-cfa0-41fc-a694-58b3ee8060fb" direction="Return" isUnique="false">
+                  <elementDefinition Id="317c391c-762e-472f-89f2-38de8e0565b3" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="be9968aa-0ffa-4730-9ef4-0eecfbf5123f" LastKnownName="Maze" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="2b8f0ccd-9bb1-4434-852a-837546f2f0c6" name="void" isAbstract="false" isLeaf="false" cachedFullName="void">
+        <elementDefinition Id="0653e978-2855-4bc8-919a-288e5b9e24ec" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="76ec744f-930b-4d20-a124-342a139e289b" name="Maze" isAbstract="false" isLeaf="false" cachedFullName="ModelingLabirint::Maze">
+        <elementDefinition Id="653b2f61-da28-44da-9a19-70d07b27617f" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="87bb5e9f-6e32-417b-ab81-d4c8aac337ef" name="StandardMazeBuilder" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="202c1e35-3ce7-4475-83cd-e4ed46b14b54" />
+        <suppliersInternal>
+          <dependency Id="b315ccb3-4448-4996-ab43-ef995199cf40">
+            <classMoniker Id="5a7c1135-7a25-4c56-aeb9-e15fa81db94d" LastKnownName="Maze" />
+            <elementDefinition Id="42067942-328b-4024-8455-ec4559a5710c" />
+          </dependency>
+        </suppliersInternal>
+        <generalsInternal>
+          <generalization Id="cce5ce5c-2b12-4c68-9d01-5a6ff73a8707" isSubstitutable="false">
+            <classMoniker Id="87972321-902e-450d-af28-2e56397d1922" LastKnownName="MazeBuilder" />
+            <elementDefinition Id="60cca24c-3446-4865-af30-1363fbcc828a" />
+          </generalization>
+        </generalsInternal>
+        <ownedAttributesInternal>
+          <property Id="d0041a64-bcf0-4402-99ff-36c704efe9cd" name="currentMaze" visibility="Private" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="7f394d1b-ca10-4632-82ea-769d4254d725" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="443a8ce6-f546-4a93-a20c-41950f8c5da3" LastKnownName="Maze" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="727504d8-a33a-476b-98c6-d3f05f79a82b" name="StandardMazeBuilder" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="4e63dda4-3994-459f-8bbb-20490ad775a1" />
+          </operation>
+          <operation Id="d1025677-0074-45ff-bb42-2bf46fb89478" name="BuildMaze" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="7576a4fe-c62f-44ed-9bca-ddfaead25f9b" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="dfb164b3-2326-45ac-ba71-2ae8d0f8be54" direction="Return" isUnique="false">
+                  <elementDefinition Id="c9beb85d-308e-4057-a04d-eca243e654dd" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="2b8f0ccd-9bb1-4434-852a-837546f2f0c6" LastKnownName="void" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="9f93b036-7e14-4d8a-b598-739ef525a2ef" name="BuildRoom" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="272b3816-6644-4743-aa34-0155de4ac7ae" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="01a76675-7e8b-483e-a54e-7c39381fd2f3" name="int roomNo" direction="In" isUnique="false">
+                  <elementDefinition Id="8da94476-7681-46bb-908e-aa9ddc0577e8" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="2cccf5bb-899a-4a2a-aee7-e24c503a8f99" direction="Return" isUnique="false">
+                  <elementDefinition Id="e22c4e84-fe1f-4bcd-a6c1-089523764bce" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="2b8f0ccd-9bb1-4434-852a-837546f2f0c6" LastKnownName="void" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="7c5b550f-c141-4212-93b7-980d99ec1e09" name="BuildDoor" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="82253f94-3fe4-4912-a010-f90e1b70854b" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="4d8e0a8c-0574-4698-a360-932f4acbcec8" name="int roomFrom" direction="In" isUnique="false">
+                  <elementDefinition Id="8d67fa37-7423-4af3-be7d-e247a58667de" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="7d5b4aad-41b3-422e-8fa0-4d4796e42996" name="int roomTo" direction="In" isUnique="false">
+                  <elementDefinition Id="c34574ae-88ad-459a-a13b-d76d83f651b0" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="f31b7d96-d7f5-4b89-8894-7eca6d448ae9" direction="Return" isUnique="false">
+                  <elementDefinition Id="77eaf788-5e65-418b-9e85-879a552e3b0d" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="2b8f0ccd-9bb1-4434-852a-837546f2f0c6" LastKnownName="void" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="2653a9a3-4aa9-4399-a8bd-871b75c866ca" name="GetMaze" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="9df26c3e-d6ec-41bd-8d07-44d0705cf802" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="3c8bccaa-c209-4fed-b90f-0d13c342a78b" direction="Return" isUnique="false">
+                  <elementDefinition Id="0866b298-4d4a-42f6-a555-5ed98389a58b" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="76ec744f-930b-4d20-a124-342a139e289b" LastKnownName="Maze" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="e154be4c-01e8-470f-970c-9739bd8204f9" name="CommonWall" visibility="Private" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="91844742-96db-4084-b687-4022a8df4955" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="d998e683-fc73-4d99-8e9b-e212c6c9de3d" name="Room room1" direction="In" isUnique="false">
+                  <elementDefinition Id="8ce04031-a6fd-414a-b8e0-d950cfe2c1b2" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="bf4637d6-f6ab-4d5f-81f5-1261fc8ad262" name="Room room2" direction="In" isUnique="false">
+                  <elementDefinition Id="ea62b81a-f5f2-4858-a6fb-657094fd463e" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="97d8856a-d729-4ef1-ae7e-a2d4e160a551" direction="Return" isUnique="false">
+                  <elementDefinition Id="cd157dd2-aff4-4bd8-8d3a-c7b379889368" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="da82797e-ca52-4bc3-b3e5-9d7821850f3d" LastKnownName="Direction" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="443a8ce6-f546-4a93-a20c-41950f8c5da3" name="Maze" isAbstract="false" isLeaf="false" cachedFullName="ModelingLabirint::Maze">
+        <elementDefinition Id="653b2f61-da28-44da-9a19-70d07b27617f" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="da82797e-ca52-4bc3-b3e5-9d7821850f3d" name="Direction" isAbstract="false" isLeaf="false" cachedFullName="ModelingLabirint::Direction">
+        <elementDefinition Id="909a49e6-1b65-405d-b477-5cd6d3c0d743" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="5a2045a2-6e6b-4268-b210-369e9be89c39" name="void" isAbstract="false" isLeaf="false" cachedFullName="void">
+        <elementDefinition Id="0653e978-2855-4bc8-919a-288e5b9e24ec" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="659b0910-661b-4fb3-ad80-c917b405954c" name="Maze" isAbstract="false" isLeaf="false" cachedFullName="ModelingLabirint::Maze">
+        <elementDefinition Id="653b2f61-da28-44da-9a19-70d07b27617f" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="7b2ccb13-bd0e-47f1-9dee-673eef5765f1" name="CountingMazeBuilder" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="d0fac23b-d8eb-4a11-b31f-755d419c4687" />
+        <generalsInternal>
+          <generalization Id="920af39a-8655-4a93-b6ad-5e68bf8274e9" isSubstitutable="false">
+            <classMoniker Id="87972321-902e-450d-af28-2e56397d1922" LastKnownName="MazeBuilder" />
+            <elementDefinition Id="bba1235e-1ed4-4d0a-9c3a-c99c5f0cd642" />
+          </generalization>
+        </generalsInternal>
+        <ownedAttributesInternal>
+          <property Id="024efdd1-2173-4a5e-9318-0cc7fdef385e" name="doors" visibility="Private" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="f3f5df96-2177-4f13-9849-580388f99f7c" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="d670da93-5f62-4f69-83bf-6225e4e6524d" LastKnownName="int" />
+            </type_NamedElement>
+          </property>
+          <property Id="ca33d757-807c-4f81-8413-6a96bcf11495" name="rooms" visibility="Private" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="8f65f2ae-36a1-4bdb-9601-65badd5680bd" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="d670da93-5f62-4f69-83bf-6225e4e6524d" LastKnownName="int" />
+            </type_NamedElement>
+          </property>
+          <property Id="5718011d-2331-45da-9841-f9f0b1a29741" name="CountRooms" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="f13db446-127e-4197-a5ca-efca24eb0494" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="d670da93-5f62-4f69-83bf-6225e4e6524d" LastKnownName="int" />
+            </type_NamedElement>
+          </property>
+          <property Id="95f19c08-91a1-442e-ae82-cca7f7f4a6f7" name="CountDoors" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="4c75676a-ef54-4970-a58d-09402dbb24f5" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="d670da93-5f62-4f69-83bf-6225e4e6524d" LastKnownName="int" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="a286f283-b22f-4f89-bdf4-07d344328945" name="CountingMazeBuilder" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="37ebfda8-afb4-4671-8821-368a8ff72e7b" />
+          </operation>
+          <operation Id="3eedea3c-0535-4b35-9510-862b76740925" name="BuildMaze" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="e1953b92-7e13-4833-81a3-5d08639abebf" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="af176274-6475-4ad9-a509-82b44cec719d" direction="Return" isUnique="false">
+                  <elementDefinition Id="49a05310-4cf3-40cd-bdf4-18f71bd7a9d7" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="5a2045a2-6e6b-4268-b210-369e9be89c39" LastKnownName="void" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="761ae8e9-e268-4c33-825c-015c3acaf692" name="BuildRoom" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="a002933b-3591-4ca7-8117-c5c2e2100df3" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="77272eb8-dcb2-4fa7-ba53-0a8a4b2e8002" name="int roomNo" direction="In" isUnique="false">
+                  <elementDefinition Id="16e27ba9-6cdc-44fb-880c-0e7519ef563f" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="6e05ca1a-828b-4027-9a8e-8a569a7ee085" direction="Return" isUnique="false">
+                  <elementDefinition Id="c25b74ee-0ad6-4e64-97d9-886c268bb234" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="5a2045a2-6e6b-4268-b210-369e9be89c39" LastKnownName="void" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="26410f29-86c8-46b1-afe8-ed28aee98c12" name="BuildDoor" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="4a6b7a40-d0c3-415b-8bfa-4460da5bc7f0" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="dd1e57ce-5a75-4a95-b484-9a5a937d3e0c" name="int roomFrom" direction="In" isUnique="false">
+                  <elementDefinition Id="3029ef18-e764-4c05-a65c-e62d517860d7" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="494f24f2-daa2-4d4b-a61a-90a7be7cd198" name="int roomTo" direction="In" isUnique="false">
+                  <elementDefinition Id="3bcde589-cca5-4a48-a633-9823ba5e5ce1" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="fb91a4eb-6bee-4318-94f0-9f4e5585e057" direction="Return" isUnique="false">
+                  <elementDefinition Id="98a067e9-f32e-45e6-af23-1dc94b19c775" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="5a2045a2-6e6b-4268-b210-369e9be89c39" LastKnownName="void" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="cd680ccb-1624-4b29-a5df-f0d3c1ea9e24" name="GetMaze" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="d7434384-046a-4721-8740-3846480680fe" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="1fd66bcf-80c7-4c65-b367-3e3baea4791e" direction="Return" isUnique="false">
+                  <elementDefinition Id="729182bd-2525-4c77-8c10-3549b9197049" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="659b0910-661b-4fb3-ad80-c917b405954c" LastKnownName="Maze" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="c9b8d036-8646-421a-b925-28fe42b84ead" name="AddWall" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="c57c647f-6742-4d0f-8808-0d1403feaec9" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="e845b84f-673b-4e0b-bfd7-f631fd180d2e" name="int i" direction="In" isUnique="false">
+                  <elementDefinition Id="4e98b8a4-e6bb-4ecf-aea2-fe46b00dfc46" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="3cc598c2-4989-453b-84a7-6c6bb48e84ba" name="Direction direction" direction="In" isUnique="false">
+                  <elementDefinition Id="9ee59b50-d863-4196-835f-d39caca93049" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="eba299e2-9d4a-42cf-ae81-efbd7ad6ab1d" direction="Return" isUnique="false">
+                  <elementDefinition Id="9bd631ec-8e84-4142-9239-962307f2745d" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="e8db8ac5-d31e-40c6-9633-458bc7b1db5e" LastKnownName="void" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="d670da93-5f62-4f69-83bf-6225e4e6524d" name="int" isAbstract="false" isLeaf="false" cachedFullName="int">
+        <elementDefinition Id="ec47f29b-9a03-4a5c-93b3-c02908c3859f" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="910ccbd5-24da-43cb-89da-caf100224213" name="EnchantedMazeGame" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="a1d996cb-3009-42a8-aff8-f2d5085a744e" />
+        <generalsInternal>
+          <generalization Id="77634235-f9e8-4c25-a818-badffae1f84c" isSubstitutable="false">
+            <classMoniker Id="e7f99fdd-50ab-45b7-9635-4e1301e85754" LastKnownName="MazeGame" />
+            <elementDefinition Id="28ab3c8e-435e-435d-98b5-a6344e749ebb" />
+          </generalization>
+        </generalsInternal>
+        <ownedOperationsInternal>
+          <operation Id="e968a8c3-867b-4758-9639-729873adb929" name="EnchantedMazeGame" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="cbfa12f9-ad93-48bc-9c3c-59b1b61a4b04" />
+          </operation>
+          <operation Id="91168777-df8e-497c-908e-01c3edd2b43a" name="MakeRoom" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="c784935b-022f-4bf0-a36d-98b307ec9f5f" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="4bb58ec2-0a17-44ec-ad48-e53b427e6459" name="int number" direction="In" isUnique="false">
+                  <elementDefinition Id="f98d0cd2-b953-4356-a58e-8182300de45a" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="90173d48-b04f-42ee-b4d3-d57e5126feb8" direction="Return" isUnique="false">
+                  <elementDefinition Id="58db3d0b-861e-4c4d-94bc-dc2df294d428" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="2eeaab4a-e02b-41c9-ad14-39dfa19f172d" LastKnownName="Room" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="12e152b6-043e-48fa-9e7c-670a90d4fb85" name="MakeDoor" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="bcfae2d1-48b8-4325-bb10-f3eb974a5b0e" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="c451eb8f-180e-4901-874e-e908b998a441" name="Room r1" direction="In" isUnique="false">
+                  <elementDefinition Id="72e10feb-95ee-4751-a2f0-997a1e2822e7" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="1f4abeb5-abdc-4abf-9f18-8506d34f6af5" name="Room r2" direction="In" isUnique="false">
+                  <elementDefinition Id="1c0875bf-0c48-4cdc-80a1-87bbb0a6ad02" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="747887bd-005f-491a-9398-ab09153ee5c2" direction="Return" isUnique="false">
+                  <elementDefinition Id="e7a00d68-6326-47d8-bbf1-bb28d1f08e50" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="da01d6ff-4354-44cb-8c77-dc2d6216fe7f" LastKnownName="Door" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="f9835931-3160-4336-8984-5125cb4b5aa3" name="CastSpell" visibility="Protected" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="a72dc15d-599e-490b-a4b2-44109d2f82cc" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="f62f1936-7e3d-4099-ac23-654a835c0d7e" direction="Return" isUnique="false">
+                  <elementDefinition Id="9e25126e-18d2-451e-8ce3-ff215cae1fc2" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="4cf7899f-ff0b-4b8c-bd6c-ed14651a37c5" LastKnownName="Spell" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="c743463e-3a94-4305-86a9-1433bc5bd148" name="BombedMazeGame" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="8755f84b-06a3-440b-8421-8415d5abfb9c" />
+        <generalsInternal>
+          <generalization Id="48c95725-6c12-438c-9153-558314085a6e" isSubstitutable="false">
+            <classMoniker Id="e7f99fdd-50ab-45b7-9635-4e1301e85754" LastKnownName="MazeGame" />
+            <elementDefinition Id="c8ef48c2-a494-40fb-b17f-07bfafa7a220" />
+          </generalization>
+        </generalsInternal>
+        <ownedOperationsInternal>
+          <operation Id="0cc298f7-560c-48ff-9470-168a3065ae1f" name="BombedMazeGame" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="3d43c614-54eb-42f3-8360-5cde2847f1a6" />
+          </operation>
+          <operation Id="3f15b0bf-b8c2-4cf2-8937-94e3149937a2" name="MakeWall" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="ff8e5c4c-a37c-45b6-b7d0-6fb3d8a47153" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="09e49df5-0436-44a8-8fbc-f2fb9342edc6" direction="Return" isUnique="false">
+                  <elementDefinition Id="e4b3e8cb-929e-4960-ba28-3b3cb974f6c8" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="2a24af3e-4bce-479f-8ab6-75ad9afe35e6" LastKnownName="Wall" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="79bde549-fdc6-4574-93fe-0614c6309a7b" name="MakeRoom" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="b86dcd09-49d8-43da-810a-e2c00cedb0af" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="77a85220-e789-4573-a73c-76a3c1bb461d" name="int number" direction="In" isUnique="false">
+                  <elementDefinition Id="d7461893-b43f-4bad-bc41-6254ad91eac2" />
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="a9e35112-77da-4ebd-843a-c91162130b60" direction="Return" isUnique="false">
+                  <elementDefinition Id="b96571fe-b563-445c-97c6-b49c1e2cf876" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="2eeaab4a-e02b-41c9-ad14-39dfa19f172d" LastKnownName="Room" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="faa44e80-8697-483d-947c-84ad03d12a00" name="MazeFactory" isAbstract="false" isLeaf="false" cachedFullName="ModelingLabirint::MazeFactory">
+        <elementDefinition Id="6ac542b7-f68c-49a0-920f-0c78698bde83" />
+      </referencedType>
+    </packageHasNamedElement>
+  </packagedElements>
+  <package Id="f1ad95ac-bd21-42a0-91cc-611a51935b89" name="ModelingLabirint">
+    <elementDefinition Id="e1a5acac-49cf-4c19-bf6c-2be91036d38d" />
+    <profileInstances>
+      <packageHasProfileInstances Id="6b9ecfe4-670c-4764-bc7c-37fe76d33b68">
+        <profileInstance Id="51f97e68-d018-4d1f-b013-d3666533b8bf" name="StandardProfileL2">
+          <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+        </profileInstance>
+        <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="e75cbde7-4c1b-4d47-94c1-ba30e4b6456a">
+        <profileInstance Id="f8014c7e-e2e3-4e21-ba81-a34b2870ca95" name="StandardProfileL3">
+          <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+        </profileInstance>
+        <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+      </packageHasProfileInstances>
+    </profileInstances>
+  </package>
+</logicalClassDesignerModel>

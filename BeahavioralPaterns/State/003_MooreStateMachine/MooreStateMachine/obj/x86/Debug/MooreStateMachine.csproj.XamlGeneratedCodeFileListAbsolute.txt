@@ -1,0 +1,4 @@
+obj\x86\Debug\_MooreStateMachine.g.cs
+obj\x86\Debug\Workflow1.g.cs
+obj\x86\Debug\MooreStateMachine_Workflow1_BeforeInitializeComponentHelper.cs
+D:\MooreStateMachine\MooreStateMachine\obj\x86\Debug\MooreStateMachine_Workflow1_CompiledExpressionRoot.cs
